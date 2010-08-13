@@ -1,0 +1,15 @@
+I got an idea for an application. Something I always wanted to do but never got around it. I am publishing it here in hope that somebody will read it and get interested enough to finally implement it.
+
+Motivation
+I have been using Yahoo! Bookmarks for the last few years and got used to having them all in one place - well organized and easily accessible from any device that I could connect to the Internet. But I also always wanted my bookmarks to be stored on my own server and published on my own site in the form of a (not so) tiny directory. I have found all the necessary scripts, adjusted them to my environment, added missing functionality, and so on. But it's still not as convenient as Yahoo! Bookmarks. So what is missing now is a browser toolbar that would allow saving bookmarks easily and in the organized way, without the need to leave the page you are currently reading and without the need to open another application or a browser window. I could have coded it a long time ago but for some weird idea that is sitting in my head and which I am going to talk about here.
+
+Idea
+I want a browser toolbar whose functionality is completely defined by the server through some simple protocol. This protocol should be simple enough to implement it with JavaScript.
+
+Usage
+This will be the ultimate toolbar that webmasters could utilize to provide their users with any custom service they would like. From the above-mentioned bookmarks to blogrolling, news aggregation, stock quotes, email notification, and so on. Imagine opening http://weather.com in your browser and instantly knowing that this site could provide you with, say, local weather alerts! Imagine being able to subscribe to this service with just a single button click!
+
+I could think of gazillions of various services seamlessly integrated into this mighty MetaToolbar. The need for custom toolbars will end and users will start happily removing all these numerous toolbars. Browser developers will recognize this trend and start supporting protocol out of the box. The name of the person to implement this first will enter the hall of fame and stay there forever... And so on, well, you get the idea.
+
+Implementation
+A few days ago, reading about Atom (http://www.intertwingly.net/wiki/pie/) I finally realized the way to approach this. It should be an HTTP/XML-based protocol that would introduce services supported by the server by listing them in the introspection file. Record for each service would include its type (button, menu, indicator, etc.) and a list of supported actions along with their signatures. Actions should be implemented using HTTP verbs like GET, POST, and so on. Authentication should be a standard option as well.

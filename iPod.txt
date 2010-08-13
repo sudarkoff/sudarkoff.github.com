@@ -1,0 +1,13 @@
+I have recently removed iPod holder [http://catalog.belkin.com/IWCatProductPage.process?Merchant_Id=&Product_Id=153999] from my car, because since a few weeks ago my commute became significantly shorter and it takes more time now connecting and disconnecting the iPod than the actual driving and listening to the music (I am not exaggerating).
+
+So I started digging the web in quest for a wireless solution and here's what I have found so far:
+
+Bluetooth
+
+There are some add-ons [http://www.extremetech.com/print_article/0,3998,a=110745,00.asp] add-ons allowing you to stream audio via Bluetooth.
+
+Wouldn't it be nice to have a USB/FireWire master port on the iPod, so that we could connect our cameras and camcorders directly to the thing? Also, we could print our pictures directly from the iPod (whould be nice to have a small color display for that as well). Or how about the Bluetooth for the same things plus <a href="http://www.theregister.co.uk/content/68/33702.html" title=""'Social Hardware' nears with Bluetooth iPod" By Andrew Orlowski, The Register">streaming the music to the nearby strangers</a> or a Bluetooth-enabled car audio system?
+
+Storing images on the device
+
+There are devices to download images off of your camera, store them and/or burn them to CD (<a href="http://www.mercurynews.com/mld/mercurynews/business/technology/personal_technology/7910335.htm" title=""Go ahead: Take all the photos you want" by Mike Langberg, Mercury News">read more</a>) and there's an <a href="http://store.apple.com/1-800-MY-APPLE/WebObjects/AppleStore?productLearnMore=T7418LL/A" title="Belkin iPod Media Reader">card reader add-on</a> for an iPod.

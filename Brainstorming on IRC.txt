@@ -1,0 +1,16 @@
+Using IRC-like channel with bot keeping track of the specially formatted messages and generating web page afterwards might be a good idea for group brainstorming sessions and could work like this:
+
+Joe> Bob: shell we discuss the today's meeting agenda?
+Bob> Why not
+Joe> bot: start Agenda
+bot> starting Agenda
+Joe> 1. Introduction
+Joe> 2. Discuss coding style
+Bob> Let's postpone coding style until Jack is back from Tokyo
+Joe> Yes, sounds like a good idea
+Joe> bot, remove (2)
+Joe> 2. Discuss release notes for beta1.5
+Joe> 2.1. List known bugs
+Bob> 2.2 Who's translating RN into Spanish?
+Joe> bot: publish Agenda
+bot> Agenda published at http://company.com/internal/2004-04-23/agenda.html

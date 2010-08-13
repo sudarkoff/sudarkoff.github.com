@@ -1,0 +1,72 @@
+##language:en
+
+This is still work in progress. Additions, suggestions and comments are more than welcome!
+
+== Music Library ==
+
+After long struggle with trying to sort through my huge collection of music and making it easier to navigate it on the iPod I have finally came up with the schema that works for me. It is still very sketchy, but as I think it might as well work for somebody else or someone could comment on it and influence its improvement, here's how I do it.
+
+From the very beginning I had an idea in mind that there could be no more that just a few useful rules to follow, otherwise the amount of attention needed to perform the task would create another source of confusion and distract from enjoing the music, which in the end is what it's all for. Rules cannot be too complex, they should be intuitive, easy to comprehend and following them should produce accurate results. The most complex rules should be executed only once or very rarely.
+
+My conditions are somewhat atypical, thus bear with me as I describe them, so that you don't argue with the points that are not applicable to my situation. First of all, I rarely use iTunes to listen to my music collection, 99 per cent of the time it's the sound coming out of my iPod. It would certainly be easier to use iTunes when sitting in front of my workstation in the office (where I spend 90 per cent of my listening time), but unfortunately we still have Windows NT 4 rulling our desktops around here. Therefore the main goal was to make navigation easy on the iPod.
+
+Second, I listen to way too many different music styles to care about accurate genre names. And it makes no difference for me whatsoever whether it's Hard Rock or Speed Metal, Traditional Jazz or Acid Jazz. Besides, sometimes it's realy difficult to attribute the piece to a single genre. For instance, "Paper Music" by Bobby McFerrin is just as much Jazz as it is Classical (to my subjective taste, that is). In my mind genre is just another reference point and there could be no more that just a few of them, otherwise they'll make a mess instead of an order. (Of course, it would help to have hierarchical genres support in iTunes/iPod, but let's work with whatever we have at our hands, shall we?)
+
+Finally, I virtually have no playlists that are not smart, auto-updated playlists. Being the [http://www.urbandictionary.com/define.php?term=uber-geek Ã¼ber-geek] I am, I like things happening automatically with a little to no extra effort on my part.
+
+All this combined lead to the following set of rules. First, it's what I do in iTunes:
+
+ * Keep genres limited to the very basic ones (Rock, Pop, Jazz, Classical - you get the idea. For more examples see http://en.wikipedia.org/wiki/List_of_musical_genres).
+ * Use the Grouping field to specify sub-genre and non-genre-related information (such as "Russian", "Children", "Adult Language", etc.)
+ * Create a set of smart auto-updated playlists (see examples below).
+ * Create a few "dumb" playlists for tunes that could not be put together automatically (see examples below).
+
+Then, on your iPod, as I listen to the song, I rate it according to the following scale:
+
+  || ***** || 5 stars || Absolutely the best song! ||
+  || ****  || 4 stars || Best song in its genre ||
+  || ***   || 3 stars || Good song, catchy tune ||
+  || **    || 2 stars || Okay song ||
+  || *     || 1 star  || Bad song (OR the quality of the track is not good, OR there's an error in metadata) ||
+
+It might help assigning all newly added songs three stars and adjust the rating later. This way, with a very large music collection, you could sync only songs rated three stars or higher to your player thus ensuring that new songs are always on the iPod. Another approach (which I like more) is to create a smart playlist that will include all songs added within last few days (or weeks, depending on your listening habits and frequency with which you add new music to your collection).
+
+
+== Smart Playlists Ideas ==
+
+These are the ones you could find on the apple.com site:
+
+ * '''Massive Beats''': ''Genre'' is Electronic
+ * '''Never Heard''': ''Play Count'' is 0
+ * '''Absolute Favorites''': ''My Rating'' is five stars
+ * '''Flavors of Mozart''': ''Composer'' contains Mozart AND ''Genre'' contains Classical
+ * '''New Releases''': ''Year'' is 2004
+ * '''Recently Played''': ''Last Played'' is within last N days
+ * '''Love Songs''': ''Song Name'' contains Love OR ''Album'' contains Love
+ * '''100 Newest''': Limit to 100 songs selected by ''Date Added''
+
+And some of what I currently have in my iTunes:
+
+ * '''Best of All''': Similar to Apple's "Absolute Favorites" - ''My Rating'' is five stars
+ * '''Absolute Hits''': Similar to "Best of All", plus ''Last Played'' is not within last two days
+ * '''Best of <Genre>''': ''Genre'' is <Genre> AND ''My Rating'' is higher than three stars
+ * '''[Group]''': ''Grouping'' contains <Group>
+ * '''Best of [Group]''': ''Grouping'' contains <Group> AND ''My Rating'' is higher than three stars
+ * '''Jogging''': ''BPM'' is in the range between 90 and 110
+
+These playlists are mostly for maintenance:
+
+ * '''.missing metadata''': Some of the metadata (''Genre'', ''Artist'', ''Title'', ''Album'', ''Year'', ''Track Number'', etc.) is missing. I use this playlist to fix missing metadata.
+ * '''.never heard''': ''Play Count'' is 0 [AND ''My Rating'' is not 0]. This is what I listen to, when I want to be surprized.
+ * '''.not rated''': ''Play Count'' is higher than 0 AND ''My Rating'' is 0 - often I don't bother rating songs as I listen to them, then later I could go through this playlist and rate songs post factum.
+ * '''.lengthy titles''': ''Time'' is larger than 30 min AND ''Genre'' doesn't contain ''Books'' - I use this playlist to see if I have albums that need to be split into tracks.
+ * '''.repair-remove''': ''My Rating'' is 1 - there's something wrong with this tune, either fix or remove it.
+
+And some "dumb" playlists:
+
+ * '''Current Reading''': the playlist I populate with audiobooks I am currently "reading".
+ * '''Repertoir''': the songs I play along with as a practice.
+ * '''Jogging''': the playlist of tunes good for running.
+
+
+TO BE CONTINUED...

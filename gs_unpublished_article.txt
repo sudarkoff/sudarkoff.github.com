@@ -1,0 +1,30 @@
+AUTHOR: sudarkoff
+TITLE: Confession of the programmer
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: __default__
+ALLOW PINGS: 0
+PRIMARY CATEGORY: technology
+CATEGORY: technology
+
+DATE: 04/06/2003 02:26:09 AM
+-----
+BODY:
+I've got myself a copy of the "<a href="http://us.imdb.com/Title?0091059">Flight of the Navigator</a>" last night. I remember, when I was a teenager, I went to the movies a dozen times within a few days to watch this film over and over again. I believe that among few other events in my life, this movie and the "<a href="http://us.imdb.com/Title?0091949">Short Circuit</a>", which came out the same year, have influenced my career choice the most.
+
+I was deep into soldering stuff those days: a universal laboratory power supply, a musical door chime, a simple drum machine... And yet I wasn't dreaming about a career in technology. I lived in a small city with one of the biggest sea ports in Russia - <a href="http://www.oakland-nakhodka.org/">Nakhodka</a>. Like all boys in our city, I was dreaming about the sea, I was seeing myself as a captain of a big ocean ship... These two movies changed my life completely.
+
+The instructor at a radio club I was a member of was married to a lady who was later teaching Fortran at my high school (weird choice of a programming language to teach at school, if you ask me), and they both were also working at the biggest Computer Center in the city. So with their help I started playing with an ES mainframe (a Russian copy of an IBM mainframe), and pretty soon I lost interest in putting transistors together and didn't touch the soldering iron ever since. Instead, I started having dreams with green characters flying before my eyes because of long hours spent in front of the mainframe console... Sixteen years gone by, I still spend long hours in front of my computer. And you know what? I love my job, I am crazy about technology, and I am happy that I watched those two movies back then!
+-----
+EXTENDED BODY:
+
+-----
+EXCERPT:
+
+-----
+KEYWORDS:
+
+-----
+
+
+--------

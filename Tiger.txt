@@ -1,0 +1,7 @@
+Yesterday I received my copy of Tiger - a new version of Mac OS X operating system. Upgrade took about an hour and required six clicks (if you count first double-click as two clicks) - most of them being OK button. Although I realize that it's a big upgrade (Spotlight, Automator, Dashboard, etc.), it doesn't really feel that way and so I feel cheated. But that doesn't mean I don't like Tiger, it just means that I am used to the world of Microsoft where each "big" upgrade is accompanied by (consisted only of) big visual changes.
+
+I find Spotlight an enormous leap forward for operating systems and expect others to catch up pretty quickly as it is not only useful - it is the whole new way of working with information. Like just a few minutes ago I launched ecto (a weblog client which I am using right now for writing this article) using Spotlight. How cool is that!
+
+Dashboard is also cool in that it comes "free" with the OS, so you don't have to buy Konfabulator separately (I wonder if their widgets are compatible or does it  make any sense to make them compatible in the future?).
+
+I didn't use Mail enough to say anything about it right now.

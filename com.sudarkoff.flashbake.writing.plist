@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>Label</key>
-	<string>com.sudarkoff.flashbake.allaboutfire</string>
+	<string>com.sudarkoff.flashbake.writing</string>
 	<key>LowPriorityIO</key>
 	<true/>
 	<key>ProgramArguments</key>

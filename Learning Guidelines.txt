@@ -1,4 +1,4 @@
-Learning Guidlines
+# Learning Guidlines
 
  * Release the need to be right.
  * Welcome one another's thoughts and opinions.

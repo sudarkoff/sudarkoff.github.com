@@ -1,7 +1,0 @@
-The idea for graphical design of a comic strip: (1) black background, (2) white silhouettes, (3) balloons should resemble tooltip balloons, (4) font should resemble grafiti. Characters' silhouettes could be derived from actual photographs.
-
-Content could include: (1) any geeky ramblings, (2) recaps of both personal and public events, (3) abstract mussings.
-
-Example:
-
-[Insert the pilot strip here]

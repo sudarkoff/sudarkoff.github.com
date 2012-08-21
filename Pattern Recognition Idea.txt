@@ -1,3 +1,0 @@
-I've been talking with to a friend of mine a couple of months ago and we were discussing an plug-in idea for iPhoto.
-
-So, the plugin should traverse though the collection of photos and rotate those taken with the camera in the portrait orientation. There are two cases that split the problem into two parts one of which is extremely easy to implement (that is, if iPhoto is not already doing it on itself) and another one which is "a tiny bit more difficult". The first case being if you lucky to have a camera, that is capable of detecting the portrait mode and inserting an appropriate flag into an EXIF metadata. For this case all

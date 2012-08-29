@@ -5,24 +5,20 @@ Start each new idea with a 2nd level title (##) followed by a date (if available
 
 
 ## Party Ideas
-
 - “Make your own Sundae” bar
 
 
 ## Aliens
-
 Their eyes are covered with skin because the sun in their world is very bright. So wherever they go, they carry around a million watt lighting system and of course lot's of living creatures are just simply die in this conditions. So the poor aliens don't see nothing...	
 
 
 ## Comic Strip
-
 The idea for graphical design of a comic strip: (1) black background, (2) white silhouettes, (3) balloons should resemble tooltip balloons, (4) font should resemble grafiti. Characters' silhouettes could be derived from actual photographs.
 
 Content could include: (1) any geeky ramblings, (2) recaps of both personal and public events, (3) abstract mussings.
 
 
 ## Brainstorming on IRC (or any other collaborative media)
-
 Using IRC-like channel with bot keeping track of the specially formatted messages and generating web page afterwards might be a good idea for group brainstorming sessions and could work like this:
 
 Joe> Bob: shell we discuss the today's meeting agenda?
@@ -42,14 +38,12 @@ bot> Agenda published at http://company.com/internal/2004-04-23/agenda.html
 
 
 ## Finding orientation of old digital photos
-
 I've been talking with to a friend of mine a couple of months ago and we were discussing an plug-in idea for iPhoto.
 
 So, the plugin should traverse though the collection of photos and rotate those taken with the camera in the portrait orientation. There are two cases that split the problem into two parts one of which is extremely easy to implement (that is, if iPhoto is not already doing it on itself) and another one which is "a tiny bit more difficult". The first case being if you lucky to have a camera, that is capable of detecting the portrait mode and inserting an appropriate flag into an EXIF metadata. For this case all
 
 
 ## Untitled (old ramblings)
-
 First, there goes my idea. I'm not sure how practical this idea is, it might cost a lot to do it properly, so don't judge it too hard, it's just a thought. Have you noticed how certain physical characteristics of the road affect the trajectory of your car, how on certain turns virtually every car slouches to one side of the lane, almost crossing it into the adjacent lane? So, instead of the radius of the turn being mathematically constant, how about making it to adapt to the road? As the road tilts inwards at the turn (internal side of the turn is lower), gradually make the radius of the turn smaller (you could probably even make the lanes narrower). And when the road tilts outwards, make the lanes wider. And make it change constantly depending on the tilt and perhaps other characteristics. (After writing it down, this idea makes even less sense to me than it did before. If we would be fixing anything, then why not fix those physical characteristics of the road that affect driving trajectory in the first place? And I'm now sure that's exactly what they are trying to achieve when building roads, maybe it's just not easy in certain conditions.)
 
 My idea started as a joke when I saw a shop named "Unfinished Furniture". Jokingly, I said to my wife: "a company selling unfinished software would be a real hit, ha-ha-ha!" Then I thought "wait a second, that's not such a bad idea for a web-site!" How often do you start writing something and then run out of time or desire to finish the project, but think it could be of use to somebody (even yourself)? Then, how often do you try to come up with something to code while learning a new programming language or a technology and can't think of anything meaningful? Another example of how such a web-site could be of use is when (finish the sentence) somebody drops the ball on a software tool that you have been using for ages and have grown to rely on, you just go and nominate this project on the "unfinished software" website and somebody hopefully comes across and picks it up.
@@ -58,7 +52,6 @@ Now, hang in there! My wife's idea is a whole lot better and it's about a new sa
 
 
 ## Smart Toolbar
-
 I got an idea for an application. Something I always wanted to do but never got around it. I am publishing it here in hope that somebody will read it and get interested enough to finally implement it.
 
 ### Motivation

@@ -61,4 +61,4 @@ $(DESTINATION)/%.docx: %.markdown
 # generate HTML files
 $(DESTINATION)/%.html: %.markdown
 	@echo " ** html    :" $@
-	${Q}$(PANDOC) --self-contained -o $@ $<
+	${Q}$(PANDOC) -o $@ $<

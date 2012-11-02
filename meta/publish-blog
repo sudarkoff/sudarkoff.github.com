@@ -1,0 +1,9 @@
+#!/bin/sh
+
+# Checkout files into a local directory
+LOCAL_COPY=/var/www/george.sudarkoff.com/src/
+GIT_WORK_TREE=${LOCAL_COPY} git checkout -f
+
+# Publish the changes
+make -C ${LOCAL_COPY} DESTINATION=${LOCAL_COPY%src/} publish
+

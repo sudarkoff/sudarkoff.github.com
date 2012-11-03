@@ -31,9 +31,11 @@ html: $(HTML)
 # generate HTML files
 $(DESTINATION)/%.html: %.markdown css
 	@echo " ** html    :" $@
+	@mkdir -p $(DESTINATION)/$(dirname $@)
 	${Q}$(PANDOC) $(PANDOC_HTML_OPTS) -o $@ $<
 
 css: meta/blog.css
 	@echo " ** css     :" $@
-	${Q}cp -f $< $(DESTINATION)/css/
+	@mkdir -p $(DESTINATION)/css
+	${Q}cp -f $< $(DESTINATION)/css
 

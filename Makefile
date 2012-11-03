@@ -13,7 +13,7 @@ PANDOC := pandoc
 
 # pandoc options
 # Liberation fonts: http://en.wikipedia.org/wiki/Liberation_fonts
-PANDOC_HTML_OPTS := -s -S -c /css/blog.css -A meta/blog_footer.html
+PANDOC_HTML_OPTS := -S -c /css/blog.css -A meta/blog_footer.html
 
 # Only .markdown files are considered full documents. Any supporting notes and memos that are not
 # to be converted should have either .md or .mdown extension.

@@ -22,7 +22,7 @@ PANDOC_EBOOK_OPTS := --toc --epub-stylesheet=epub.css --epub-cover-image=cover.j
 
 # Only .markdown files are considered full documents. Any supporting notes and memos that are not
 # to be converted should have either .md or .mdown extension.
-MARKDOWN := $(wildcard blog/*.markdown)
+MARKDOWN := $(wildcard blog/*.markdown make/*.markdown)
 PDF := $(patsubst %.markdown,$(DESTINATION)/%.pdf,$(MARKDOWN))
 EBOOK := $(patsubst %.markdown,$(DESTINATION)/%.epub,$(MARKDOWN))
 DOCX := $(patsubst %.markdown,$(DESTINATION)/%.docx,$(MARKDOWN))

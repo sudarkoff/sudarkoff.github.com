@@ -1,3 +1,7 @@
+% Interviewing Engineers
+% George Sudarkoff
+% 2012/08/21
+
 # Interviewing Engineers
 
 I've been on both sides of the technical interview process for over two decades now - most recently just a couple of weeks ago - and I have a few thoughts I wanted to share.

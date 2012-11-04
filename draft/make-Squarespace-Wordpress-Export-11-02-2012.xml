@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.2/">
+  <channel>
+    <title>George Sudarkoff</title>
+    <link>http://george.sudarkoff.com</link>
+    <pubDate>Tue, 17 Jul 2012 20:13:34 +0000</pubDate>
+    <description>Blogged Et Animam Levavi</description>
+    <language>en-US</language>
+    <wp:wxr_version>1.2</wp:wxr_version>
+    <wp:author>
+      <wp:author_id>1210604561</wp:author_id>
+      <wp:author_login>george@sudarkoff.com</wp:author_login>
+      <wp:author_email>george@sudarkoff.com</wp:author_email>
+      <wp:author_display_name><![CDATA[George Sudarkoff]]></wp:author_display_name>
+      <wp:author_first_name><![CDATA[George]]></wp:author_first_name>
+      <wp:author_last_name><![CDATA[Sudarkoff]]></wp:author_last_name>
+    </wp:author>
+    <wp:category>
+      <wp:cat_name><![CDATA[Personal - Software and IT]]></wp:cat_name>
+      <wp:category_nicename>Personal-SoftwareandIT</wp:category_nicename>
+      <wp:category_parent />
+    </wp:category>
+    <item>
+      <title>HOME</title>
+      <link>/home/</link>
+      <pubDate>Fri, 26 Oct 2012 18:41:14 +0000</pubDate>
+      <content:encoded><![CDATA[<div><img src="http://static.squarespace.com/static/5005c76ee4b0a695332229b8/5005c76ee4b0a695332229be/500f109be4b0dd34b35b85c1/1346268578132/#img.jpg" /><img src="http://static.squarespace.com/static/5005c76ee4b0a695332229b8/5005c76ee4b0a695332229be/500f066484aeab9f219c9403/1343162007998/IMG_4454%202.JPG" /><img src="http://static.squarespace.com/static/5005c76ee4b0a695332229b8/5005c76ee4b0a695332229be/500f0663e4b006cb9ec0a69f/1343161955029/IMG_4428.JPG" /><img src="http://static.squarespace.com/static/5005c76ee4b0a695332229b8/5005c76ee4b0a695332229be/500f01fac4aaf86e46856cc6/1343160841198/832084761_redrocks-3231.jpg" /><img src="http://static.squarespace.com/static/5005c76ee4b0a695332229b8/5005c76ee4b0a695332229be/50073de9e4b002842b321254/1343161990330/4155311983_1c52790204_o.jpeg" /><img src="http://static.squarespace.com/static/5005c76ee4b0a695332229b8/5005c76ee4b0a695332229be/5007082cc4aa2550d7b109fe/1342638215472/832144996_redrocks-3249.jpg" /><img src="http://static.squarespace.com/static/5005c76ee4b0a695332229b8/5005c76ee4b0a695332229be/500706bae4b0830aa8532c81/1342637949143/IMG_1427.JPG" /><img src="http://static.squarespace.com/static/5005c76ee4b0a695332229b8/5005c76ee4b0a695332229be/5005d485e4b046f04f5a5b9c/1343160463112/4600221621_dae588a8fb_o.jpg" /></div>]]></content:encoded>
+      <wp:post_name>home</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>0</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <wp:attachment_url>http://static.squarespace.com/static/5005c76ee4b0a695332229b8/5005c76ee4b0a695332229be/500f109be4b0dd34b35b85c1/1346268578132/#img.jpg</wp:attachment_url>
+      <link>http://static.squarespace.com/static/5005c76ee4b0a695332229b8/5005c76ee4b0a695332229be/500f109be4b0dd34b35b85c1/1346268578132/#img.jpg</link>
+      <title>attachment-500f109be4b0dd34b35b85c1</title>
+      <wp:post_name>500f109be4b0dd34b35b85c1</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>1</wp:post_id>
+      <wp:post_parent>0</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-500f109be4b0dd34b35b85c1]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-500f109be4b0dd34b35b85c1]]></excerpt:encoded>
+      <pubDate>Tue, 24 Jul 2012 21:16:11 +0000</pubDate>
+      <wp:post_date>2012-07-24 21:16:11</wp:post_date>
+      <wp:post_date_gmt>2012-07-24 21:16:11</wp:post_date_gmt>
+      <dc:creator>george@sudarkoff.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static.squarespace.com/static/5005c76ee4b0a695332229b8/5005c76ee4b0a695332229be/500f066484aeab9f219c9403/1343162007998/IMG_4454%202.JPG</wp:attachment_url>
+      <link>http://static.squarespace.com/static/5005c76ee4b0a695332229b8/5005c76ee4b0a695332229be/500f066484aeab9f219c9403/1343162007998/IMG_4454%202.JPG</link>
+      <title>attachment-500f066484aeab9f219c9403</title>
+      <wp:post_name>IMG-4454-2-JPG</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>2</wp:post_id>
+      <wp:post_parent>0</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-500f066484aeab9f219c9403]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-500f066484aeab9f219c9403]]></excerpt:encoded>
+      <pubDate>Tue, 24 Jul 2012 20:32:36 +0000</pubDate>
+      <wp:post_date>2012-07-24 20:32:36</wp:post_date>
+      <wp:post_date_gmt>2012-07-24 20:32:36</wp:post_date_gmt>
+      <dc:creator>george@sudarkoff.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static.squarespace.com/static/5005c76ee4b0a695332229b8/5005c76ee4b0a695332229be/500f0663e4b006cb9ec0a69f/1343161955029/IMG_4428.JPG</wp:attachment_url>
+      <link>http://static.squarespace.com/static/5005c76ee4b0a695332229b8/5005c76ee4b0a695332229be/500f0663e4b006cb9ec0a69f/1343161955029/IMG_4428.JPG</link>
+      <title>attachment-500f0663e4b006cb9ec0a69f</title>
+      <wp:post_name>IMG-4428-JPG</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>3</wp:post_id>
+      <wp:post_parent>0</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-500f0663e4b006cb9ec0a69f]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-500f0663e4b006cb9ec0a69f]]></excerpt:encoded>
+      <pubDate>Tue, 24 Jul 2012 20:32:35 +0000</pubDate>
+      <wp:post_date>2012-07-24 20:32:35</wp:post_date>
+      <wp:post_date_gmt>2012-07-24 20:32:35</wp:post_date_gmt>
+      <dc:creator>george@sudarkoff.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static.squarespace.com/static/5005c76ee4b0a695332229b8/5005c76ee4b0a695332229be/500f01fac4aaf86e46856cc6/1343160841198/832084761_redrocks-3231.jpg</wp:attachment_url>
+      <link>http://static.squarespace.com/static/5005c76ee4b0a695332229b8/5005c76ee4b0a695332229be/500f01fac4aaf86e46856cc6/1343160841198/832084761_redrocks-3231.jpg</link>
+      <title>attachment-500f01fac4aaf86e46856cc6</title>
+      <wp:post_name>832084761-redrocks-3231-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>4</wp:post_id>
+      <wp:post_parent>0</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-500f01fac4aaf86e46856cc6]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-500f01fac4aaf86e46856cc6]]></excerpt:encoded>
+      <pubDate>Tue, 24 Jul 2012 20:13:46 +0000</pubDate>
+      <wp:post_date>2012-07-24 20:13:46</wp:post_date>
+      <wp:post_date_gmt>2012-07-24 20:13:46</wp:post_date_gmt>
+      <dc:creator>george@sudarkoff.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static.squarespace.com/static/5005c76ee4b0a695332229b8/5005c76ee4b0a695332229be/50073de9e4b002842b321254/1343161990330/4155311983_1c52790204_o.jpeg</wp:attachment_url>
+      <link>http://static.squarespace.com/static/5005c76ee4b0a695332229b8/5005c76ee4b0a695332229be/50073de9e4b002842b321254/1343161990330/4155311983_1c52790204_o.jpeg</link>
+      <title>attachment-50073de9e4b002842b321254</title>
+      <wp:post_name>4155311983-1c52790204-o-jpeg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>5</wp:post_id>
+      <wp:post_parent>0</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-50073de9e4b002842b321254]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-50073de9e4b002842b321254]]></excerpt:encoded>
+      <pubDate>Wed, 18 Jul 2012 22:51:21 +0000</pubDate>
+      <wp:post_date>2012-07-18 22:51:21</wp:post_date>
+      <wp:post_date_gmt>2012-07-18 22:51:21</wp:post_date_gmt>
+      <dc:creator>george@sudarkoff.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static.squarespace.com/static/5005c76ee4b0a695332229b8/5005c76ee4b0a695332229be/5007082cc4aa2550d7b109fe/1342638215472/832144996_redrocks-3249.jpg</wp:attachment_url>
+      <link>http://static.squarespace.com/static/5005c76ee4b0a695332229b8/5005c76ee4b0a695332229be/5007082cc4aa2550d7b109fe/1342638215472/832144996_redrocks-3249.jpg</link>
+      <title>attachment-5007082cc4aa2550d7b109fe</title>
+      <wp:post_name>832144996-redrocks-3249-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>6</wp:post_id>
+      <wp:post_parent>0</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5007082cc4aa2550d7b109fe]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5007082cc4aa2550d7b109fe]]></excerpt:encoded>
+      <pubDate>Wed, 18 Jul 2012 19:02:04 +0000</pubDate>
+      <wp:post_date>2012-07-18 19:02:04</wp:post_date>
+      <wp:post_date_gmt>2012-07-18 19:02:04</wp:post_date_gmt>
+      <dc:creator>george@sudarkoff.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static.squarespace.com/static/5005c76ee4b0a695332229b8/5005c76ee4b0a695332229be/500706bae4b0830aa8532c81/1342637949143/IMG_1427.JPG</wp:attachment_url>
+      <link>http://static.squarespace.com/static/5005c76ee4b0a695332229b8/5005c76ee4b0a695332229be/500706bae4b0830aa8532c81/1342637949143/IMG_1427.JPG</link>
+      <title>attachment-500706bae4b0830aa8532c81</title>
+      <wp:post_name>IMG-1427-JPG</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>7</wp:post_id>
+      <wp:post_parent>0</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-500706bae4b0830aa8532c81]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-500706bae4b0830aa8532c81]]></excerpt:encoded>
+      <pubDate>Wed, 18 Jul 2012 18:55:54 +0000</pubDate>
+      <wp:post_date>2012-07-18 18:55:54</wp:post_date>
+      <wp:post_date_gmt>2012-07-18 18:55:54</wp:post_date_gmt>
+      <dc:creator>george@sudarkoff.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static.squarespace.com/static/5005c76ee4b0a695332229b8/5005c76ee4b0a695332229be/5005d485e4b046f04f5a5b9c/1343160463112/4600221621_dae588a8fb_o.jpg</wp:attachment_url>
+      <link>http://static.squarespace.com/static/5005c76ee4b0a695332229b8/5005c76ee4b0a695332229be/5005d485e4b046f04f5a5b9c/1343160463112/4600221621_dae588a8fb_o.jpg</link>
+      <title>attachment-5005d485e4b046f04f5a5b9c</title>
+      <wp:post_name>4600221621-dae588a8fb-o-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>8</wp:post_id>
+      <wp:post_parent>0</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5005d485e4b046f04f5a5b9c]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5005d485e4b046f04f5a5b9c]]></excerpt:encoded>
+      <pubDate>Tue, 17 Jul 2012 21:16:32 +0000</pubDate>
+      <wp:post_date>2012-07-17 21:16:32</wp:post_date>
+      <wp:post_date_gmt>2012-07-17 21:16:32</wp:post_date_gmt>
+      <dc:creator>george@sudarkoff.com</dc:creator>
+    </item>
+    <item>
+      <link>/about/</link>
+      <title>ABOUT</title>
+      <pubDate>Tue, 24 Jul 2012 20:08:06 +0000</pubDate>
+      <content:encoded><![CDATA[<p>​Hello, my name is&nbsp;<a href="http://en.wikipedia.org/wiki/George_(given_name)">George</a>. The name origin is Greek (Γεώργιος) and it means “farmer”: Γεώ – “earth”, εργο – “to work”. In Russian, which is my native language, it is Георгий (or Гоша, Жора and even Егор)—can you tell that Cyrillic alphabet was derived from Greek? But my russian friends call me Yura (Юра) or Yuri (Юрий)—it is much shorter, easier to pronounce and that is what I have in my Russian passport too. In Japanese, Yuri (ユリ) means “lily” and is often used to refer to all things lesbian.</p><p>I am a software developer by trade. Since the early nineties I’ve been writing software professionally and nowadays I enjoy it even more, because many more things are possible thanks to advances in the field. I have a full time job at a big networking company, and I also do various projects on the side. Often, my side projects are related to my hobbies, which include&nbsp;<a href="http://george.sudarkoff.com/ha/">electronics</a>, ham radio, rock climbing, running, biking, yoga,&nbsp;<a href="http://george.sudarkoff.com/cooking/">cooking</a>, playing musical instruments, writing,&nbsp;<a href="http://george.sudarkoff.com/make/">making physical things</a>&nbsp;and various&nbsp;<a href="http://george.sudarkoff.com/journal/">other pursuits</a>.</p><p>​</p>]]></content:encoded>
+      <wp:post_name>about</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>9</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <title>New C++11 lambda syntax</title>
+      <link>/make/2012/7/1/new-c11-lambda-syntax.html</link>
+      <content:encoded><![CDATA[<p>After you install GCC 4.7, you&#8217;ll need to make sure it is working. Here&#8217;s a little program I use to make sure new C++11 lambda is compiled properly.</p>
+
+<p><pre class="textmate-source zenburnesque"><span class='linenum'>    1</span> <span class="source source_c++"><span class="comment comment_line comment_line_double-slash comment_line_double-slash_c++"><span class="punctuation punctuation_definition punctuation_definition_comment punctuation_definition_comment_c++">//</span> New C++11 lambda syntax
+</span><span class='linenum'>    2</span> <span class="meta meta_preprocessor meta_preprocessor_c meta_preprocessor_c_include">#<span class="keyword keyword_control keyword_control_import keyword_control_import_include keyword_control_import_include_c">include</span> <span class="string string_quoted string_quoted_other string_quoted_other_lt-gt string_quoted_other_lt-gt_include string_quoted_other_lt-gt_include_c"><span class="punctuation punctuation_definition punctuation_definition_string punctuation_definition_string_begin punctuation_definition_string_begin_c">&lt;</span>iostream<span class="punctuation punctuation_definition punctuation_definition_string punctuation_definition_string_end punctuation_definition_string_end_c">></span></span></span>
+<span class='linenum'>    3</span> 
+<span class='linenum'>    4</span> <span class="storage storage_type storage_type_c">int</span><span class="meta meta_function meta_function_c"><span class="punctuation punctuation_whitespace punctuation_whitespace_function punctuation_whitespace_function_leading punctuation_whitespace_function_leading_c"> </span><span class="entity entity_name entity_name_function entity_name_function_c">main</span><span class="meta meta_parens meta_parens_c">()</span>
+<span class='linenum'>    5</span> <span class="meta meta_block meta_block_c"><span class="punctuation punctuation_section punctuation_section_block punctuation_section_block_begin punctuation_section_block_begin_c">{</span>
+<span class='linenum'>    6</span>     std::cout &lt;&lt; <span class="string string_quoted string_quoted_double string_quoted_double_c"><span class="punctuation punctuation_definition punctuation_definition_string punctuation_definition_string_begin punctuation_definition_string_begin_c">"</span>5^2 = <span class="punctuation punctuation_definition punctuation_definition_string punctuation_definition_string_end punctuation_definition_string_end_c">"</span></span> &lt;&lt; [](<span class="storage storage_type storage_type_c">int</span> a) <span class="meta meta_block meta_block_c"><span class="punctuation punctuation_section punctuation_section_block punctuation_section_block_begin punctuation_section_block_begin_c">{</span> <span class="keyword keyword_control keyword_control_c">return</span> a*a; <span class="punctuation punctuation_section punctuation_section_block punctuation_section_block_end punctuation_section_block_end_c">}</span></span>(<span class="constant constant_numeric constant_numeric_c">5</span>) &lt;&lt; std::endl;
+<span class='linenum'>    7</span>     <span class="keyword keyword_control keyword_control_c">return</span> <span class="constant constant_numeric constant_numeric_c">0</span>;
+<span class='linenum'>    8</span> <span class="punctuation punctuation_section punctuation_section_block punctuation_section_block_end punctuation_section_block_end_c">}</span></span></span>
+</span><span class='linenum'>    9</span> </pre></p>
+
+<p>To compile and execute, I issue the following command:
+<pre>g++-4.7 --std=c++11 -o a cpp11-lambda.cpp && ./a</pre></p>]]></content:encoded>
+      <excerpt:encoded />
+      <wp:post_name>2012/7/1/new-c11-lambda-syntax.html</wp:post_name>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>10</wp:post_id>
+      <wp:status>publish</wp:status>
+      <pubDate>Sun, 01 Jul 2012 17:37:45 +0000</pubDate>
+      <wp:post_date>2012-07-01 17:37:45</wp:post_date>
+      <wp:post_date_gmt>2012-07-01 17:37:45</wp:post_date_gmt>
+      <dc:creator>george@sudarkoff.com</dc:creator>
+      <wp:comment_status>open</wp:comment_status>
+    </item>
+    <item>
+      <title>C++11 on a Mac</title>
+      <link>/make/2012/6/6/c11-on-a-mac.html</link>
+      <content:encoded><![CDATA[<p><strong>UPDATE:</strong> Homebrew now has a formula for a fairly recent version of GCC (4.7.0 as of this writing), so the easiest way to install C++11 is by issuing the following commands:</p>
+
+<pre><code>brew tap homebrew/dupes
+brew install gcc --enable-cxx --enable-fortran --use-llvm
+</code></pre>
+
+<p>But if you&#8217;re interesting in installing the compiler(s) manually, keep reading.</p>
+
+<hr />
+
+<p>gcc 4.7 implements <a href="http://gcc.gnu.org/projects/cxx0x.html">most of the C++11 features</a>. This article outlines the steps required for installing the compiler on a Mac. I chose to install it in a separate folder so I could continue using the previously installed copy of gcc.</p>
+
+<p>Before proceeding, make sure that Xcode is installed and that your PATH, INCLUDE_PATH, LIBPATH and other related environment variables don&#8217;t have anything funny in them. Then download and untar: <a href="http://gcc.gnu.org/mirrors.html">gcc</a>, <a href="http://gmplib.org/">gmp</a>, <a href="http://www.mpfr.org/mpfr-current/">mpfr</a> and <a href="http://www.multiprecision.org/index.php?prog=mpc&amp;page=download">mpc</a>. Finally, build everything in the following order:</p>
+
+<p>Build and install gmp in the /usr/local/gcc-4.7 directory:</p>
+
+<pre><code>cd gmp-5.0.5/
+mkdir build &amp;&amp; cd build
+../configure --prefix=/usr/local/gcc-4.7
+make
+sudo make install
+</code></pre>
+
+<p>Then, build and install mpfr:</p>
+
+<pre><code>cd ../../mpfr-3.1.0/
+mkdir build &amp;&amp; cd build
+../configure --prefix=/usr/local/gcc-4.7 --with-gmp=/usr/local/gcc-4.7
+make
+sudo make install
+</code></pre>
+
+<p>Then, build and install the last prerequisite - mpc:</p>
+
+<pre><code>cd ../../mpc-0.9/
+mkdir build &amp;&amp; cd build
+../configure --prefix=/usr/local/gcc-4.7 --with-gmp=/usr/local/gcc-4.7 --with-mpfr=/usr/local/gcc-4.7
+make
+sudo make install
+</code></pre>
+
+<p>Finally, build and install gcc 4.7:</p>
+
+<pre><code>cd ../../gcc-4.7.0/
+mkdir build &amp;&amp; cd build
+../configure --prefix=/usr/local/gcc-4.7 --enable-checking=release --with-gmp=/usr/local/gcc-4.7 --with-mpfr=/usr/local/gcc-4.7 --with-mpc=/usr/local/gcc-4.7
+make -j 4 # NB! 4 represents the number of cores on my computer, adjust to your environment
+sudo make install
+</code></pre>
+
+<p>Now, you can create symlinks to the newly installed binaries. The absolute minimum that we&#8217;ll get you going is:</p>
+
+<pre><code>ln -s /usr/local/gcc-4.7/bin/gcc /usr/local/bin/gcc
+ln -s /usr/local/gcc-4.7/bin/g++ /usr/local/bin/g++
+</code></pre>
+
+<p>Alternatively, you can create symlinks for everything:</p>
+
+<pre><code># binaries
+for f in /usr/local/gcc-4.7/bin/*; do ln -s $f /usr/local/bin/`basename $f`; done
+# include files
+for f in /usr/local/gcc-4.7/include/*; do ln -s $f /usr/local/include/`basename $f`; done
+# libraries
+for f in /usr/local/gcc-4.7/lib/pkgconfig/*; do ln -s $f /usr/local/lib/pkgconfig/`basename $f`; done
+for f in /usr/local/gcc-4.7/lib/*; do ln -s $f /usr/local/lib/`basename $f`; done
+</code></pre>]]></content:encoded>
+      <excerpt:encoded />
+      <wp:post_name>2012/6/6/c11-on-a-mac.html</wp:post_name>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>11</wp:post_id>
+      <wp:status>publish</wp:status>
+      <pubDate>Wed, 06 Jun 2012 19:41:46 +0000</pubDate>
+      <wp:post_date>2012-06-06 19:41:46</wp:post_date>
+      <wp:post_date_gmt>2012-06-06 19:41:46</wp:post_date_gmt>
+      <dc:creator>george@sudarkoff.com</dc:creator>
+      <wp:comment_status>open</wp:comment_status>
+    </item>
+    <item>
+      <title>Miscellaneous Projects</title>
+      <link>/make/2012/5/10/miscellaneous-projects.html</link>
+      <content:encoded><![CDATA[<p>I often have projects that don&#8217;t fit in a predefined category. This is the place for those projects. Just a couple of examples below.</p>
+
+<h3>Knitting</h3>
+
+<h4>Felted clogs</h4>
+
+<p><a href="http://www.flickr.com/photos/sudarkoff/5538441917/" title="Black felted clogs by sudarkoff, on Flickr"><img src="http://farm6.static.flickr.com/5099/5538441917_c6260414d5.jpg" width="500" height="374" alt="Black felted clogs"></a></p>
+
+<p>I made three pairs of these - one for myself, one for my mom and one for my dad. More information on this pattern is available on my <a href="http://www.ravelry.com/projects/graknitter/felted-clogs-ac-33-2">Ravelry.com</a> page.</p>
+
+<h4>Felted laptop sleeve</h4>
+
+<p><a href="http://www.flickr.com/photos/sudarkoff/5494539115/" title="Felted laptop sleeve by sudarkoff, on Flickr"><img src="http://farm6.static.flickr.com/5259/5494539115_585386a1d6.jpg" width="500" height="374" alt="Felted laptop sleeve"></a></p>
+
+<p>It turned out much better than I expected. The christmassy color theme is not intentional - these are just the colors that looked good to me in the store. More information about this project is available on my <a href="http://www.ravelry.com/projects/graknitter/felted-laptop-sleeve">Ravelry.com</a> page. Since I &#8220;designed&#8221; this pattern, I&#8217;ll do a little write up about it here later.</p>
+
+<h3>Woodworking</h3>
+
+<h4>Wine Rack Ikea hack</h4>
+
+<p>We had this Ikea kitchen cart that we used as a wine rack for some time. But it wasn&#8217;t a very satisfying wine rack as the cart had only two shelves and we had to stack the bottles on top of each other and they would fall off the cart from time to time - it wasn&#8217;t pretty. So one day I decided to hack it and build a proper wine rack out of it. Here&#8217;s the result:</p>
+
+<p><a href="http://www.flickr.com/photos/sudarkoff/5778884040/" title="Ikea kitchen cart converted to wine rack by sudarkoff, on Flickr"><img src="http://farm6.static.flickr.com/5181/5778884040_d4351c796a.jpg" width="374" height="500" alt="Ikea kitchen cart converted to wine rack"></a></p>
+
+<p>The entire project took me about 4 hours (stretched over the course of two weekends) to build and I spent just under $50 on materials. I am quite satisfied with how it turned out. Someday I&#8217;ll post the details about it here.</p>]]></content:encoded>
+      <excerpt:encoded />
+      <wp:post_name>2012/5/10/miscellaneous-projects.html</wp:post_name>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>12</wp:post_id>
+      <wp:status>publish</wp:status>
+      <pubDate>Thu, 10 May 2012 23:35:59 +0000</pubDate>
+      <wp:post_date>2012-05-10 23:35:59</wp:post_date>
+      <wp:post_date_gmt>2012-05-10 23:35:59</wp:post_date_gmt>
+      <dc:creator>george@sudarkoff.com</dc:creator>
+      <wp:comment_status>open</wp:comment_status>
+    </item>
+  </channel>
+</rss>
+

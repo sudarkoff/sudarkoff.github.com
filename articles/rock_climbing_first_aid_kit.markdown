@@ -1,4 +1,6 @@
-**Disclaimer:** *I’m not a doctor, yadda-yadda-yadda. Simply having a first-aid kit in your pack is neither going to keep you safe, nor magically save somebody’s life if you have no idea how to use it. If you climb outdoors, do yourself a favor and take a Wilderness First Aid or a similar class.*
+Title: Rock Climbing First-Aid Kit
+Author: George Sudarkoff
+Date: June 26, 2012
 
 First of all, your kit should be appropriate for your level of training and for the environment you’re going to find yourself in. If you’re not qualified to perform a cricothyrotomy, then there’s no need to bring the implements. Likewise, heat exhaustion is probably not going to be a problem on an ice climbing trip.
 
@@ -25,3 +27,5 @@ Here’s an approximate list of items for a *climbing-specific first aid kit*:
 - Heat pad
 - Mylar rescue blanket
 - Notepad and pencil
+
+**Disclaimer:** *I’m not a doctor, yadda-yadda-yadda. Simply having a first-aid kit in your pack is neither going to keep you safe, nor magically save somebody’s life if you have no idea how to use it. If you climb outdoors, do yourself a favor and take a Wilderness First Aid or a similar class.*

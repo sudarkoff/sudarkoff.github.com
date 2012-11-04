@@ -1,2 +1,5 @@
 .DS_Store
-gen/
+cache
+node_modules
+*.iml
+.idea

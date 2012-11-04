@@ -2,8 +2,7 @@ Title: Markdown + Pandoc Workflow
 Author: George Sudarkoff
 Date: Fri, 26 Oct 2012 18:17:56 +0000
 
-Requirements
-============
+## Requirements
 
 This article outlines my setup and workflow for writing documents using
 [Markdown](http://daringfireball.net/projects/markdown/syntax) and
@@ -20,8 +19,7 @@ Main requirements for my workflow were:
 -   support for multiple target output formats
 -   automated publishing (through an external build system and such)
 
-Limitations
------------
+### Limitations
 
 Note that publishing is a one-way process in this workflow. If you
 publish on a Wiki, then you'll need to find a way to pull the changes
@@ -33,8 +31,7 @@ as a backend and therefore would have allowed me to push/pull to it
 directly, but presently the feature set is not complete enough to be a
 viable replacement.
 
-Workflow
-========
+## Workflow
 
 A lot of the pieces of this workflow are not strictly necessary - you
 can launch any text editor and start typing. And when you're done
@@ -45,8 +42,7 @@ multilingual), collaborating with multiple (potentially remote and
 offline) authors simultaneously and generating multiple output formats
 of the final document with a single command.
 
-SCM
----
+### SCM
 
 The first component of my workflow is an SCM. I happen to prefer
 [Git](http://git-scm.com/), but any reasonable SCM will do. Anything and
@@ -61,8 +57,7 @@ particular makes collaboration with multiple authors dramatically easier
 without stepping on each other's toes and then gracefully merge
 everything back together.
 
-Writing
--------
+### Writing
 
 Once again, I happen to prefer [Vim](http://www.vim.org/), but any
 reasonable editor would do (e.g.: [TextMate](http://macromates.com/) on
@@ -90,8 +85,7 @@ when you read the document. At the same time, it's easily convertible to
 a plethora of fancier-looking formats. Which brings us to the next tool
 - Pandoc.
 
-Pandoc
-------
+### Pandoc
 
 [Pandoc](http://johnmacfarlane.net/pandoc/) is the second secret
 ingredient. It takes Markdown (in addition to a half dozen other
@@ -100,8 +94,7 @@ Microsoft Word, PDF, EPUB and MediaWiki. Pandoc also introduces a few
 important extensions to Markdown that make it even easier to write
 content-rich documents. And all in plain text!
 
-Makefile
---------
+### Makefile
 
 Sure, you can just execute pandoc directly from the command line, but if
 your document consists of a couple dozen chapters and you need to
@@ -123,8 +116,7 @@ ideas, merge multiple revisions together, review the history of edits
 and so on. Using the software development tools makes sense. Especially
 if you're already familiar with them.
 
-Alternatives?
-=============
+## Alternatives?
 
 **What about Google Docs?** It's an okay editor that saves you from
 having to install Microsoft Office (or OpenOffice.org). It keeps the
@@ -151,8 +143,7 @@ Notepad to write a Markdown-formatted document, convert it into a nicely
 formatted document using Pandoc and forget about all that git-shmit
 mumbo-jumbo.
 
-Examples
-========
+## Examples
 
 The following text fragment is a Markdown-formatted first section of
 this article.

@@ -30,9 +30,9 @@ def handleChannel(channel):
 def handleItem(item):
    # Limit valid characters for a filename (that ultimately will become a link)
    # to just ascii letters, digits and the underscore.
-   valid_chars = frozenset("-%s%s" % (string.ascii_letters, string.digits))
+   valid_chars = frozenset("-.%s%s" % (string.ascii_letters, string.digits))
    linkname = getText(item.getElementsByTagName("link")[0].childNodes).rpartition('/')[2]
-   filename = "articles/%s.markdown" % ''.join(c for c in linkname if c in valid_chars)
+   filename = "articles/%s.markdown" % os.path.splitext(''.join(c for c in linkname if c in valid_chars))[0]
    print("%s" % filename)
    markdown = codecs.open(filename, 'w', 'utf-8')
 

@@ -1,0 +1,51 @@
+Title: The Edge
+Author: George Sudarkoff
+Date: Sun, 31 May 2009 23:40:00 +0000
+
+I experienced [The
+Edge](http://www.lifesongadventures.com/adult-camps/the-edge/ "The Edge")
+in May of 2008, and I still remember everything as if it had happened
+last night. Every time I walk by a cedar tree and catch a whiff of the
+wood, I am immediately reminded of my solo night that I spent in a
+[shelter made of cedar
+bark](http://www.flickr.com/photos/sudarkoff/2522649297/). I realize
+that after the Camp I became more aware of the surroundings and began to
+notice things around me that I failed to see before.
+
+![My shelter for the
+night.](http://farm4.static.flickr.com/3106/2523472020_96eb2363a1_d.jpg)
+
+The first part of the Camp was very educational and also great fun. We
+practiced starting a fire, learned how to build a shelter, how to find
+water and food, and everything else we needed to make our solo night
+more comfortable. In the meantime, along with the food for thought, we
+were fed a very nutritious and healthful diet consisting of brown rice,
+steamed veggies, and loads of fruit and nuts. If you don’t mind me
+sharing, by the end of the Camp whatever left my body was light brown in
+color and virtually odorless. I felt amazingly light on my feet and full
+of energy. Our survival meals were also memorable. Where else could I
+have learnt that a lizard tastes exactly like chicken? I only wished the
+little critter had had more meat on its bones!
+
+![Small cooking
+fire.](http://farm4.static.flickr.com/3085/2522646887_3c39214dbc_d.jpg)
+
+Of course my favorite part of the Camp was the solo night. Let me tell
+you, there is a huge difference between sleeping in a tent and spending
+a night lying on a pile of pine needles two feet away from the fire
+listening to a bear walking by. You see everything around you (well, as
+much as the night time allows you), you smell everything, you feel the
+breeze - all of your senses are sharpened by the Edge! By the end, I
+felt empowered and confident of my ability to survive in the wilderness.
+But boy, did I appreciate every ounce of the four huge Angus beef
+burgers that I devoured at the feast following our solo night! I am very
+grateful to Mark and Celeste for everything, and I can’t wait to join
+them for another adventure!
+
+##### Links
+
+-   [Flickr
+    pictures](http://flickr.com/photos/sudarkoff/sets/72157605253767832/)
+-   [Man Vs Wild and The
+    Edge](http://www.lifesongadventures.com/adult-camps/the-edge/ "Man Vs Wild and The Edge")
+

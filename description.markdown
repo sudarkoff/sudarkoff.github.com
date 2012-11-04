@@ -1,6 +1,6 @@
 ### About
 
-This is a personal blog of [George Sudarkoff][]. This site is powered by [Wheat][], a git based blogging engine written in [node.JS][]. The content for this site is stored in a private git repository.
+This is a personal blog of [George Sudarkoff][]. This site is powered by [Wheat][], a git based blogging engine written in [node.JS][].
 
 [George Sudarkoff]: http://george.sudarkoff.com
 [node.js]: http://nodejs.org/

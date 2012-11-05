@@ -2,7 +2,7 @@ Title: Rock Climbing First-Aid Kit
 Author: George Sudarkoff
 Date: Tue, 26 Jun 2012 23:05:37 +0000
 
-*******Disclaimer:** I’m not a doctor, yadda-yadda-yadda. Simply having
+**Disclaimer:** *I’m not a doctor, yadda-yadda-yadda. Simply having
 a first-aid kit in your pack is neither going to keep you safe, nor
 magically save somebody’s life if you have no idea how to use it. If you
 climb outdoors, do yourself a favor and take a Wilderness First Aid or a

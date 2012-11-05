@@ -132,25 +132,29 @@ dl a:hover {
     box-shadow: inset 0px 1px 0px rgba(0,0,0,0.10), inset 0px -1px 0px #fff, inset 0px 2px 2px rgba(100,100,100,0.10);
     line-height: 12px;
 }
-.article h1 {
+.article h1.title {
     padding: 20px;
     background-color: #fafafa;
     border-bottom: 1px dashed #ddd;
     font-size: 24px;
     line-height: 32px;
 }
+.article h1 {
+   padding: 10px 20px 0px;
+   font-size: 20px;
+}
 .article h2 {
     padding: 10px 20px 0px;
-    font-size: 20px;
+    font-size: 18px;
 }
 .article h3 {
     padding: 10px 20px 0px;
-    font-size: 18px;
+    font-size: 14px;
     line-height: 20px;
 }
 .article h4 {
     padding: 10px 20px 0px;
-    font-size: 14px;
+    font-size: 11px;
     line-height: 18px;
 }
 .article p,

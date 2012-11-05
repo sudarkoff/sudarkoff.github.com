@@ -14,8 +14,6 @@ to further thinking about things that are sound in theory but not very
 useful in practice. There seems to be some connection between "pure" and
 "impractical", don't you think?
 
-\
-
 In one of my previous posts I
 [argued](/2007/01/completeness_vs_consistency.html) that software
 systems are essentially incomplete. I thought it was an interesting
@@ -27,6 +25,3 @@ algorithms](http://en.wikipedia.org/wiki/Evolutionary_algorithm) come to
 mind). Same is true about programming languages. In fact, maybe this
 "impurity" is precisely why programming languages like C++ are so
 useful?
-
-\
-

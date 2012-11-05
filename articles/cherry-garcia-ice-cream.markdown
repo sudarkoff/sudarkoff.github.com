@@ -2,13 +2,14 @@ Title: Cherry Garcia ice cream
 Author: George Sudarkoff
 Date: Sat, 29 May 2010 21:44:00 +0000
 
-​I made this recipe a number of times and the results are always
+I made this recipe a number of times and the results are always
 excellent!
 
-**Prep Time**: 15 minutes \
+**Prep Time**: 15 minutes
+
 **Total Time**: 30 minutes
 
-### Ingredients
+## Ingredients
 
 -   2 eggs
 -   1/3 cup sugar
@@ -17,7 +18,7 @@ excellent!
 -   1/2 cup crushed dark chocolate
 -   1/2 cup fresh cherries
 
-### Directions
+## Directions
 
 -   Place the crushed chocolate (tiny solid chunks taste better than
     shaved flakes which tend to soften or even dissolve) and the pitted
@@ -40,7 +41,7 @@ excellent!
 -   Transfer into a storage container and place in the freezer for a few
     hours.
 
-### Yield
+## Yield
 
 This recipe make just over **1 quart** of delicious ice cream depending
 on the size of the eggs and the amount of chocolate and cherries. I

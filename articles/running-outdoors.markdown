@@ -2,11 +2,7 @@ Title: Running outdoors
 Author: George Sudarkoff
 Date: Sat, 02 Apr 2005 15:22:42 +0000
 
-\
-Yesterday I was running outdoors for the first time since high school (I
-did [run](/running/entry/2005/02/24) once along the beach about a month
-ago, but that hardly qualifies as a run as I walked most of the
-distance). I made a few discoveries:\
+Yesterday I was running outdoors for the first time since high school. I made a few discoveries:
 
 -   My mouth generates torrents of spit – something that never bothered
     me while I was running solely on a treadmill.
@@ -22,9 +18,5 @@ distance). I made a few discoveries:\
     shortest distance. I need some way of figuring out my pace and
     controlling it.
 
-\
 All in all, I had a great time running outdoors and am planning to do it
-more often now (if not always).\
-
-\
-
+more often now (if not always).

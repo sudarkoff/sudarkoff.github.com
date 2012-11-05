@@ -13,5 +13,4 @@ Since even the actual Walkman is now a **digital** music player, you
 don’t even need to bake any complex functionality into the player
 itself. The publisher would just embed the tags marking the explicit
 parts of a song in the track itself. The Walkman then would see a
-\<explicit\>dirty word\</explicit\> and mute the sound - Bob’s your
-uncle!
+"dirty word" and mute the sound - Bob’s your uncle!

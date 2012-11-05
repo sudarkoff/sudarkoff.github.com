@@ -2,9 +2,4 @@ Title: Ham Radio
 Author: George Sudarkoff
 Date: Thu, 10 May 2012 23:38:45 +0000
 
-I got my license
-([W6CLB](http://wireless2.fcc.gov/UlsApp/UlsSearch/license.jsp?licKey=3316770))
-in August of 2011. My initial motivation was to get a radio for climbing
-trips and emergency preparedness. But wouldn’t it be cool to also build
-a Ham Radio Controlled quadcopter that beams Amateur TV down to the
-ground for scouting climbing routes and whatnot? I think it would!
+I got my license ([W6CLB](http://wireless2.fcc.gov/UlsApp/UlsSearch/license.jsp?licKey=3316770)) in August of 2011. My initial motivation was to get a radio for climbing trips and emergency preparedness. But wouldn’t it be cool to also build a Ham Radio Controlled quadcopter that beams Amateur TV down to the ground for scouting climbing routes and whatnot? I think it would!

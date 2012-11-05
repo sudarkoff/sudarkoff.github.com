@@ -10,14 +10,9 @@ didn't have a player. Then I got a CD ROM drive for my PC. The drive was
 insanely expensive and had a feel of something that came from outer
 space.
 
-\
-
 Fast forward fifteen years -- I ripped everything I had to my hard drive
 and I listen to it on the iPod. I don't buy music on CDs anymore either.
 And finally six months ago, when I was moving from Los Angeles to San
 Francisco I gave a few hundred of my audio CDs -- everything I owned --
 to a friend of mine. So, RIP CD. It was the glorious 25 years and we
 will remember you kindly!
-
-\
-

@@ -12,8 +12,7 @@ bark](http://www.flickr.com/photos/sudarkoff/2522649297/). I realize
 that after the Camp I became more aware of the surroundings and began to
 notice things around me that I failed to see before.
 
-![My shelter for the
-night.](http://farm4.static.flickr.com/3106/2523472020_96eb2363a1_d.jpg)
+![](http://farm4.static.flickr.com/3106/2523472020_96eb2363a1_d.jpg)
 
 The first part of the Camp was very educational and also great fun. We
 practiced starting a fire, learned how to build a shelter, how to find
@@ -27,8 +26,7 @@ of energy. Our survival meals were also memorable. Where else could I
 have learnt that a lizard tastes exactly like chicken? I only wished the
 little critter had had more meat on its bones!
 
-![Small cooking
-fire.](http://farm4.static.flickr.com/3085/2522646887_3c39214dbc_d.jpg)
+![](http://farm4.static.flickr.com/3085/2522646887_3c39214dbc_d.jpg)
 
 Of course my favorite part of the Camp was the solo night. Let me tell
 you, there is a huge difference between sleeping in a tent and spending
@@ -41,11 +39,3 @@ But boy, did I appreciate every ounce of the four huge Angus beef
 burgers that I devoured at the feast following our solo night! I am very
 grateful to Mark and Celeste for everything, and I can’t wait to join
 them for another adventure!
-
-##### Links
-
--   [Flickr
-    pictures](http://flickr.com/photos/sudarkoff/sets/72157605253767832/)
--   [Man Vs Wild and The
-    Edge](http://www.lifesongadventures.com/adult-camps/the-edge/ "Man Vs Wild and The Edge")
-

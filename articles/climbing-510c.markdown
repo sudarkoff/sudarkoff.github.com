@@ -8,8 +8,6 @@ when I say "technique", I mean whatever I think is the right way of
 doing it. My hands still hurt after each climb and that is a sure sign
 that my "technique" is nowhere near where it should be.
 
-\
-
 I also tried climbing a very short 5.10c a couple of times and that is
 where I got some very interesting results. What's interesting is that
 the difficulty of this route meant that I couldn't just muscle through
@@ -21,6 +19,3 @@ it pretty well. In the end I failed to reach the top, but my hands were
 actually very well rested after the fifteen minutes of trying
 painstakingly and failing to attack the crux. I think it was a great
 technique exercise and I'll do it again next time.
-
-\
-

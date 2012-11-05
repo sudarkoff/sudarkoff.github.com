@@ -2,9 +2,7 @@ Title: Early Poems in Russian
 Author: George Sudarkoff
 Date: Sat, 21 Aug 2010 20:04:43 +0000
 
-Here's a bunch of poems I wrote in my teens (all in Russian, sorry). I
-haven't written a single line of poetry in over a decade, but reading
-these I feel like I just might start writing again.
+Here's a bunch of poems I wrote in my teens (all in Russian, sorry). I haven't written a single line of poetry in over a decade, but reading these I feel like I just might start writing again. Dumping it all here for posterity.
 
 ### Я произнес твое божественное имя...
 

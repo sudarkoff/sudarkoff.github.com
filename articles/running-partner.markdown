@@ -6,8 +6,6 @@ I realized something yesterday - I need a running partner or a group. So
 I started looking for a running club in and around of Calabasas. Here's
 how I figured I need a running buddy.
 
-\
-
 Yesterday night I headed out for a run. Finally, after a couple of weeks
 of hot weather and all my runs taking place on a dreaded treadmill, I
 was running outside and was enjoying it immensely. I was running a slow
@@ -21,6 +19,3 @@ whooping 7:30"/mi pace! And the most amazing part - it didn't feel all
 that hard, *it felt awesome*! So, first, I need to re-examine my
 training regimen. And second, I need a running partner that will push me
 a bit.
-
-\
-

@@ -2,29 +2,6 @@ Title: OS stability over time
 Author: George Sudarkoff
 Date: Wed, 20 Jun 2007 16:29:56 +0000
 
-I noticed an interesting phenomenon a couple of days ago. We all know
-that Windows is susceptible to rot. Things tend to disintegrate over
-time -- everything feels slower and buggier. That's why the accepted
-wisdom is to reinstall Windows from time to time. The other day a friend
-called from Vancouver -- she was having a problem with her microphone.
-It was working just fine a few days ago but suddenly stopped and there
-was nothing we could do to revive it. It was a fairly fresh install of
-Vista which came pre-installed with her new Dell laptop, so it appears
-that Vista rots even faster.
+I noticed an interesting phenomenon a couple of days ago. We all know that Windows is susceptible to rot. Things tend to disintegrate over time -- everything feels slower and buggier. That's why the accepted wisdom is to reinstall Windows from time to time. The other day a friend called from Vancouver -- she was having a problem with her microphone. It was working just fine a few days ago but suddenly stopped and there was nothing we could do to revive it. It was a fairly fresh install of Vista which came pre-installed with her new Dell laptop, so it appears that Vista rots even faster.
 
-\
-
-It is not so with Linux, though! Linux seems to be getting more and more
-stable the longer you use it (which at least seems natural). I installed
-Ubuntu Feisty a couple of months ago on my workstation at work and had
-been having weird audio problems ever since -- mp3's sounded as if 90
-per cent of the frequencies were redirected to /dev/null. I attempted to
-repair the problem but gave up after a short while due to the lack of
-experience in this kind of thing (I am a Mac user, our people don't get
-much practice debugging OS problems). But I kept trying to play mp3's
-for the next couple of weeks on days when I didn't have my iPod on me
-and one day, after downloading a routine update, it just worked.
-Awesome!
-
-\
-
+It is not so with Linux, though! Linux seems to be getting more and more stable the longer you use it (which at least seems natural). I installed Ubuntu Feisty a couple of months ago on my workstation at work and had been having weird audio problems ever since -- mp3's sounded as if 90 per cent of the frequencies were redirected to /dev/null. I attempted to repair the problem but gave up after a short while due to the lack of experience in this kind of thing (I am a Mac user, our people don't get much practice debugging OS problems - harhar). But I kept trying to play mp3's for the next couple of weeks on days when I didn't have my iPod on me and one day, after downloading a routine update, it just worked. Awesome!

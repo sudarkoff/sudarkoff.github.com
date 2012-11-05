@@ -2,7 +2,7 @@ Title: Running stride rate
 Author: George Sudarkoff
 Date: Mon, 12 Sep 2005 02:32:44 +0000
 
-Today I was running an improvised [5K race](/running/entry/80) (finished
+Today I was running an improvised 5K race (finished
 it in 28:45 minutes) and I noticed that my stride rate was ranging
 somewhere between 90 and 95 steps for each leg per minute. I thought it
 is a bit too frequent (i.e. my stride is too short) and I probably waste

@@ -2,15 +2,11 @@ Title: Evil Software Architects
 Author: George Sudarkoff
 Date: Wed, 08 Dec 2004 18:01:05 +0000
 
-> \
-> [To Software Architects: Serve End Users, Not Your
-> Egos](http://devx.com/opinion/Article/22649)\
-> \
+> [To Software Architects: Serve End Users, Not Your Egos](http://devx.com/opinion/Article/22649)
 > "When the architect job title slipped into the software development
 > lexicon, software engineers became more concerned with building
-> ego-driven monuments than functional skyscrapers."\
+> ego-driven monuments than functional skyscrapers."
 
-\
 I almost entirely agree with David on this subject – Software Architects
 shall not abuse their powers! On the other hand, I don't see this
 happening often enough to be a real problem. More frequently developers
@@ -21,9 +17,8 @@ feature, etc. I'd say, the problem is not architects using obscure
 language and creating academically sound, but practically unacceptable
 architectures, I'd say the problem is lack of experienced Software
 Architects, capable of establishing a proper level of communication
-within the team.\
+within the team.
 
-\
 On the subject of obscure terminology, I strongly believe that a common
 language (be it UML, design patterns or even just slang that enough
 engineers understand) is a very important component in any engineering
@@ -32,7 +27,4 @@ trying to explain simple and obvious ideas. Ideas, that many of us have
 implemented numerous times in the past. Besides, "singleton" is so much
 shorter and easier to use in the sentence than "a class which is meant
 to be instantiated once, and only once" (see
-[Wikipedia.org](http://en.wikipedia.org/wiki/Singleton)).\
-
-\
-
+[Wikipedia.org](http://en.wikipedia.org/wiki/Singleton)).

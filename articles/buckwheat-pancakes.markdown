@@ -12,7 +12,7 @@ easier.
 
 Buckwheat pancakes are best enjoyed with honey and hot tea.
 
-### Ingredients (by weight)
+## Ingredients (by weight)
 
 -   1 part organic buckwheat flour
 -   1 part whole wheat flour
@@ -21,7 +21,7 @@ Buckwheat pancakes are best enjoyed with honey and hot tea.
 -   1/2 part extra virgin olive oil
 -   salt and cinnamon to taste
 
-### Directions
+## Directions
 
 Separate egg whites from yokes. Mix yokes with flour, milk, olive oil,
 salt and cinnamon - don’t overdo it. At this point you should get a
@@ -32,7 +32,7 @@ you do not to lose too many air bubbles, they are what is going to make
 your pancakes fluffy and light. Pour 1/4 cup of batter on a lightly
 oiled pan and cook until ready on medium high heat.
 
-### Yield
+## Yield
 
 If you start with one egg and go from there, you should end up with 4-6
 pancakes depending on the size of the egg.

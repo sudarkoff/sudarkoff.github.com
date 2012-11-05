@@ -1,0 +1,72 @@
+Title: How To Rock Climb (And Really Enjoy It)
+Author: George Sudarkoff
+Date: Thu, 09 Sep 2010 05:09:51 +0000
+
+![First time climbing after the
+accident](http://farm5.static.flickr.com/4132/4973340226_fd1bcd7e4e.jpg)
+I'm sitting in a quiet cafe, on the second-floor terrace of the Borders
+store, sipping italian soda, soaking up the distant sounds of a spicy
+Mexican band, broken foot propped on a chair. And I can't help but
+wonder if I'll ever bicycle to work again. Don't get me wrong, I love
+biking a lot and my gas-hog of a car being totally awesome for outdoors
+is not so good for a 3-mile daily commute. But being grounded for two
+months because of a silly accident that didn't involve climbing is just
+too hard to process. Despite the reasoning being completely broken - an
+injury is an injury, climbing-related or not I'm still grounded - this
+is a welcomed turn of mood, however.
+
+I started climbing exactly two years ago and I've never been sidelined
+by an injury in all this time. I slowly progressed through the grades
+and was inching in on the coveted 5.12's. The last project I was working
+on before the accident was a short, negative and pumpy 5.11d. I
+attempted to redpoint it five or six times and was getting closer to
+sending it, but I was peeling off the same second-to-last move. The
+frustration with my lack of progression and inability to learn grew
+bigger with every failure. Because I was not getting results, I was
+starting to dread doing something I supposedly loved. How did I get from
+the shivers of excitement to the dread of anticipating a failure without
+even noticing it?
+
+A couple of months ago my girlfriend and I visited Squamish - a stellar
+climbing destination in British Columbia. Fantastic cracks, mind
+boggling slabs and plentiful bouldering - a dream destination. On our
+first climbing day we decided to try an unknown crack at the base of the
+Chief's Bulletheads wall. I didn't know the grade of the route, but but
+it looked within my range. We swung by the wall, I quickly racked up and
+Adrienne took me on belay. The first moves were solid and I proceeded to
+jam a few feet before stopping to place some gear. The crack was dirty
+and my pro felt sketchy. The next section was too wide for jamming and
+required a transition from solid secure jamming to strenuous and
+precarious laybacking. But I kept my feet high and moved past those few
+feet to a good stance with perfect hand-sized gear placements. But then
+the following ten feet were too wide for pro and too runout to afford a
+fall on a slabby wall below. I spent a few minutes getting enough
+courage to climb that section. But when I reached the next solid hand
+jam and placed a cam, my enthusiasm evaporated completely - directly
+above me was a bolt, but the hanger was spinning like an Aspen leaf in a
+light summer breeze. And the bolt itself was moving quite a bit. This is
+where I needed to think clearly and I wasn't. All I could think about
+was how crappy that bolt was. I was picturing myself falling and pilling
+the bolt out. In a haze of frustration my decision was to place a nut,
+equalize it with the bolt and lower to the ground, cleaning on the way
+down. And so I did.
+
+But the bolt was unnecessary - I was sitting in a perfect hand crack
+with plenty of potential for bombproof gear placements. I just needed to
+place a couple of pieces and move on to the roof traverse. However,
+earlier looking at that lengthy traverse from the ground, I decided that
+if I found it too hard, it would be okay to leave some gear and bail.
+
+So how did a beautiful climb within my range turn into a disappointment
+so quickly? The answer is simple - it didn't, it was doomed from the
+start. I made a prediction and then worked hard to make it true. Our
+mood, our emotions are not created outside of our brains. The way we
+react to things is influenced by the language we use to think and talk
+about our experiences. (Have you noticed that great climbers call scary
+climbs "exciting"?) It's hard to enjoy a dirty crack with insecure
+stances and sketchy pro. But it's an entirely different experience when
+you think of the same route as a pristine, adventurous one, with thin
+gymnastic stances and creative pro. When you fail the same impossible
+move twenty times in a row - it's no fun. But when you learn something
+new and interesting about your body and mind every time you fall - you
+can do it all day long and never get bored or discouraged.

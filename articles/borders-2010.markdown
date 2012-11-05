@@ -1,4 +1,4 @@
-﻿Title: Borders 2010
+Title: Borders 2010
 Author: George Sudarkoff
 Date: 2010-09-06
 

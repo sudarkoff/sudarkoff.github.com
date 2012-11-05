@@ -15,7 +15,7 @@ def getText(nodelist):
    return ''.join(rc)
 
 def htmlToMarkdown(htmlText):
-   pandoc = Popen(['pandoc', '-f', 'html', '-t', 'markdown'], stdout=PIPE, stdin=PIPE, stderr=STDOUT)
+   pandoc = Popen(['pandoc', '-f', 'html', '-t', 'markdown', '--atx-headers'], stdout=PIPE, stdin=PIPE, stderr=STDOUT)
    markdown = pandoc.communicate(input=htmlText.encode('utf-8'))[0]
    return markdown
 

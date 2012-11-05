@@ -1,9 +1,0 @@
-﻿The Poetry of Programming
-
-[Interview][1] with Richard Gabriel of Sun Microsystems:
-
-> If I were writing a very long poem with many parts, I would be thinking, "Okay, how does this piece fit in with the other pieces? How is it part of the bigger picture?" When coding, I'm doing similar things, and if you look at the source code of extremely talented programmers, there's beauty in it. There's a lot of attention to compression, using the underlying programming language in a way that's easy to penetrate. Yes, writing code and writing poetry are similar.
-
-When I was known mostly as a rock poet some twenty years ago (you know, everyone's a rock poet when eighteen), I was interviewed on the local radio of some big Siberian town. The central line of the discussion was about how my attending computer science department of the local university is affecting my poetry. At that time I was pretty sure programming affects my poetry and the interviewer agreed calling my poetry "strange and interesting". What I was **not** aware of is that it works the other way aroung as well, that poetry affects my programming too. At the very least, I try to write well structured and well "rhymed" code. I like my poems to be short, sometimes *really short* and I try to keep my code as concise as possible. I am not the one to judge the beauty of the programs I write but I certainly do have this goal in mind while coding.
-
-[1] http://java.sun.com/features/2002/11/gabriel_qa.html

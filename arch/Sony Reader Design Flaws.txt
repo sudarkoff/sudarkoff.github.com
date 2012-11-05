@@ -1,9 +1,0 @@
-I am absolutely loving my new toy -- Sony Reader -- that my wife bought me as an early birthday present. [A few good words about the device.] But there are couple of things that could have been done better in my opinion (I am making a lot of assumptions here).
-
-Firstly, is the row of shortcut buttons that runs along the bottom edge of the screen - it should be moved to the right edge, where corresponding menu tabs usually situated on the screen. It solves two problems: (1) having to move the eyes between the menu item, it's number written on the tab and the hardware button marked with this number; (2) having to map the position in the book to the percentage number... [horrible wording]
-
-[Picture that illustrates the idea.]
-
-Secondly, the flashing screen "feature" is trying to satisfy two conflicting requirements: (1) keep the screen black long enough to reduce (or better yet eliminate) any "memory" effects of the screen and (2) display the new page as soon as possible for a smooth reading experience. I think this could be done a bit smarter. Refresh the screen in a wave-like motion starting from the top of the screen, where users start reading the page, and continue down the bottom in a slower pace to keep the screen black for longer.
-
-[Simulated video or simply a diagram]

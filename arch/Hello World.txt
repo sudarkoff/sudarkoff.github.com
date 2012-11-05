@@ -1,3 +1,0 @@
-It's been long since I posted anything here. Besides it's not even the evening yet. Nonetheless, I want to write this just to "re-start" my using of this journal.
-
-Just a few minutes ago I fixed a bug that has already been fixed once a year ago but never got merged back to main branch. Alignment epilog was placed inside the alignment loop block so ifthere was an exception the epilog was never executed causing the system to stay in undefined state and thus fail all subsequent alignment attempts. Today is the last day of the source inspection and should the customer (AMD) not threaten us not to sign the shipment of the tool, we would never have fixed this problem. Amazing!

@@ -2,14 +2,14 @@ Title: Markdown + Pandoc Workflow
 Author: George Sudarkoff
 Date: Fri, 26 Oct 2012 18:17:56 +0000
 
-# Requirements
-
 This article outlines my setup and workflow for writing documents using
 [Markdown](http://daringfireball.net/projects/markdown/syntax) and
 [pandoc](http://johnmacfarlane.net/pandoc/). This is a workflow that I
 personally find natural and convenient. There are some very important
 limitations (discussed below), but I've been successfully using this
 workflow for quite some time and it seems to be working great.
+
+# Requirements
 
 Main requirements for my workflow were:
 

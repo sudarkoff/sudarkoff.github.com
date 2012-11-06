@@ -1,4 +1,6 @@
-# Rock Climbing lessons
+Title: Rock Climbing Lessons
+Author: George Sudarkoff
+Date: 2012-11-05 22:34:49 PDT
 
 There are many lessons to be learned from rock climbing, but the following three are the main ones for me. 
 

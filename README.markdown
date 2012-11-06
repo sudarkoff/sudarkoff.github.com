@@ -1,19 +1,31 @@
 # g.sud.to
 
-This is a personal blog of George Sudarkoff. The website is powered by a new static blog engine written in node.js called [wheat][].
+The website is powered by a new static blog engine written in node.js called [wheat][].
 
 [wheat]: http://github.com/creationix/wheat
 
-### Article format
+### Publishing
 
 Every article is a markdown file with some meta-data at the top of the file.
 
-    Title: Control Flow in Node Part II
-    Author: Tim Caswell
-    Date: Thu Feb 04 2010 02:24:35 GMT-0600 (CST)
-    Node: v0.1.91
+    Title: Awesome Title
+    Author: George Sudarkoff
+    Date: 2012-01-01
 
-    I had so much fun writing the last article on control flow, that I decided to...
+When ready to publish, move the article to the articles/ folder:
+
+    $ git mv drafts/article-title.markdown articles/
+
+Then commit and push to the `blog` remote:
+
+    $ git ci -m"Publish article-title.markdown."
+    $ git push blog origin
+
+### Article format
+
+Articles is a markdown file and **must** have the .markdown extension.
+
+    I had so much fun writing previous article, I decided I'm a writer now. So here goes the sequel.
 
     ## First section: Display JavaScript files
 

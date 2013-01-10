@@ -2,7 +2,7 @@ Title: Key Git Concepts
 Author: George Sudarkoff
 Date: 2013-01-10 15:19:59
 
-'''This article was written by my colleague Filip Machi. Published here with his approval.'''
+*This article was written by my colleague Filip Machi. Published here with his approval.*
 
 Understanding a few key concepts will help you make sense of how Git works and how to use it effectively.
 

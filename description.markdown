@@ -5,6 +5,5 @@ This is a personal blog of [George Sudarkoff][] (that's me). I write about techn
 This site is powered by [Wheat][], a git based blogging engine written in [node.JS][].
 
   [George Sudarkoff]: http://george.sudarkoff.com
-  [George]: http://en.wikipedia.org/wiki/George_%28given_name%29
   [Wheat]: http://github.com/creationix/wheat
   [node.JS]: http://nodejs.org/

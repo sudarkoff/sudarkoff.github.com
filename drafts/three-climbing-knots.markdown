@@ -1,14 +1,18 @@
-# The Three Underappreciated Knots that are Guaranteed to get you Laid
+Title: Three Under-appreciated Climbing Knots with Magical Powers
 
 ## Bowline
-There are many reasons why **everybody** needs to learn bowline.
+There are many reasons why **everybody** needs to learn the bowline.
 
-Pros: easy to untie
+Pros: easy to tie (including one-handed), easy to untie after repeated loading...
 
-Cons: easy to untie - never use without a backup, not a lot of people know it - won't be able to double-check
+Cons: can work itself completely undone if not backed up, not a lot of people know it - won't be able to double-check you.
 
 Different ways to backup.
 
-## Bowline stopper
+### Anchor
+
+One-, two- and three-piece equalized anchor. Including tying off guy-lines, attaching rope to your waist, etc.
+
+### Bowline stopper
 
 ## Alternative to clemheist (what's the name?)

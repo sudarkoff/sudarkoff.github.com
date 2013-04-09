@@ -16,4 +16,8 @@ One-, two- and three-piece equalized anchor. Including tying off guy-lines, atta
 
 ### Bowline stopper
 
-## Alternative to clemheist (what's the name?)
+### Ways to tie
+
+### Ways to backup
+
+

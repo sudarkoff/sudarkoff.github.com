@@ -2,8 +2,6 @@ Title: Why I switched from MacPorts to Homebrew
 Author: George Sudarkoff
 Date: Thu, 11 Jul 2013 10:13:21 PDT
 
-# Why did I switch from MacPorts to Homebrew
-
 This is my unscientific observations about and the reasons I switched from MacPorts to Homebrew. Some of this reasons are no doubt subjective. But that doesn't mean they are not important to me.
 
 ## Main reasons

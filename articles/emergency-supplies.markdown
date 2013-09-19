@@ -1,8 +1,6 @@
-Title: Ham Radio
+Title: Emergency Supplies
 Author: George Sudarkoff
 Date: 2013-09-18
-
-# Emergency Supplies
 
 **This document is a work in progress.**
 

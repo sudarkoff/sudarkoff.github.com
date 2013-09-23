@@ -27,14 +27,14 @@ If treated properly, water can reliably be stored for 5 (recommended) and in som
 ## Calories
 
     calories per person per day = 2,600cal # for a moderately active middle aged male
-    
+
     supply of calories = persons * days * calories per person per day
         => 156,000cal
-    
+
     clif builders bar = 270cal
-    energy bars = supply of calories / clif builders bar # just for scale
-        => 577.7778
-    
+    energy bars = ceil(supply of calories / clif builders bar) # just for scale
+        => 578
+
 **To be continued...**
 
 ## Gas

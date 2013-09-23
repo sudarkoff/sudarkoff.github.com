@@ -2,6 +2,8 @@
 
 A worksheet for calculating dimensions for plywood drawers constructed with a simple rabbet joint.
 
+![Simple plywood drawer](https://farm3.staticflickr.com/2827/9904065054_f1d6444417.jpg)
+
 Inside dimensions of the cabinet:
 
     cabinet width = 20.000in

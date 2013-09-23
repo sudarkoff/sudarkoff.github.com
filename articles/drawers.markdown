@@ -1,4 +1,6 @@
-# Plywood Drawers
+Title: Plywood Drawers
+Author: George Sudarkoff
+Date: 2013-09-23
 
 A worksheet for calculating dimensions for plywood drawers constructed with a simple rabbet joint.
 

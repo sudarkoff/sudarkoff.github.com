@@ -2,15 +2,13 @@ Title: Drill Press Cabinet
 Author: George Sudarkoff
 Date: Thu, 10 Oct 2013 21:31:38 PDT
 
-## The design
-
 I needed a space for the beer fridge in my workshop. And my bench-top drill press needed a sturdier base than the one it was sitting at the time. So I designed and built this cabinet. It has a compartment for the fridge at the bottom with some ventilation holes in the back of the cabinet, a couple of drawers for drill bits and whatnot and an open shelf for various thingamajigs I happen to work with at the moment. The top sports a grid of the Festool standard 20mm holes spaced 96mm apart.
 
 <iframe src="http://sketchup.google.com/3dwarehouse/mini?mid=6162ca3de08538e15291a9c43f2c670c&etyp=im&width=400&height=300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" width="400" height="300"></iframe>
 
 ## Tools and Materials
 
-You'll need one and a half 4' x 8' sheets of 3/4" plywood for the cabinet and drawer sides and one sheet of 1/4" plywood for the drawer bottoms. You'll also need two pairs of 18" full extension drawer slides, two drawer pulls, one pair of fixed and one pair of swivel casters. Screws and bolts for mounting drawer slides and casters.
+You'll need one and a half 4' x 8' sheets of 3/4" plywood for the cabinet and drawer sides and one sheet of 1/4" plywood for the drawer bottoms. You'll also need two pairs of 18" full extension drawer slides, two drawer pulls, one pair of fixed and one pair of swivel with brakes casters. Screws and bolts for mounting drawer slides and casters.
 
 A table saw or a plunge saw (or even a circular saw), drill press or manual drill and screwdrivers and wrenches to taste. A router with the 20mm router bit if you decide to make the optional dog holes in the cabinet top.
 

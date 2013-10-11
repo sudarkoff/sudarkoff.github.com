@@ -8,9 +8,11 @@ I needed a space for the beer fridge in my workshop. And my bench-top drill pres
 
 <iframe src="http://sketchup.google.com/3dwarehouse/mini?mid=6162ca3de08538e15291a9c43f2c670c&etyp=im&width=400&height=300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" width="400" height="300"></iframe>
 
-## Materials
+## Tools and Materials
 
-**To be continued...**
+You'll need one and a half 4' x 8' sheets of 3/4" plywood for the cabinet and drawer sides and one sheet of 1/4" plywood for the drawer bottoms. You'll also need two pairs of 18" full extension drawer slides, two drawer pulls, one pair of fixed and one pair of swivel casters. Screws and bolts for mounting drawer slides and casters.
+
+A table saw or a plunge saw (or even a circular saw), drill press or manual drill and screwdrivers and wrenches to taste. A router with the 20mm router bit if you decide to make the optional dog holes in the cabinet top.
 
 ## Drawers
 

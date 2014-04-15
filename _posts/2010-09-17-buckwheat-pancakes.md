@@ -5,9 +5,6 @@ category: cooking
 tags : [breakfast]
 ---
 {% include JB/setup %}
-Title: Buckwheat Pancakes
-Author: George Sudarkoff
-Date: Fri, 17 Sep 2010 21:46:00 +0000
 
 ![](http://farm6.staticflickr.com/5207/5244046903_6d661be70f.jpg)
 

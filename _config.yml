@@ -81,7 +81,7 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : sudarkoff
+      short_name : georgesudarkoff
     facebook :
       appid : 123
       num_posts: 5

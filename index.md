@@ -1,6 +1,5 @@
 ---
 layout: page
-title: HOME
 tagline: Blogged Et Animam Levavi
 ---
 {% include JB/setup %}

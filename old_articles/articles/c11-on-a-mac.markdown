@@ -1,0 +1,64 @@
+Title: C++11 on a Mac
+Author: George Sudarkoff
+Date: Wed, 06 Jun 2012 19:41:46 +0000
+
+**UPDATE:** Homebrew now has a formula for a fairly recent version of GCC (4.7.0 as of this writing), so the easiest way to install C++11 is by issuing the following commands:
+
+    brew tap homebrew/dupes
+    brew install gcc --enable-cxx --enable-fortran --use-llvm
+
+But if you’re interesting in installing the compiler(s) manually, keep reading.
+
+* * * * *
+
+gcc 4.7 implements [most of the C++11 features](http://gcc.gnu.org/projects/cxx0x.html). This article outlines the steps required for installing the compiler on a Mac. I chose to install it in a separate folder so I could continue using the previously installed copy of gcc.
+
+Before proceeding, make sure that Xcode is installed and that your PATH, INCLUDE\_PATH, LIBPATH and other related environment variables don’t have anything funny in them. Then download and untar: [gcc](http://gcc.gnu.org/mirrors.html), [gmp](http://gmplib.org/), [mpfr](http://www.mpfr.org/mpfr-current/) and [mpc](http://www.multiprecision.org/index.php?prog=mpc&page=download). Finally, build everything in the following order:
+
+Build and install gmp in the /usr/local/gcc-4.7 directory:
+
+    cd gmp-5.0.5/
+    mkdir build && cd build
+    ../configure --prefix=/usr/local/gcc-4.7
+    make
+    sudo make install
+
+Then, build and install mpfr:
+
+    cd ../../mpfr-3.1.0/
+    mkdir build && cd build
+    ../configure --prefix=/usr/local/gcc-4.7 --with-gmp=/usr/local/gcc-4.7
+    make
+    sudo make install
+
+Then, build and install the last prerequisite - mpc:
+
+    cd ../../mpc-0.9/
+    mkdir build && cd build
+    ../configure --prefix=/usr/local/gcc-4.7 --with-gmp=/usr/local/gcc-4.7 --with-mpfr=/usr/local/gcc-4.7
+    make
+    sudo make install
+
+Finally, build and install gcc 4.7:
+
+    cd ../../gcc-4.7.0/
+    mkdir build && cd build
+    ../configure --prefix=/usr/local/gcc-4.7 --enable-checking=release --with-gmp=/usr/local/gcc-4.7 --with-mpfr=/usr/local/gcc-4.7 --with-mpc=/usr/local/gcc-4.7
+    make -j 4 # NB! 4 represents the number of cores on my computer, adjust to your environment
+    sudo make install
+
+Now, you can create symlinks to the newly installed binaries. The absolute minimum that we’ll get you going is:
+
+    ln -s /usr/local/gcc-4.7/bin/gcc /usr/local/bin/gcc
+    ln -s /usr/local/gcc-4.7/bin/g++ /usr/local/bin/g++
+
+Alternatively, you can create symlinks for everything:
+
+    # binaries
+    for f in /usr/local/gcc-4.7/bin/*; do ln -s $f /usr/local/bin/`basename $f`; done
+    # include files
+    for f in /usr/local/gcc-4.7/include/*; do ln -s $f /usr/local/include/`basename $f`; done
+    # libraries
+    for f in /usr/local/gcc-4.7/lib/pkgconfig/*; do ln -s $f /usr/local/lib/pkgconfig/`basename $f`; done
+    for f in /usr/local/gcc-4.7/lib/*; do ln -s $f /usr/local/lib/`basename $f`; done
+

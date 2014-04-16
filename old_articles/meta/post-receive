@@ -1,0 +1,5 @@
+#!/bin/sh
+
+# Checkout files into a local directory
+LOCAL_COPY=~git/g.sud.to
+GIT_WORK_TREE=${LOCAL_COPY} git checkout -f

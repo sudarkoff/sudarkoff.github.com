@@ -1,5 +1,5 @@
 ---
-title: Buckwheat Pankaces
+title: Buckwheat Pancakes
 layout: post
 category: cooking
 tags : [breakfast]

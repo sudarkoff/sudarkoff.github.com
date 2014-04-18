@@ -1,3 +1,0 @@
-Once or twice upon a time, there was a big boy named Bono. One day, he threw in his towel, called it quits and went to search for his fortune.
-
-Big Bono was a sturdy boy. That's why when on the first morning of his adventure he found himself tucked into his own shoe parked by the hotel bed he stopped for the night the day before, he was not pleased. The world from three inches above the ground did not feel the least bit comfortable to him.

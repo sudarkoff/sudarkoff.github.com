@@ -1,12 +1,21 @@
 ---
 layout: page
-tagline: Blogged Et Animam Levavi
+title: HOME
 ---
 {% include JB/setup %}
 
-<ul class="posts">
-  {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
+<div class="row">
+  {% for post in site.posts limit:3 %}
+  <div class="span4">
+    <a href="{{ BASE_PATH }}{{ post.url }}"><h2>{{ post.title }}</h2></a>
+	<p>&nbsp;</p>
+	<p>
+	{{ post.content | strip_html | truncatewords:32 }}
+	</p>
+	<p>
+	<a class="btn" href="{{ BASE_PATH }}{{ post.url }}">Read more...</a>
+	</p>
+  </div>
   {% endfor %}
-</ul>
+</div>
 

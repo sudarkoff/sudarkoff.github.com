@@ -9,8 +9,8 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : George Sudarkoff
-tagline: Blogged Et Animam Levavi
+title: Blogged Et Animam Levavi
+tagline : George Sudarkoff
 author :
   name : George Sudarkoff
   email : george@sudarkoff.com
@@ -100,7 +100,7 @@ JB :
   # Set 'provider' to false to turn sharing off globally.
   #
   sharing :
-    provider : false
+    provider : tweet
     
   # Settings for all other include helpers can be defined by creating 
   # a hash with key named for the given helper. ex:

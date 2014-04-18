@@ -1,8 +1,8 @@
 ---
 title: Evil Software Architects
 layout: post
-category: general
-tags: []
+category: essay
+tags: [hightech]
 ---
 {% include JB/setup %}
 

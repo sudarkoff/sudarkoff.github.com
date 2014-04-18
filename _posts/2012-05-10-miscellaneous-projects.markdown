@@ -1,8 +1,8 @@
 ---
 title: Miscellaneous Projects
 layout: post
-category: general
-tags: []
+category: make
+tags: [knitting,woodworking]
 ---
 {% include JB/setup %}
 

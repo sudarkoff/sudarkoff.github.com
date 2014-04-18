@@ -1,8 +1,8 @@
 ---
 title: Speech/voice recognition
 layout: post
-category: general
-tags: []
+category: essay
+tags: [hightech,future]
 ---
 {% include JB/setup %}
 

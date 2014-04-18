@@ -1,8 +1,8 @@
 ---
 title: Electronic Book
 layout: post
-category: general
-tags: []
+category: essay
+tags: [publishing,ebook]
 ---
 {% include JB/setup %}
 
@@ -16,7 +16,7 @@ Personally, I wouldn't buy what he is envisioning, so let me take on his
 bullets one-by-one:
 
 > It looks similar to a tablet PC slate. No keyboard, no monitor, and it
-> folds in half.\
+> folds in half.
 
 Why would you want it to fold in half? What for? Folding in half made
 perfect sense for paper, it makes very little sense for an e-book.

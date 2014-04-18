@@ -1,8 +1,8 @@
 ---
 title: Woodworking Bench
 layout: post
-category: general
-tags: []
+category: make
+tags: [woodworking,project]
 ---
 {% include JB/setup %}
 

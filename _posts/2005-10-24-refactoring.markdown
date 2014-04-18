@@ -1,8 +1,8 @@
 ---
 title: Refactoring
 layout: post
-category: general
-tags: []
+category: essay
+tags: [hightech]
 ---
 {% include JB/setup %}
 
@@ -19,4 +19,4 @@ refactoring the library and at some point just realized that it's going
 to take far less time if I just rewrote it. And so I did, and the
 resulting code was only 20% as big and it was all new code. But I still
 call it refactoring! Because even though I was writing a new code, I
-still had the existing code to consult with.
+still had the existing tests to pass.

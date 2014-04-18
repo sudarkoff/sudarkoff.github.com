@@ -1,8 +1,8 @@
 ---
 title: Why I switched from MacPorts to Homebrew
 layout: post
-category: general
-tags: []
+category: essay
+tags: [hightech,osx]
 ---
 {% include JB/setup %}
 

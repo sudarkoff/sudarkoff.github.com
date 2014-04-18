@@ -1,8 +1,8 @@
 ---
 title: Turtles in my navel
 layout: post
-category: general
-tags: []
+category: creative-writing
+tags: [prose,fiction]
 ---
 {% include JB/setup %}
 

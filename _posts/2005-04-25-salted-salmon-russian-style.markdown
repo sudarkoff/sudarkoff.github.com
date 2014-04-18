@@ -1,8 +1,8 @@
 ---
 title: Salted Salmon, Russian style
 layout: post
-category: general
-tags: []
+category: recipe
+tags: [russian]
 ---
 {% include JB/setup %}
 
@@ -15,7 +15,7 @@ recipes.
 
 You'll need:
 
--   1 package of fresh salmon from Costco (\~\$11) sans 5 'tail' inches
+-   1 package of fresh salmon from Costco (~$11) sans 5 'tail' inches
 -   1 jar of kosher flake salt from Trader Joe's (about 75 grams)
 -   2 tbsp assorted whole pepper (black, white, whatever)
 -   bay leaf ad libitum

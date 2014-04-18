@@ -1,8 +1,8 @@
 ---
 title: Rock Climbing First-Aid Kit
 layout: post
-category: general
-tags: []
+category: howto
+tags: [climbing,medicine,first-aid]
 ---
 {% include JB/setup %}
 

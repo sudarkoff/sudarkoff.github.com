@@ -1,8 +1,8 @@
 ---
 title: Running in 100 degrees Fahrenheit
 layout: post
-category: general
-tags: []
+category: essay
+tags: [running]
 ---
 {% include JB/setup %}
 

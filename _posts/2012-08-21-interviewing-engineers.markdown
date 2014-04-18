@@ -1,8 +1,8 @@
 ---
 title: Interviewing Engineers
 layout: post
-category: general
-tags: []
+category: essay
+tags: [hightech,hiring]
 ---
 {% include JB/setup %}
 

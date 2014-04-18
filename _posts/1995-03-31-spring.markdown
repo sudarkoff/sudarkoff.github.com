@@ -1,8 +1,8 @@
 ---
 title: Весна
 layout: post
-category: general
-tags: []
+category: creative-writing
+tags: [russian]
 ---
 {% include JB/setup %}
 

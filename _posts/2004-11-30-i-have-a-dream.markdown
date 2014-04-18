@@ -1,8 +1,8 @@
 ---
 title: I have a dream
 layout: post
-category: general
-tags: []
+category: essay
+tags: [hightech, home-automation]
 ---
 {% include JB/setup %}
 

@@ -1,8 +1,8 @@
 ---
 title: Borders 2010
 layout: post
-category: general
-tags: []
+category: creative-writing
+tags: [prose]
 ---
 {% include JB/setup %}
 

@@ -1,8 +1,8 @@
 ---
 title: Home Automation Projects
 layout: post
-category: general
-tags: []
+category: make
+tags: [home-automation,electronics]
 ---
 {% include JB/setup %}
 

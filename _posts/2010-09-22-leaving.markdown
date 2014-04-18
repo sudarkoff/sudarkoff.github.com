@@ -1,12 +1,12 @@
 ---
 title: Leaving
 layout: post
-category: general
-tags: []
+category: essay
+tags: [life]
 ---
 {% include JB/setup %}
 
-Leaving is never easy. Be it leaving your parents’ house to go to college, or leaving a city your grew up in. It’s not easy to leave a girlfriend of 1 year or a spouse of 11. And it’s not easy to move to another country on the opposite side of the globe, with the different language, customs and culture. Leaving is hard and it hurts.
+Leaving is never easy. Be it leaving your parents’ house to go to college, or leaving a city your grew up in. It’s not easy to leave a girlfriend of 1 year or a spouse of 10. And it’s not easy to move to another country on the opposite side of the globe, with a different language, customs and culture. Leaving is hard and it hurts.
 
 Sometimes it’s bittersweet - it’s the end of something good, but also the beginning of something better. Though regardless of whether it was good or bad, it takes time to adjust to your new life. Time heals all wounds, they say - I suppose it’s true to a degree. But it always takes work to truly move on. If you’re lucky, all you need is a good song - “Ob-La-Di, Ob-La-Da” helped me get over a break up with my girlfriend in college. “Life goes on, bra,” I reminded myself, when my spirits took a steep dive. Other times you will go through a painful withdrawal - crying feats and everything.
 

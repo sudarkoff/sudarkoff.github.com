@@ -1,8 +1,8 @@
 ---
 title: Pure means impractical?
 layout: post
-category: general
-tags: []
+category: essay
+tags: [hightech]
 ---
 {% include JB/setup %}
 

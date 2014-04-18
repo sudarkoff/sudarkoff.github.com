@@ -1,8 +1,8 @@
 ---
 title: Early Poems in Russian
 layout: post
-category: general
-tags: []
+category: creative-writing
+tags: [russian,poetry]
 ---
 {% include JB/setup %}
 

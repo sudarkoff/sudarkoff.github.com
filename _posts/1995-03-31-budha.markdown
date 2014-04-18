@@ -1,8 +1,8 @@
 ---
 title: Миссия Будды
 layout: post
-category: general
-tags: []
+category: essay
+tags: [russian, religion]
 ---
 {% include JB/setup %}
 

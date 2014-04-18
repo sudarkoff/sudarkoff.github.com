@@ -1,8 +1,8 @@
 ---
 title: Climbing 5.10c
 layout: post
-category: general
-tags: []
+category: essay
+tags: [climbing]
 ---
 {% include JB/setup %}
 

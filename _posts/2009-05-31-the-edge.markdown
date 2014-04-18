@@ -1,8 +1,8 @@
 ---
 title: The Edge
 layout: post
-category: general
-tags: []
+category: essay
+tags: [outdoors,survival]
 ---
 {% include JB/setup %}
 

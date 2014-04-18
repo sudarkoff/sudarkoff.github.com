@@ -1,8 +1,8 @@
 ---
 title: How To Rock Climb (And Really Enjoy It)
 layout: post
-category: general
-tags: []
+category: essay
+tags: [climbing]
 ---
 {% include JB/setup %}
 

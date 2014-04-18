@@ -1,8 +1,8 @@
 ---
 title: Drill Press Cabinet
 layout: post
-category: general
-tags: []
+category: make
+tags: [woodworking,project]
 ---
 {% include JB/setup %}
 

@@ -1,8 +1,8 @@
 ---
 title: Cherry Garcia ice cream
 layout: post
-category: general
-tags: []
+category: recipe
+tags: [dessert]
 ---
 {% include JB/setup %}
 

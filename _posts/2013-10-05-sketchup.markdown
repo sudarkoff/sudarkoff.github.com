@@ -1,8 +1,8 @@
 ---
 title: SketchUp Models
 layout: post
-category: general
-tags: []
+category: make
+tags: [design,sketchup,project]
 ---
 {% include JB/setup %}
 

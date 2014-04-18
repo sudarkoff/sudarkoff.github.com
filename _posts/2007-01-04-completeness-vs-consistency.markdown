@@ -1,8 +1,8 @@
 ---
 title: Completeness vs. consistency
 layout: post
-category: general
-tags: []
+category: essay
+tags: [design,hightech]
 ---
 {% include JB/setup %}
 

@@ -1,8 +1,8 @@
 ---
 title: 100 Miles
 layout: post
-category: general
-tags: []
+category: essay
+tags: [running]
 ---
 {% include JB/setup %}
 

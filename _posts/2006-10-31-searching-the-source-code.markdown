@@ -1,8 +1,8 @@
 ---
 title: Searching the source code
 layout: post
-category: general
-tags: []
+category: howto
+tags: [hightech,programming,tools]
 ---
 {% include JB/setup %}
 

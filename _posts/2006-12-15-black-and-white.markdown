@@ -1,8 +1,8 @@
 ---
 title: Black and white
 layout: post
-category: general
-tags: []
+category: essay
+tags: [diversity]
 ---
 {% include JB/setup %}
 

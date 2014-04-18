@@ -1,8 +1,8 @@
 ---
 title: Анупадака Белый
 layout: post
-category: general
-tags: []
+category: essay
+tags: [russian, literature, poetry]
 ---
 {% include JB/setup %}
 

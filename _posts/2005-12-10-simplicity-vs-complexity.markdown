@@ -1,8 +1,8 @@
 ---
 title: Simplicity vs Complexity
 layout: post
-category: general
-tags: []
+category: essay
+tags: [design,simplicity]
 ---
 {% include JB/setup %}
 

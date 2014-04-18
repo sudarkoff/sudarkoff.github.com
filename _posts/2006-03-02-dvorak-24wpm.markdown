@@ -1,9 +1,0 @@
----
-title: Dvorak, 24WPM
-layout: post
-category: general
-tags: []
----
-{% include JB/setup %}
-
-My Dvorak typing speed is now 24WPM (40% increase in two weeks). It is still way slower than my QWERTY typing, but I am getting there.

@@ -1,8 +1,8 @@
 ---
 title: Markdown + Pandoc Workflow
 layout: post
-category: general
-tags: []
+category: howto
+tags: [writing,hightech]
 ---
 {% include JB/setup %}
 

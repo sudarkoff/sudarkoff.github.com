@@ -1,8 +1,8 @@
 ---
 title: Rock Climbing Lessons
 layout: post
-category: general
-tags: []
+category: essay
+tags: [climbing]
 ---
 {% include JB/setup %}
 

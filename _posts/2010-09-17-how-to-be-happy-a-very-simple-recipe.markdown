@@ -1,8 +1,8 @@
 ---
 title: How to be happy: a very simple recipe
 layout: post
-category: general
-tags: []
+category: essay
+tags: [life,happiness]
 ---
 {% include JB/setup %}
 

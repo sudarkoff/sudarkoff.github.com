@@ -1,8 +1,8 @@
 ---
 title: Key Git Concepts
 layout: post
-category: general
-tags: []
+category: essay
+tags: [hightech,git]
 ---
 {% include JB/setup %}
 

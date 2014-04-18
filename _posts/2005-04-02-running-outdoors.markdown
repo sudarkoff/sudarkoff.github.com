@@ -1,15 +1,15 @@
 ---
 title: Running outdoors
 layout: post
-category: general
-tags: []
+category: essay
+tags: [running]
 ---
 {% include JB/setup %}
 
 Yesterday I was running outdoors for the first time since high school. I made a few discoveries:
 
 -   My mouth generates torrents of spit – something that never bothered
-    me while I was running solely on a treadmill.
+    me while I was running exclusively on a treadmill.
 -   Despite the common understanding that a treadmill is easier on your
     joints, running on the concrete pavement caused me far less pain in
     joints, I guess the reason being the multiformity. The monotonous

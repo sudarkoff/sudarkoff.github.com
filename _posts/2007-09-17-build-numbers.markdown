@@ -1,8 +1,8 @@
 ---
 title: Build numbers
 layout: post
-category: general
-tags: []
+category: essay
+tags: [hightech,programming]
 ---
 {% include JB/setup %}
 

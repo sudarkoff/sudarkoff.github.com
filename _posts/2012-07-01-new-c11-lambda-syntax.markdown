@@ -1,8 +1,8 @@
 ---
 title: New C++11 lambda syntax
 layout: post
-category: general
-tags: []
+category: howto
+tags: [hightech,c++]
 ---
 {% include JB/setup %}
 

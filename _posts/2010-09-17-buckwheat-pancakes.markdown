@@ -1,8 +1,8 @@
 ---
 title: Buckwheat Pancakes
 layout: post
-category: general
-tags: []
+category: recipe
+tags: [breakfast]
 ---
 {% include JB/setup %}
 

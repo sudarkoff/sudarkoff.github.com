@@ -1,8 +1,8 @@
 ---
 title: Dvorak, 56WPM
 layout: post
-category: general
-tags: []
+category: essay
+tags: [hightech,dvorak]
 ---
 {% include JB/setup %}
 

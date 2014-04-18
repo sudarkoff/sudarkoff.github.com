@@ -1,8 +1,8 @@
 ---
 title: Camping with the baby, take 1
 layout: post
-category: general
-tags: []
+category: howto
+tags: [camping,children,trip-report]
 ---
 {% include JB/setup %}
 

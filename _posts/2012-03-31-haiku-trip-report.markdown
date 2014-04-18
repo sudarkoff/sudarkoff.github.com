@@ -1,8 +1,8 @@
 ---
-title: Haiki Trip Report
+title: Haiku Trip Report
 layout: post
-category: general
-tags: []
+category: creative-writing
+tags: [poetry,trip-report,climbing]
 ---
 {% include JB/setup %}
 

@@ -1,8 +1,8 @@
 ---
 title: Programmer's Productivity
 layout: post
-category: general
-tags: []
+category: essay
+tags: [hightech]
 ---
 {% include JB/setup %}
 

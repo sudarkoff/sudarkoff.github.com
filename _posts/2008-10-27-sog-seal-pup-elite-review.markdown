@@ -1,8 +1,8 @@
 ---
 title: SOG SEAL Pup Elite Review
 layout: post
-category: general
-tags: []
+category: review
+tags: [outdoors]
 ---
 {% include JB/setup %}
 

@@ -1,8 +1,8 @@
 ---
 title: Non-acoustic speech detection
 layout: post
-category: general
-tags: []
+category: essay
+tags: [hightech,future]
 ---
 {% include JB/setup %}
 

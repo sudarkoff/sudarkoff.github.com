@@ -1,8 +1,8 @@
 ---
 title: Ham Radio
 layout: post
-category: general
-tags: []
+category: essay
+tags: [ham,radio]
 ---
 {% include JB/setup %}
 

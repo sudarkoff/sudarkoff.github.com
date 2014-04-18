@@ -1,8 +1,8 @@
 ---
 title: Running stride rate
 layout: post
-category: general
-tags: []
+category: essay
+tags: [running]
 ---
 {% include JB/setup %}
 

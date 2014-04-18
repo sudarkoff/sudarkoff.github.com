@@ -1,8 +1,8 @@
 ---
 title: A little bad poetry
 layout: post
-category: general
-tags: []
+category: creative-writing
+tags: [poetry]
 ---
 {% include JB/setup %}
 

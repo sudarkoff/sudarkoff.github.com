@@ -1,8 +1,8 @@
 ---
 title: Meaninfgul Life
 layout: post
-category: general
-tags: []
+category: essay
+tags: [life,happiness]
 ---
 {% include JB/setup %}
 

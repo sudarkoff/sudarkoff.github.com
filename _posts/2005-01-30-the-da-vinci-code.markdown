@@ -1,8 +1,8 @@
 ---
 title: The Da Vinci Code
 layout: post
-category: general
-tags: []
+category: review
+tags: [literature]
 ---
 {% include JB/setup %}
 

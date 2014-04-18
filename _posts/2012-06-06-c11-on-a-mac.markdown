@@ -1,8 +1,8 @@
 ---
 title: C++11 on a Mac
 layout: post
-category: general
-tags: []
+category: howto
+tags: [hightech,osx,c++]
 ---
 {% include JB/setup %}
 

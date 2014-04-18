@@ -1,8 +1,8 @@
 ---
 title: The Everest is taken
 layout: post
-category: general
-tags: []
+category: essay
+tags: [climbing]
 ---
 {% include JB/setup %}
 

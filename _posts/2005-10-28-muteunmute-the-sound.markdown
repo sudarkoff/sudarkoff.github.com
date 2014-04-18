@@ -1,8 +1,8 @@
 ---
 title: Mute/unmute the sound
 layout: post
-category: general
-tags: []
+category: howto
+tags: [hightech,osx]
 ---
 {% include JB/setup %}
 
@@ -16,6 +16,7 @@ I absolutely love Mac OS X for that behind the cute facade there's an even more 
 
 3. Now copy these two lines into the editor:
 
-    0 1 * * * osascript -e 'tell application "System Events" to set volume with output muted'0 6 * * * osascript -e 'tell application "System Events" to set volume without output muted'
+    0 1 * * * osascript -e 'tell application "System Events" to set volume with output muted'
+    0 6 * * * osascript -e 'tell application "System Events" to set volume without output muted'
 
 4. Save and quit and you're done. This will mute the sound at 1:00AM and un-mute it at 6:00AM.

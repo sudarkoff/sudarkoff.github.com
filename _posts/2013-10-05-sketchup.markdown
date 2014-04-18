@@ -1,6 +1,10 @@
-Title: SketchUp Models
-Author: George Sudarkoff
-Date: Sat, 05 Oct 2013 12:37:30 PDT
+---
+title: SketchUp Models
+layout: post
+category: general
+tags: []
+---
+{% include JB/setup %}
 
 ## T-track
 

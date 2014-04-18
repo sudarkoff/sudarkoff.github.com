@@ -1,6 +1,10 @@
-Title: SOG SEAL Pup Elite Review
-Author: George Sudarkoff
-Date: Mon, 27 Oct 2008 20:45:35 +0000
+---
+title: SOG SEAL Pup Elite Review
+layout: post
+category: general
+tags: []
+---
+{% include JB/setup %}
 
 [SEAL Pup Elite](http://sogknives.com/store/E37.html) has a very
 cool-looking 4.85"-long full tang blade with a spine rasp and an

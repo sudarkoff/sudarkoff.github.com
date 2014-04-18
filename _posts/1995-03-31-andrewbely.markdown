@@ -1,6 +1,10 @@
-Title: Анупадака Белый
-Author: George Sudarkoff
-Date: 1995-03-31
+---
+title: Анупадака Белый
+layout: post
+category: general
+tags: []
+---
+{% include JB/setup %}
 
 ## СИМВОЛИЗМ
 

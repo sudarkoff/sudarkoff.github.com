@@ -1,6 +1,10 @@
-Title: 6 mph. Running or Jogging?
-Author: George Sudarkoff
-Date: Wed, 06 Apr 2005 22:08:53 +0000
+---
+title: 6 mph. Running or Jogging?
+layout: post
+category: general
+tags: []
+---
+{% include JB/setup %}
 
 Yesterday at 2:30 AM as I was setting the alarm-clock before going to bed I thought to myself - they say a grown man should sleep eight hours a day, but shouldn't you also count the time that passes between the moment you go to bed and the moment you actually fall asleep? And is there a distinct moment when one crosses the line between being awake and being asleep?
 

@@ -1,6 +1,10 @@
-Title: Indenting code in Python
-Author: George Sudarkoff
-Date: Thu, 29 Dec 2005 05:04:12 +0000
+---
+title: Indenting code in Python
+layout: post
+category: general
+tags: []
+---
+{% include JB/setup %}
 
 I'm playing with Python and I must say I'm impressed by its simplicity
 and power! But I have one (theoretical) problem with its

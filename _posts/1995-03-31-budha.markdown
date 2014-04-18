@@ -1,6 +1,10 @@
-Title: Миссия Будды
-Author: George Sudarkoff
-Date: 1995-03-31
+---
+title: Миссия Будды
+layout: post
+category: general
+tags: []
+---
+{% include JB/setup %}
 
 # Миссия Будды
 

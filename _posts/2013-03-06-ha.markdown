@@ -1,6 +1,10 @@
-Title: Home Automation Projects
-Author: George Sudarkoff
-Date: 2013-03-06 11:35:29
+---
+title: Home Automation Projects
+layout: post
+category: general
+tags: []
+---
+{% include JB/setup %}
 
 ## Thermostat
 

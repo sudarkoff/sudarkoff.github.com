@@ -1,6 +1,10 @@
-Title: Subversion
-Author: George Sudarkoff
-Date: Sat, 29 Oct 2005 04:15:40 +0000
+---
+title: Subversion
+layout: post
+category: general
+tags: []
+---
+{% include JB/setup %}
 
 Two weeks ago I've decided to give
 [Subversion](http://www.subversion.com/) another try. So far I have zero

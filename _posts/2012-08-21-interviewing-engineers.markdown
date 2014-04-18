@@ -1,6 +1,10 @@
-Title: Interviewing Engineers
-Author: George Sudarkoff
-Date: Tue, 21 Aug 2012 19:41:50 +0000
+---
+title: Interviewing Engineers
+layout: post
+category: general
+tags: []
+---
+{% include JB/setup %}
 
 I've been on both sides of the technical interview process for over two decades now - most recently just a couple of weeks ago - and I have a few thoughts I wanted to share.
 

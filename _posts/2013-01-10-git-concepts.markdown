@@ -1,6 +1,10 @@
-Title: Key Git Concepts
-Author: George Sudarkoff
-Date: 2013-01-10 15:19:59
+---
+title: Key Git Concepts
+layout: post
+category: general
+tags: []
+---
+{% include JB/setup %}
 
 *This article was initially written by my colleague Filip Machi.<br />
 Published here with his blessing.*

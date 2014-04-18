@@ -1,6 +1,10 @@
-Title: Haiki Trip Report
-Author: George Sudarkoff
-Date: 2012-03-31
+---
+title: Haiki Trip Report
+layout: post
+category: general
+tags: []
+---
+{% include JB/setup %}
 
     Early April night
     The rain just won't stop falling

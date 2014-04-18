@@ -1,6 +1,10 @@
-Title: Black and white
-Author: George Sudarkoff
-Date: Fri, 15 Dec 2006 13:55:55 +0000
+---
+title: Black and white
+layout: post
+category: general
+tags: []
+---
+{% include JB/setup %}
 
 I just realized that the majority of people are raging commies and do not even realize it! Every time you hear that something will be good for the community, you hear a commie talking. And it is not necessarily a bad thing. Just like democrats and republicans do not have to be in the opposite camps (they are actually not, they are the same bunch of power and money hungry morons, but that's a different topic altogether).
 

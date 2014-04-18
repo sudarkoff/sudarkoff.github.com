@@ -1,6 +1,10 @@
-Title: WIWIWIS - What I Write Is What I See
-Author: George Sudarkoff
-Date: Mon, 10 Mar 2003 23:57:13 +0000
+---
+title: WIWIWIS - What I Write Is What I See
+layout: post
+category: general
+tags: []
+---
+{% include JB/setup %}
 
 To find a simple yet distinctive name for a new thing is not only an
 important task but a very difficult one as well. I have been considering

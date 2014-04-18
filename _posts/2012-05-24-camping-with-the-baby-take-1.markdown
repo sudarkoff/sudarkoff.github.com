@@ -1,6 +1,10 @@
-Title: Camping with the baby, take 1
-Author: George Sudarkoff
-Date: Thu, 24 May 2012 17:25:46 +0000
+---
+title: Camping with the baby, take 1
+layout: post
+category: general
+tags: []
+---
+{% include JB/setup %}
 
 We took our String Bean camping for the first time a couple of weeks
 ago, this article is a short account of what worked and what didn’t.

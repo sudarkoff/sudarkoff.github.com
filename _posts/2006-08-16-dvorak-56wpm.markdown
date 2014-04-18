@@ -1,6 +1,10 @@
-Title: Dvorak, 56WPM
-Author: George Sudarkoff
-Date: Wed, 16 Aug 2006 12:48:36 +0000
+---
+title: Dvorak, 56WPM
+layout: post
+category: general
+tags: []
+---
+{% include JB/setup %}
 
 It's been six months since I updated you on my Dvorak typing speed. Presently it is 56 words per minute with the average error rate of 6.4 per cent.
 

@@ -1,6 +1,10 @@
-Title: Emergency Supplies
-Author: George Sudarkoff
-Date: 2013-09-18
+---
+title: Emergency Supplies
+layout: post
+category: general
+tags: []
+---
+{% include JB/setup %}
 
 **This document is a work in progress.**
 

@@ -1,6 +1,10 @@
-Title: Simplicity vs Complexity
-Author: George Sudarkoff
-Date: Sat, 10 Dec 2005 15:31:15 +0000
+---
+title: Simplicity vs Complexity
+layout: post
+category: general
+tags: []
+---
+{% include JB/setup %}
 
 The other day, while a bunch of us were out drinking beer, a friend of
 mine slipped a phrase about how he didn't agree with the tendency of

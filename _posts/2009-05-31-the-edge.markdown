@@ -1,6 +1,10 @@
-Title: The Edge
-Author: George Sudarkoff
-Date: Sun, 31 May 2009 23:40:00 +0000
+---
+title: The Edge
+layout: post
+category: general
+tags: []
+---
+{% include JB/setup %}
 
 I experienced [The
 Edge](http://www.lifesongadventures.com/adult-camps/the-edge/ "The Edge")

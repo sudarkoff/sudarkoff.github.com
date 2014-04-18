@@ -1,6 +1,10 @@
-Title: The Da Vinci Code
-Author: George Sudarkoff
-Date: Sun, 30 Jan 2005 01:55:49 +0000
+---
+title: The Da Vinci Code
+layout: post
+category: general
+tags: []
+---
+{% include JB/setup %}
 
 I just finished reading ["The Da Vinci Code" (Dan Brown)](http://www.amazon.com/exec/obidos/tg/detail/-/0385504209/),
 among the last people on this planet, I guess; and I should tell you -

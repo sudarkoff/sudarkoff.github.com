@@ -1,6 +1,10 @@
-Title: Hieroglyphs
-Author: George Sudarkoff
-Date: Mon, 15 Aug 2005 14:19:33 +0000
+---
+title: Hieroglyphs
+layout: post
+category: general
+tags: []
+---
+{% include JB/setup %}
 
 A few of weeks ago a friend of mine mentioned that the Chinese hieroglyphs were a big deal when introduced because they unified a large country by creating a notation that everybody could understand, regardless of what the things it denoted were actually called in any particular language or dialect. I am sure it all made a lot of sense a few centuries ago (especially, taking into account relative unimportance of the written language to most people). Nonetheless, in my gut I knew that this was the bad design choice, I just couldn't put in words what exactly I didn't like about it.
 

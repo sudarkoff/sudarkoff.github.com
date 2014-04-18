@@ -1,6 +1,10 @@
-Title: How to be happy: a very simple recipe
-Author: George Sudarkoff
-Date: Fri, 17 Sep 2010 16:45:12 +0000
+---
+title: How to be happy: a very simple recipe
+layout: post
+category: general
+tags: []
+---
+{% include JB/setup %}
 
 We have little (if any) control over things. But we have a lot of
 control over how we feel about things. Forget about this and you’ll sink

@@ -1,6 +1,10 @@
-Title: Rock Climbing First-Aid Kit
-Author: George Sudarkoff
-Date: Tue, 26 Jun 2012 23:05:37 +0000
+---
+title: Rock Climbing First-Aid Kit
+layout: post
+category: general
+tags: []
+---
+{% include JB/setup %}
 
 **Disclaimer:** *I’m not a doctor, yadda-yadda-yadda. Simply having
 a first-aid kit in your pack is neither going to keep you safe, nor

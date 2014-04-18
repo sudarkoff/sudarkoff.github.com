@@ -1,6 +1,10 @@
-Title: CD turned 25
-Author: George Sudarkoff
-Date: Tue, 21 Aug 2007 14:52:58 +0000
+---
+title: CD turned 25
+layout: post
+category: general
+tags: []
+---
+{% include JB/setup %}
 
 A few days ago CD turned 25. It's hard to believe that it was around for
 that long! I bought my first audio CD in early 90s -- good ten years

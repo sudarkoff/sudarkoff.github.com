@@ -1,6 +1,10 @@
-Title: Home Automation
-Author: George Sudarkoff
-Date: Wed, 14 Sep 2011 22:03:00 +0000
+---
+title: Home Automation
+layout: post
+category: general
+tags: []
+---
+{% include JB/setup %}
 
 I was always intrigued by the idea of automating the routine parts of my
 life. Over the years, I looked at different technologies and approaches,

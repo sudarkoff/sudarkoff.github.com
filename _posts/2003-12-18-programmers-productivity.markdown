@@ -1,6 +1,10 @@
-Title: Programmer's Productivity
-Author: George Sudarkoff
-Date: Thu, 18 Dec 2003 23:00:35 +0000
+---
+title: Programmer's Productivity
+layout: post
+category: general
+tags: []
+---
+{% include JB/setup %}
 
 Yesterday I spent twelve hours hunting down a most bizarre bug. I
 flipped through literally thousands of lines of code, I set dozens of

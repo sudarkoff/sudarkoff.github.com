@@ -1,6 +1,10 @@
-Title: Turtles in my navel
-Author: George Sudarkoff
-Date: Wed, 18 Aug 2010 19:03:37 +0000
+---
+title: Turtles in my navel
+layout: post
+category: general
+tags: []
+---
+{% include JB/setup %}
 
 Turtles in my navel are having an argument: “It’s not my turn to take out the trash,” hisses Greg, “why do you insist that it is?” A vein on his right temple is pulsing a steady 60 beats per minute; he manages to stay mostly calm – he loves Patricia, after all.
 

@@ -1,6 +1,10 @@
-Title: A few product ideas
-Author: George Sudarkoff
-Date: Wed, 31 Aug 2005 20:36:41 +0000
+---
+title: A few product ideas
+layout: post
+category: general
+tags: []
+---
+{% include JB/setup %}
 
 As I was indulging myself in almost an hour of running today, I thought to myself -- "why, oh why there's no ..." -- and then I had three loosely joined thoughts come to my mind at the same time:
 

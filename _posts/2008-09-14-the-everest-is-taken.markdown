@@ -1,6 +1,10 @@
-Title: The Everest is taken
-Author: George Sudarkoff
-Date: Sun, 14 Sep 2008 20:09:01 +0000
+---
+title: The Everest is taken
+layout: post
+category: general
+tags: []
+---
+{% include JB/setup %}
 
 ![](http://farm4.static.flickr.com/3184/2857743479_c63d076e47.jpg)
 

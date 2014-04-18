@@ -1,6 +1,10 @@
-Title: Woodworking Bench
-Author: George Sudarkoff
-Date: Thu Sep 26 09:10:04 PDT 2013
+---
+title: Woodworking Bench
+layout: post
+category: general
+tags: []
+---
+{% include JB/setup %}
 
 I have a very small shop - 365cm x 335cm (12' x 11'). So fitting all the necessary tools and equipment is a challenge. This article is documenting my effort in building a useful workbench that would fit into my workshop. This is work in progress.
 

@@ -1,6 +1,10 @@
-Title: Real-time(-ish) beeping out of the explicit lyrics
-Author: George Sudarkoff
-Date: Wed, 16 May 2012 17:40:18 +0000
+---
+title: Real-time(-ish) beeping out of the explicit lyrics
+layout: post
+category: general
+tags: []
+---
+{% include JB/setup %}
 
 Would it be nice if you could push a button on your Walkman (or whatever
 kids are listening to their tunes on nowadays) and turn the songs into

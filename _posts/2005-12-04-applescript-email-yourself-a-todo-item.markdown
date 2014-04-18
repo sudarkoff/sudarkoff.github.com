@@ -1,6 +1,10 @@
-Title: AppleScript, Email yourself a TODO item
-Author: George Sudarkoff
-Date: Sun, 04 Dec 2005 04:59:05 +0000
+---
+title: AppleScript, Email yourself a TODO item
+layout: post
+category: general
+tags: []
+---
+{% include JB/setup %}
 
 \
 This script is based on the idea from

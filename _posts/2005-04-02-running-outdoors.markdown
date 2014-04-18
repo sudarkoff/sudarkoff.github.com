@@ -1,6 +1,10 @@
-Title: Running outdoors
-Author: George Sudarkoff
-Date: Sat, 02 Apr 2005 15:22:42 +0000
+---
+title: Running outdoors
+layout: post
+category: general
+tags: []
+---
+{% include JB/setup %}
 
 Yesterday I was running outdoors for the first time since high school. I made a few discoveries:
 

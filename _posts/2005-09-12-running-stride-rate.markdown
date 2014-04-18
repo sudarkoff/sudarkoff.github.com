@@ -1,6 +1,10 @@
-Title: Running stride rate
-Author: George Sudarkoff
-Date: Mon, 12 Sep 2005 02:32:44 +0000
+---
+title: Running stride rate
+layout: post
+category: general
+tags: []
+---
+{% include JB/setup %}
 
 Today I was running an improvised 5K race (finished
 it in 28:45 minutes) and I noticed that my stride rate was ranging

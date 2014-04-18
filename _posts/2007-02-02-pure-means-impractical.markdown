@@ -1,6 +1,10 @@
-Title: Pure means impractical?
-Author: George Sudarkoff
-Date: Fri, 02 Feb 2007 15:08:17 +0000
+---
+title: Pure means impractical?
+layout: post
+category: general
+tags: []
+---
+{% include JB/setup %}
 
 The other day, a friend of mine
 [complained](http://notbrainsurgery.livejournal.com/31150.html) about

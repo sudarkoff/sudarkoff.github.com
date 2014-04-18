@@ -1,6 +1,10 @@
-Title: Refactoring
-Author: George Sudarkoff
-Date: Mon, 24 Oct 2005 22:04:09 +0000
+---
+title: Refactoring
+layout: post
+category: general
+tags: []
+---
+{% include JB/setup %}
 
 > [To Really Improve Your System You Can't Refactor](http://radio.weblogs.com/0103955/categories/stupidHumanProgramming/2005/10/24.html#a202 "24.txt")
 > I firmly believe in constantly improving my code and I see a

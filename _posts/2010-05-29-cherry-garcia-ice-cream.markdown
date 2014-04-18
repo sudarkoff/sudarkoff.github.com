@@ -1,6 +1,10 @@
-Title: Cherry Garcia ice cream
-Author: George Sudarkoff
-Date: Sat, 29 May 2010 21:44:00 +0000
+---
+title: Cherry Garcia ice cream
+layout: post
+category: general
+tags: []
+---
+{% include JB/setup %}
 
 I made this recipe a number of times and the results are always
 excellent!

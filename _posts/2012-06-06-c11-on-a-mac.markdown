@@ -1,6 +1,10 @@
-Title: C++11 on a Mac
-Author: George Sudarkoff
-Date: Wed, 06 Jun 2012 19:41:46 +0000
+---
+title: C++11 on a Mac
+layout: post
+category: general
+tags: []
+---
+{% include JB/setup %}
 
 **UPDATE:** Homebrew now has a formula for a fairly recent version of GCC (4.7.0 as of this writing), so the easiest way to install C++11 is by issuing the following commands:
 

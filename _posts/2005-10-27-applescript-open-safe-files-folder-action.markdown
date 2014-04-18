@@ -1,6 +1,10 @@
-Title: AppleScript, "Open Safe Files" Folder Action
-Author: George Sudarkoff
-Date: Thu, 27 Oct 2005 22:44:58 +0000
+---
+title: AppleScript, "Open Safe Files" Folder Action
+layout: post
+category: general
+tags: []
+---
+{% include JB/setup %}
 
 \
 Continuing the AppleScript theme, here's the script that I wrote to use

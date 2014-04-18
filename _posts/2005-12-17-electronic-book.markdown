@@ -1,6 +1,10 @@
-Title: Electronic Book
-Author: George Sudarkoff
-Date: Sat, 17 Dec 2005 03:12:53 +0000
+---
+title: Electronic Book
+layout: post
+category: general
+tags: []
+---
+{% include JB/setup %}
 
 Thomas Nelson, President and CEO of the "largest Christian publishing
 company in the world" (I could never really understand what the word

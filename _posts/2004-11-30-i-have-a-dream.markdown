@@ -1,6 +1,10 @@
-Title: I have a dream
-Author: George Sudarkoff
-Date: Tue, 30 Nov 2004 15:16:12 +0000
+---
+title: I have a dream
+layout: post
+category: general
+tags: []
+---
+{% include JB/setup %}
 
 My sweetest dream for the last few years (of a technological kind, at
 least) was to have a full-blown home automation system. I want to be

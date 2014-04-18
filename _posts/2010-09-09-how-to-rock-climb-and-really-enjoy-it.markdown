@@ -1,6 +1,10 @@
-Title: How To Rock Climb (And Really Enjoy It)
-Author: George Sudarkoff
-Date: Thu, 09 Sep 2010 05:09:51 +0000
+---
+title: How To Rock Climb (And Really Enjoy It)
+layout: post
+category: general
+tags: []
+---
+{% include JB/setup %}
 
 ![First time climbing after the accident](http://farm5.static.flickr.com/4132/4973340226_fd1bcd7e4e.jpg) 
 

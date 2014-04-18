@@ -1,6 +1,10 @@
-Title: Memorial Day climbing trip to South Lake Tahoe
-Author: George Sudarkoff
-Date: Wed, 01 Jul 2009 05:41:42 +0000
+---
+title: Memorial Day climbing trip to South Lake Tahoe
+layout: post
+category: general
+tags: []
+---
+{% include JB/setup %}
 
 ### Packing List
 

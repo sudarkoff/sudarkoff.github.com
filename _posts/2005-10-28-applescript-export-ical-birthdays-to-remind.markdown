@@ -1,6 +1,10 @@
-Title: AppleScript, Export iCal Birthdays to Remind
-Author: George Sudarkoff
-Date: Fri, 28 Oct 2005 09:00:00 +0000
+---
+title: AppleScript, Export iCal Birthdays to Remind
+layout: post
+category: general
+tags: []
+---
+{% include JB/setup %}
 
 \
 Another AppleScript to export all Birthdays from iCal to

@@ -1,6 +1,10 @@
-Title: Speech/voice recognition
-Author: George Sudarkoff
-Date: Tue, 29 Nov 2005 12:31:56 +0000
+---
+title: Speech/voice recognition
+layout: post
+category: general
+tags: []
+---
+{% include JB/setup %}
 
 A lot of folks are [skeptical about the future of
 speech](http://accordionguy.blogware.com/blog/_archives/2005/11/15/1406852.html)

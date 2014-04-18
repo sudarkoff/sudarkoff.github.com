@@ -1,6 +1,10 @@
-Title: Searching the source code
-Author: George Sudarkoff
-Date: Tue, 31 Oct 2006 21:55:37 +0000
+---
+title: Searching the source code
+layout: post
+category: general
+tags: []
+---
+{% include JB/setup %}
 
 I have a few aliases in my `~/.bash_aliases` that help me find symbols in the source tree:
 

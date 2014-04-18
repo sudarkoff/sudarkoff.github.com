@@ -1,6 +1,10 @@
-Title: Running partner
-Author: George Sudarkoff
-Date: Tue, 11 Jul 2006 09:34:57 +0000
+---
+title: Running partner
+layout: post
+category: general
+tags: []
+---
+{% include JB/setup %}
 
 I realized something yesterday - I need a running partner or a group. So
 I started looking for a running club in and around of Calabasas. Here's

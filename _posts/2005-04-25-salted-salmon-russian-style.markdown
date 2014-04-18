@@ -1,6 +1,10 @@
-Title: Salted Salmon, Russian style
-Author: George Sudarkoff
-Date: Mon, 25 Apr 2005 20:49:54 +0000
+---
+title: Salted Salmon, Russian style
+layout: post
+category: general
+tags: []
+---
+{% include JB/setup %}
 
 You're sick and tired of drinking your Bud and want to turn it up a
 notch to start enjoying your life again? First of all, **don't drink

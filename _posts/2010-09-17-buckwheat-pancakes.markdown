@@ -1,6 +1,10 @@
-Title: Buckwheat Pancakes
-Author: George Sudarkoff
-Date: Fri, 17 Sep 2010 21:46:00 +0000
+---
+title: Buckwheat Pancakes
+layout: post
+category: general
+tags: []
+---
+{% include JB/setup %}
 
 ![](http://farm6.staticflickr.com/5207/5244046903_6d661be70f.jpg)
 

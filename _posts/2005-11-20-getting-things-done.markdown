@@ -1,6 +1,10 @@
-Title: Getting Things Done
-Author: George Sudarkoff
-Date: Sun, 20 Nov 2005 18:17:31 +0000
+---
+title: Getting Things Done
+layout: post
+category: general
+tags: []
+---
+{% include JB/setup %}
 
 As I am reading [David Allen](http://www.davidco.com/)'s "[Getting
 Things Done](http://www.amazon.com/gp/product/0142000280/)" book, I am

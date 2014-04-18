@@ -1,6 +1,10 @@
-Title: New C++11 lambda syntax
-Author: George Sudarkoff
-Date: Sun, 01 Jul 2012 17:37:45 +0000
+---
+title: New C++11 lambda syntax
+layout: post
+category: general
+tags: []
+---
+{% include JB/setup %}
 
 After you install GCC 4.7, you’ll need to make sure it is working. Here’s a little program I use to make sure new C++11 lambda is compiled properly.
 

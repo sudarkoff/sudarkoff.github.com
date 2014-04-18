@@ -1,6 +1,10 @@
-Title: Evil Software Architects
-Author: George Sudarkoff
-Date: Wed, 08 Dec 2004 18:01:05 +0000
+---
+title: Evil Software Architects
+layout: post
+category: general
+tags: []
+---
+{% include JB/setup %}
 
 > [To Software Architects: Serve End Users, Not Your Egos](http://devx.com/opinion/Article/22649)
 > "When the architect job title slipped into the software development

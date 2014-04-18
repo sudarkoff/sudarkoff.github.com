@@ -1,6 +1,10 @@
-Title: AppleScript, Email Announcer
-Author: George Sudarkoff
-Date: Thu, 27 Oct 2005 17:25:16 +0000
+---
+title: AppleScript, Email Announcer
+layout: post
+category: general
+tags: []
+---
+{% include JB/setup %}
 
 \
 Here’s a little AppleScript I wrote to announce new emails in Mail.app.

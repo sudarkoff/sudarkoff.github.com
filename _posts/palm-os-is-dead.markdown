@@ -1,6 +1,6 @@
 Title: Palm OS is dead
 Author: George Sudarkoff
-Date: Mon, 15 Nov 2004 24:22:35 +0000
+Date: Mon, 15 Nov 2004 23:22:35 +0000
 
 I was cleaning up the address book on my PDA the other day when I suddenly realized that Palm OS is going to die pretty soon! Yes, I think its days are counted and here's why.
 

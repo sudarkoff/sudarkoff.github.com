@@ -1,6 +1,6 @@
 Title: Running in 100 degrees Fahrenheit
 Author: George Sudarkoff
-Date: Mon, 05 Jun 2006 24:14:26 +0000
+Date: Mon, 05 Jun 2006 23:14:26 +0000
 
 Last Saturday's long run didn't go very well. By Siberian guy's
 standards the weather was absolutely nasty — 100° Fahrenheit and 100%

@@ -1,6 +1,6 @@
 Title: Leaving
 Author: George Sudarkoff
-Date: Wed, 22 Sep 2010 24:51:41 +0000
+Date: Wed, 22 Sep 2010 23:51:41 +0000
 
 Leaving is never easy. Be it leaving your parents’ house to go to college, or leaving a city your grew up in. It’s not easy to leave a girlfriend of 1 year or a spouse of 11. And it’s not easy to move to another country on the opposite side of the globe, with the different language, customs and culture. Leaving is hard and it hurts.
 

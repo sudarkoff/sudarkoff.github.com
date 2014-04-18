@@ -1,6 +1,6 @@
 Title: Programmer's Productivity
 Author: George Sudarkoff
-Date: Thu, 18 Dec 2003 24:00:35 +0000
+Date: Thu, 18 Dec 2003 23:00:35 +0000
 
 Yesterday I spent twelve hours hunting down a most bizarre bug. I
 flipped through literally thousands of lines of code, I set dozens of

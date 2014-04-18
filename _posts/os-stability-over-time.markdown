@@ -1,6 +1,6 @@
 Title: OS stability over time
 Author: George Sudarkoff
-Date: Wed, 20 Jun 2007 16:29:56 +0000
+Date: Wed, 20 Jun 2007
 
 I noticed an interesting phenomenon a couple of days ago. We all know that Windows is susceptible to rot. Things tend to disintegrate over time -- everything feels slower and buggier. That's why the accepted wisdom is to reinstall Windows from time to time. The other day a friend called from Vancouver -- she was having a problem with her microphone. It was working just fine a few days ago but suddenly stopped and there was nothing we could do to revive it. It was a fairly fresh install of Vista which came pre-installed with her new Dell laptop, so it appears that Vista rots even faster.
 

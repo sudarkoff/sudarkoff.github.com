@@ -1,10 +1,8 @@
 ---
 title: Palm OS is dead
 layout: post
-category: essay
-tags: [hightech]
+tags: [essay,hightech]
 ---
-{% include JB/setup %}
 
 I was cleaning up the address book on my PDA the other day when I suddenly realized that Palm OS is going to die pretty soon! Yes, I think its days are counted and here's why.
 

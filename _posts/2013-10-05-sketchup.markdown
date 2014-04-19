@@ -1,10 +1,8 @@
 ---
 title: SketchUp Models
 layout: post
-category: make
-tags: [design,sketchup,project]
+tags: [make,design,sketchup,project]
 ---
-{% include JB/setup %}
 
 ## T-track
 

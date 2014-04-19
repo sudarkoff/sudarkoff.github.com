@@ -1,10 +1,8 @@
 ---
 title: Markdown + Pandoc Workflow
 layout: post
-category: howto
-tags: [writing,hightech]
+tags: [howto,writing,hightech]
 ---
-{% include JB/setup %}
 
 This article outlines my setup and workflow for writing documents using [Markdown](http://daringfireball.net/projects/markdown/syntax) and [pandoc](http://johnmacfarlane.net/pandoc/). This is a workflow that I personally find natural and convenient. There are some very important limitations (discussed below), but I've been successfully using this workflow for quite some time and it seems to be working great.
 

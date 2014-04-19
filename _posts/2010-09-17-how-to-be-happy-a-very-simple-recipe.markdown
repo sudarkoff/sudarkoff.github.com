@@ -1,10 +1,8 @@
 ---
 title: How to be happy, a very simple recipe
 layout: post
-category: essay
 tags: [life,happiness]
 ---
-{% include JB/setup %}
 
 We have little (if any) control over things. But we have a lot of
 control over how we feel about things. Forget about this and you’ll sink

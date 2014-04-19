@@ -1,10 +1,8 @@
 ---
 title: Dvorak, 56WPM
 layout: post
-category: essay
 tags: [hightech,dvorak]
 ---
-{% include JB/setup %}
 
 It's been six months since I updated you on my Dvorak typing speed. Presently it is 56 words per minute with the average error rate of 6.4 per cent.
 

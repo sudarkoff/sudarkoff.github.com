@@ -1,10 +1,8 @@
 ---
 title: Speech/voice recognition
 layout: post
-category: essay
 tags: [hightech,future]
 ---
-{% include JB/setup %}
 
 A lot of folks are [skeptical about the future of
 speech](http://accordionguy.blogware.com/blog/_archives/2005/11/15/1406852.html)

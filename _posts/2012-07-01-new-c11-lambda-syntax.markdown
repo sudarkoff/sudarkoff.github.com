@@ -1,10 +1,8 @@
 ---
 title: New C++11 lambda syntax
 layout: post
-category: howto
-tags: [hightech,c++]
+tags: [howto,hightech,c++]
 ---
-{% include JB/setup %}
 
 After you install GCC 4.7, you’ll need to make sure it is working. Here’s a little program I use to make sure new C++11 lambda is compiled properly.
 

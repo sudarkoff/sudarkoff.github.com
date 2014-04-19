@@ -1,10 +1,8 @@
 ---
 title: Running stride rate
 layout: post
-category: essay
-tags: [running]
+tags: [essay,running]
 ---
-{% include JB/setup %}
 
 Today I was running an improvised 5K race (finished
 it in 28:45 minutes) and I noticed that my stride rate was ranging

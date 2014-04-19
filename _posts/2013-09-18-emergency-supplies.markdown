@@ -1,10 +1,8 @@
 ---
 title: Emergency Supplies
 layout: post
-category: howto
 tags: [emergency,survival,preparedness]
 ---
-{% include JB/setup %}
 
 **This document is a work in progress.**
 

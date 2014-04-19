@@ -1,10 +1,8 @@
 ---
 title: Key Git Concepts
 layout: post
-category: essay
 tags: [hightech,git]
 ---
-{% include JB/setup %}
 
 *This article was initially written by my colleague Filip Machi.<br />
 Published here with his blessing.*

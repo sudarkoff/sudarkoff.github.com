@@ -1,10 +1,8 @@
 ---
 title: Buckwheat Pancakes
 layout: post
-category: recipe
-tags: [breakfast]
+tags: [cooking,breakfast]
 ---
-{% include JB/setup %}
 
 ![](http://farm6.staticflickr.com/5207/5244046903_6d661be70f.jpg)
 

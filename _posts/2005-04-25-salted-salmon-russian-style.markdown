@@ -1,10 +1,8 @@
 ---
 title: Salted Salmon, Russian style
 layout: post
-category: recipe
-tags: [russian]
+tags: [cooking,russian]
 ---
-{% include JB/setup %}
 
 You're sick and tired of drinking your Bud and want to turn it up a
 notch to start enjoying your life again? First of all, **don't drink

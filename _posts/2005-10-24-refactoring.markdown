@@ -1,10 +1,8 @@
 ---
 title: Refactoring
 layout: post
-category: essay
-tags: [hightech]
+tags: [essay,hightech]
 ---
-{% include JB/setup %}
 
 > [To Really Improve Your System You Can't Refactor](http://radio.weblogs.com/0103955/categories/stupidHumanProgramming/2005/10/24.html#a202 "24.txt")
 > I firmly believe in constantly improving my code and I see a

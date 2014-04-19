@@ -1,10 +1,8 @@
 ---
 title: Climbing 5.10c
 layout: post
-category: essay
 tags: [climbing]
 ---
-{% include JB/setup %}
 
 I went climbing today for the fourth time in my life - good stuff! I was
 working on my technique, so I was mostly climbing easy 5.7's. However,

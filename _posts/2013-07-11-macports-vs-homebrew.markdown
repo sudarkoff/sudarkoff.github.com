@@ -1,10 +1,8 @@
 ---
 title: Why I switched from MacPorts to Homebrew
 layout: post
-category: essay
 tags: [hightech,osx]
 ---
-{% include JB/setup %}
 
 This is my unscientific observations about and the reasons I switched from MacPorts to Homebrew. Some of this reasons are no doubt subjective. But that doesn't mean they are not important to me.
 

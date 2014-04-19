@@ -1,10 +1,8 @@
 ---
 title: Running partner
 layout: post
-category: essay
 tags: [running]
 ---
-{% include JB/setup %}
 
 I realized something yesterday - I need a running partner or a group. So
 I started looking for a running club in and around of Calabasas. Here's

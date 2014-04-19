@@ -1,10 +1,8 @@
 ---
 title: The Edge
 layout: post
-category: essay
-tags: [outdoors,survival]
+tags: [outdoors,survival,trip-report]
 ---
-{% include JB/setup %}
 
 I experienced [The
 Edge](http://www.lifesongadventures.com/adult-camps/the-edge/ "The Edge")

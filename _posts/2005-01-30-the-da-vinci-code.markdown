@@ -1,10 +1,8 @@
 ---
 title: The Da Vinci Code
 layout: post
-category: review
-tags: [literature]
+tags: [review,book]
 ---
-{% include JB/setup %}
 
 I just finished reading ["The Da Vinci Code" (Dan Brown)](http://www.amazon.com/exec/obidos/tg/detail/-/0385504209/),
 among the last people on this planet, I guess; and I should tell you -

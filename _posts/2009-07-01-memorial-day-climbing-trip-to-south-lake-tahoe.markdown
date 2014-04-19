@@ -1,10 +1,8 @@
 ---
 title: Memorial Day climbing trip to South Lake Tahoe
 layout: post
-category: essay
 tags: [climbing,trip-report]
 ---
-{% include JB/setup %}
 
 ### Packing List
 

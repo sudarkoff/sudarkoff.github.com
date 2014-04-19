@@ -1,10 +1,8 @@
 ---
 title: Borders 2010
 layout: post
-category: creative-writing
-tags: [prose]
+tags: [writing,prose]
 ---
-{% include JB/setup %}
 
 The Borders of Santana Row is a typical big book store with typical clientele. Adrienne and I are sitting on the second-floor terrace of the store. People on the terrace talk quietly. The terrace is not too big but it is not too small either. It's bracketed by a couple of trees on both sides - an ivi on the left and a palm tree on the right. I love it when leaves and branches are touching the human-built structure. There's something deeply intimate about that. The trees are embracing and accepting our unnatural selves. Or maybe they just want to strangle us - who knows?
 

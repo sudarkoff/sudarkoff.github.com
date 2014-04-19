@@ -1,10 +1,9 @@
 ---
 title: Анупадака Белый
 layout: post
-category: essay
-tags: [russian, literature, poetry]
+comments: true
+tags: [essay,russian, literature, poetry]
 ---
-{% include JB/setup %}
 
 ## СИМВОЛИЗМ
 

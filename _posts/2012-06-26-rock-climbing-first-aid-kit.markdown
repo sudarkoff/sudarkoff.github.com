@@ -1,10 +1,8 @@
 ---
 title: Rock Climbing First-Aid Kit
 layout: post
-category: howto
-tags: [climbing,medicine,first-aid]
+tags: [howto,climbing,medicine,first-aid]
 ---
-{% include JB/setup %}
 
 **Disclaimer:** *I’m not a doctor, yadda-yadda-yadda. Simply having
 a first-aid kit in your pack is neither going to keep you safe, nor

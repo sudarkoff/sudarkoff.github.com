@@ -1,10 +1,8 @@
 ---
 title: Camping with the baby, take 1
 layout: post
-category: howto
 tags: [camping,children,trip-report]
 ---
-{% include JB/setup %}
 
 We took our String Bean camping for the first time a couple of weeks
 ago, this article is a short account of what worked and what didn’t.

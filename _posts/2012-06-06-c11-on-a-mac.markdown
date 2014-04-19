@@ -1,10 +1,8 @@
 ---
 title: C++11 on a Mac
 layout: post
-category: howto
-tags: [hightech,osx,c++]
+tags: [howto,hightech,osx,c++]
 ---
-{% include JB/setup %}
 
 **UPDATE:** Homebrew now has a formula for a fairly recent version of GCC (4.7.0 as of this writing), so the easiest way to install C++11 is by issuing the following commands:
 

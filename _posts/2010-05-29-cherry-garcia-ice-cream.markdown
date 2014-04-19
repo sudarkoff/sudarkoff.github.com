@@ -1,10 +1,8 @@
 ---
 title: Cherry Garcia ice cream
 layout: post
-category: recipe
-tags: [dessert]
+tags: [cooking,dessert]
 ---
-{% include JB/setup %}
 
 I made this recipe a number of times and the results are always
 excellent!

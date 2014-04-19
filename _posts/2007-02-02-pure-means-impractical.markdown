@@ -1,10 +1,8 @@
 ---
 title: Pure means impractical?
 layout: post
-category: essay
 tags: [hightech]
 ---
-{% include JB/setup %}
 
 The other day, a friend of mine
 [complained](http://notbrainsurgery.livejournal.com/31150.html) about

@@ -1,10 +1,8 @@
 ---
 title: Early Poems in Russian
 layout: post
-category: creative-writing
-tags: [russian,poetry]
+tags: [writing,russian,poetry]
 ---
-{% include JB/setup %}
 
 Here's a bunch of poems I wrote in my teens (all in Russian, sorry). I haven't written a single line of poetry in over a decade, but reading these I feel like I just might start writing again. Dumping it all here for posterity.
 

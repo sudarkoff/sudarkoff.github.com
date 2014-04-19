@@ -1,10 +1,8 @@
 ---
 title: Interviewing Engineers
 layout: post
-category: essay
 tags: [hightech,hiring]
 ---
-{% include JB/setup %}
 
 I've been on both sides of the technical interview process for over two decades now - most recently just a couple of weeks ago - and I have a few thoughts I wanted to share.
 

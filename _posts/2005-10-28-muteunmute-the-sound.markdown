@@ -1,10 +1,8 @@
 ---
 title: Mute/unmute the sound
 layout: post
-category: howto
-tags: [hightech,osx]
+tags: [howto,hightech,osx]
 ---
-{% include JB/setup %}
 
 I absolutely love Mac OS X for that behind the cute facade there's an even more beautiful thing called unix. Combine the power of unix shell with the cuteness of AppleScript and you can achieve pretty much anything. For example, to automatically mute the sound at night, just do the following:
 

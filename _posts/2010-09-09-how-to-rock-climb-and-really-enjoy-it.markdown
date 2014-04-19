@@ -1,10 +1,8 @@
 ---
 title: How To Rock Climb (And Really Enjoy It)
 layout: post
-category: essay
 tags: [climbing]
 ---
-{% include JB/setup %}
 
 ![First time climbing after the accident](http://farm5.static.flickr.com/4132/4973340226_fd1bcd7e4e.jpg) 
 

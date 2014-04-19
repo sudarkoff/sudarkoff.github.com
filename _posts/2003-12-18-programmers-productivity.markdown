@@ -1,10 +1,9 @@
 ---
 title: Programmer's Productivity
 layout: post
-category: essay
-tags: [hightech]
+comments: true
+tags: [essay,hightech]
 ---
-{% include JB/setup %}
 
 Yesterday I spent twelve hours hunting down a most bizarre bug. I
 flipped through literally thousands of lines of code, I set dozens of

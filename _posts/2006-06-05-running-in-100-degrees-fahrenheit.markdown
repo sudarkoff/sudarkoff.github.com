@@ -1,10 +1,8 @@
 ---
 title: Running in 100 degrees Fahrenheit
 layout: post
-category: essay
 tags: [running]
 ---
-{% include JB/setup %}
 
 Last Saturday's long run didn't go very well. By Siberian guy's
 standards the weather was absolutely nasty — 100° Fahrenheit and 100%

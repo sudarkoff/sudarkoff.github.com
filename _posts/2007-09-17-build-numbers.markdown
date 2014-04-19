@@ -1,10 +1,8 @@
 ---
 title: Build numbers
 layout: post
-category: essay
 tags: [hightech,programming]
 ---
-{% include JB/setup %}
 
 [Wincent Colaiuta](http://wincent.com/a/about/wincent/) in his blog post "[Build numbers in a Git-based development cycle](http://wincent.com/a/about/wincent/weblog/archives/2007/07/build_numbers_i.php)" is trying to come up with the build numbering scheme. His requirements are that the build number (1) uniquely identifies the revision of the source code used in the build and (2) provides a clear distinction between earlier and later builds (i.e. is sequential). Git is a distributed system and as such instead of a sequential revision number it uses sha1 to uniquely identify individual commits. The problem is, sha1 is quite long (even its abbreviated form is seven characters) and absolutely non-sequential.
 

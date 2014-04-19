@@ -1,10 +1,8 @@
 ---
 title: Evil Software Architects
 layout: post
-category: essay
-tags: [hightech]
+tags: [essay,hightech]
 ---
-{% include JB/setup %}
 
 > [To Software Architects: Serve End Users, Not Your Egos](http://devx.com/opinion/Article/22649)
 > "When the architect job title slipped into the software development

@@ -1,10 +1,8 @@
 ---
 title: Electronic Book
 layout: post
-category: essay
-tags: [publishing,ebook]
+tags: [publishing,book]
 ---
-{% include JB/setup %}
 
 Thomas Nelson, President and CEO of the "largest Christian publishing
 company in the world" (I could never really understand what the word

@@ -1,10 +1,8 @@
 ---
 title: Searching the source code
 layout: post
-category: howto
 tags: [hightech,programming,tools]
 ---
-{% include JB/setup %}
 
 I have a few aliases in my `~/.bash_aliases` that help me find symbols in the source tree:
 

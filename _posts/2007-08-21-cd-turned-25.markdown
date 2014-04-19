@@ -1,10 +1,8 @@
 ---
 title: CD turned 25
 layout: post
-category: essay
 tags: [history,hightech]
 ---
-{% include JB/setup %}
 
 A few days ago CD turned 25. It's hard to believe that it was around for
 that long! I bought my first audio CD in early 90s -- good ten years

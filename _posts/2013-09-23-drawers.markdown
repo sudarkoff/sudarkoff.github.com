@@ -1,10 +1,8 @@
 ---
 title: Plywood Drawers
 layout: post
-category: make
-tags: [woodworking,project]
+tags: [make,woodworking,project]
 ---
-{% include JB/setup %}
 
 A worksheet for calculating dimensions for plywood drawers constructed with a simple rabbet joint.
 

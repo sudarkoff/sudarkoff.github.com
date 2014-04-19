@@ -1,10 +1,8 @@
 ---
 title: The Everest is taken
 layout: post
-category: essay
 tags: [climbing]
 ---
-{% include JB/setup %}
 
 ![](http://farm4.static.flickr.com/3184/2857743479_c63d076e47.jpg)
 

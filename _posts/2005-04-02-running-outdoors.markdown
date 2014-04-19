@@ -1,10 +1,8 @@
 ---
 title: Running outdoors
 layout: post
-category: essay
-tags: [running]
+tags: [essay,running]
 ---
-{% include JB/setup %}
 
 Yesterday I was running outdoors for the first time since high school. I made a few discoveries:
 

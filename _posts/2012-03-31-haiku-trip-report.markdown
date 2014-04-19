@@ -1,10 +1,8 @@
 ---
 title: Haiku Trip Report
 layout: post
-category: creative-writing
-tags: [poetry,trip-report,climbing]
+tags: [writing,poetry,trip-report,climbing]
 ---
-{% include JB/setup %}
 
     Early April night
     The rain just won't stop falling

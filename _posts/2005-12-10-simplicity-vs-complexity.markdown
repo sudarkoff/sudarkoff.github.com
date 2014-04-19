@@ -1,10 +1,8 @@
 ---
 title: Simplicity vs Complexity
 layout: post
-category: essay
 tags: [design,simplicity]
 ---
-{% include JB/setup %}
 
 The other day, while a bunch of us were out drinking beer, a friend of
 mine slipped a phrase about how he didn't agree with the tendency of

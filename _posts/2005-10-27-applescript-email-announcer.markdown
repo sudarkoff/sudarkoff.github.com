@@ -1,10 +1,8 @@
 ---
 title: AppleScript, Email Announcer
 layout: post
-category: howto
-tags: [hightech,osx]
+tags: [howto,hightech,osx]
 ---
-{% include JB/setup %}
 
 Here’s a little AppleScript I wrote to announce new emails in Mail.app. It pauses the iTunes if it’s playing, speaks the name of the sender if the message is not marked as junk and then resumes the playback.
 

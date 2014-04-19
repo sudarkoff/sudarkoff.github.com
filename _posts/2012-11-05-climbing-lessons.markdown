@@ -1,10 +1,8 @@
 ---
 title: Rock Climbing Lessons
 layout: post
-category: essay
 tags: [climbing]
 ---
-{% include JB/setup %}
 
 There are many lessons to be learned from rock climbing, but the following three are the main ones for me. 
 

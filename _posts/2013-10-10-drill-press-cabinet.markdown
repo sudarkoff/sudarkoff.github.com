@@ -1,10 +1,9 @@
 ---
 title: Drill Press Cabinet
+comments: true
 layout: post
-category: make
-tags: [woodworking,project]
+tags: [make,woodworking,project]
 ---
-{% include JB/setup %}
 
 I needed a space for the beer fridge in my workshop. And my bench-top drill press needed a sturdier base than the one it was sitting at the time. So I designed and built this cabinet. It has a compartment for the fridge at the bottom with some ventilation holes in the back of the cabinet, a couple of drawers for drill bits and whatnot and an open shelf for various thingamajigs I happen to work with at the moment. The top sports a grid of the Festool standard 20mm holes spaced 96mm apart.
 

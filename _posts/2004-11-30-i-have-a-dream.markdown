@@ -1,10 +1,8 @@
 ---
 title: I have a dream
 layout: post
-category: essay
-tags: [hightech, home-automation]
+tags: [essay,hightech,home-automation]
 ---
-{% include JB/setup %}
 
 My sweetest dream for the last few years (of a technological kind, at
 least) was to have a full-blown home automation system. I want to be

@@ -1,10 +1,8 @@
 ---
 title: Miscellaneous Projects
 layout: post
-category: make
-tags: [knitting,woodworking]
+tags: [make,knitting,woodworking]
 ---
-{% include JB/setup %}
 
 I often have projects that don’t fit in a predefined category. This is the place for those projects. Just a couple of examples below.
 

@@ -1,10 +1,8 @@
 ---
 title: Home Automation
 layout: post
-category: make
-tags: [electronics]
+tags: [make,electronics]
 ---
-{% include JB/setup %}
 
 I was always intrigued by the idea of automating the routine parts of my
 life. Over the years, I looked at different technologies and approaches,

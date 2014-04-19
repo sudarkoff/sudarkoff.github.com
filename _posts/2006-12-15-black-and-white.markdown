@@ -1,6 +1,8 @@
 ---
 title: Black and white
 layout: post
+comments: true
+summary: Perhaps, the world is not black and white!?
 tags: [life,diversity]
 ---
 

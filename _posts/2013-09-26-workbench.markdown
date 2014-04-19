@@ -1,6 +1,8 @@
 ---
 title: Woodworking Bench
 layout: post
+comments: true
+summary: In which I document the design and my progress building the ultimate woodworking bench/table.
 tags: [make,woodworking,project]
 ---
 

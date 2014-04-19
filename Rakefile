@@ -12,6 +12,9 @@ task :new do
     f.puts "---"
     f.puts "layout: post"
     f.puts "title: \"DRAFT: #{name}\""
+    f.puts "comments: true"
+    f.puts "summary: "
+    f.puts "tags: []"
     f.puts "---"
   end
 end

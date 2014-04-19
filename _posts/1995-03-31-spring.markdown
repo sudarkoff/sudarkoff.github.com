@@ -2,6 +2,7 @@
 title: Весна
 layout: post
 comments: true
+summary: A very short story about spring.
 tags: [writing,russian]
 ---
 

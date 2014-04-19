@@ -1,6 +1,8 @@
 ---
 title: Running in 100 degrees Fahrenheit
 layout: post
+comments: true
+summary: In which I don't reveal anything insightful at all.
 tags: [running]
 ---
 

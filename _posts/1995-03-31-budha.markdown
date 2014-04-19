@@ -2,7 +2,8 @@
 title: Миссия Будды
 layout: post
 comments: true
-tags: [essay,russian, religion]
+summary: A college essay on the Mission of Buddha.
+tags: [essay,russian,religion]
 ---
 
 # Миссия Будды

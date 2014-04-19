@@ -1,6 +1,8 @@
 ---
 title: Refactoring
 layout: post
+comments: true
+summary: What is code refactoring?
 tags: [essay,hightech]
 ---
 

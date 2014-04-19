@@ -1,6 +1,8 @@
 ---
 title: Running partner
 layout: post
+comments: true
+summary: In which I realize that training with a partner has its benefits (duh)!
 tags: [running]
 ---
 

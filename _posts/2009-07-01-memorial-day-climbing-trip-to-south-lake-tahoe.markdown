@@ -1,6 +1,8 @@
 ---
 title: Memorial Day climbing trip to South Lake Tahoe
 layout: post
+comments: true
+summary: A climbing trip report, lots of pictures.
 tags: [climbing,trip-report]
 ---
 

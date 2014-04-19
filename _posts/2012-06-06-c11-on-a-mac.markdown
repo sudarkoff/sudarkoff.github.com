@@ -1,6 +1,8 @@
 ---
 title: C++11 on a Mac
 layout: post
+comments: true
+summary: A howto for getting a C++11 compiler installed on a Mac.
 tags: [howto,hightech,osx,c++]
 ---
 

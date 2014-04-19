@@ -1,6 +1,8 @@
 ---
 title: Simplicity vs Complexity
 layout: post
+comments: true
+summary: Does simplification of technology makes us dumber?
 tags: [design,simplicity]
 ---
 

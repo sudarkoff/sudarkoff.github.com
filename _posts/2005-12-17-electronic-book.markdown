@@ -1,6 +1,8 @@
 ---
 title: Electronic Book
 layout: post
+comments: true
+summary: Some thoughts on the electronic book publishing.
 tags: [publishing,book]
 ---
 

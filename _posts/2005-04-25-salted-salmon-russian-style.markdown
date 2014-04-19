@@ -1,6 +1,8 @@
 ---
 title: Salted Salmon, Russian style
 layout: post
+comments: true
+summary: Family recipe for the Salted Salmon.
 tags: [cooking,russian]
 ---
 

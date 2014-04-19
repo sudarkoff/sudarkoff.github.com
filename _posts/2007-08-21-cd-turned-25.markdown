@@ -1,6 +1,8 @@
 ---
 title: CD turned 25
 layout: post
+comments: true
+summary: RIP CD. Literally.
 tags: [history,hightech]
 ---
 

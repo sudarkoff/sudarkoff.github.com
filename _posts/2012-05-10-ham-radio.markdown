@@ -1,6 +1,8 @@
 ---
 title: Ham Radio
 layout: post
+comments: true
+summary: The day I received my US Amateur Radio license, for posterity.
 tags: [ham,radio]
 ---
 

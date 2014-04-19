@@ -1,6 +1,8 @@
 ---
 title: Key Git Concepts
 layout: post
+comments: true
+summary: Understanding a few key concepts will help you make sense of how Git works and how to use it effectively.
 tags: [hightech,git]
 ---
 

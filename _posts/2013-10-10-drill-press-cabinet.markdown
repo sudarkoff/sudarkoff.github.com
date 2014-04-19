@@ -1,7 +1,8 @@
 ---
 title: Drill Press Cabinet
-comments: true
 layout: post
+comments: true
+summary: I needed a space for my beer fridge, so I designed and built a base for my drill press that incorporated the fridge. Cheers!
 tags: [make,woodworking,project]
 ---
 

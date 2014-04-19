@@ -1,6 +1,8 @@
 ---
 title: Running outdoors
 layout: post
+comments: true
+summary: In which I share some of my discoveries from running outdoors for the first time.
 tags: [essay,running]
 ---
 

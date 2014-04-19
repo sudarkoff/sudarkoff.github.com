@@ -1,6 +1,8 @@
 ---
 title: Turtles in my navel
 layout: post
+comments: true
+summary: A short piece of fiction inspired by a random combination of words.
 tags: [writing,prose,fiction]
 ---
 

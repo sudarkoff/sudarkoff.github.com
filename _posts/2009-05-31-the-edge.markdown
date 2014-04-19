@@ -1,6 +1,8 @@
 ---
 title: The Edge
 layout: post
+comments: true
+summary: A review and a trip report of sorts for The Edge - a survival camp inspired by "Man vs. Wild".
 tags: [outdoors,survival,trip-report]
 ---
 

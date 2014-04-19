@@ -1,6 +1,8 @@
 ---
-title: 6 mph. Running or Jogging?
+title: Running or Jogging?
 layout: post
+comments: true
+summary: Is 6 mph running or jogging?
 tags: [essay,running]
 ---
 

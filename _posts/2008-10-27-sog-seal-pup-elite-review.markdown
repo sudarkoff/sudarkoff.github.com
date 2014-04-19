@@ -1,6 +1,8 @@
 ---
 title: SOG SEAL Pup Elite Review
 layout: post
+comments: true
+summary: Review for my awesome SOG SEAL Pup Elite knife.
 tags: [review,gear,outdoors]
 ---
 

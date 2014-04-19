@@ -1,7 +1,9 @@
 ---
 title: I have a dream
 layout: post
-tags: [essay,hightech,home-automation]
+comments: true
+summary: I want technology to deliver on its decades-old promises already!
+tags: [hightech,home-automation]
 ---
 
 My sweetest dream for the last few years (of a technological kind, at

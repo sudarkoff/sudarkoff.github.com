@@ -1,6 +1,8 @@
 ---
 title: A little bad poetry
 layout: post
+comments: true
+summary: An attempt to translate one of my shorter old poems.
 tags: [writing,poetry]
 ---
 

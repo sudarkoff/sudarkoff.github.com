@@ -1,6 +1,8 @@
 ---
 title: Searching the source code
 layout: post
+comments: true
+summary: In which I share a tip for navigating a large codebase.
 tags: [hightech,programming,tools]
 ---
 

@@ -1,6 +1,8 @@
 ---
 title: Mute/unmute the sound
 layout: post
+comments: true
+summary: An AppleScript for muting and unmuting sound.
 tags: [howto,hightech,osx]
 ---
 

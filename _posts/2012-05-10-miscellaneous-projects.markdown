@@ -1,6 +1,8 @@
 ---
 title: Miscellaneous Projects
 layout: post
+comments: true
+summary: A list of my miscellaneous projects.
 tags: [make,knitting,woodworking]
 ---
 

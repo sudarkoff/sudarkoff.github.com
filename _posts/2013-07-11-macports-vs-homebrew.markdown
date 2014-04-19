@@ -1,6 +1,8 @@
 ---
 title: Why I switched from MacPorts to Homebrew
 layout: post
+comments: true
+summary: Somebody asked me to enumerate the reasons I switched from MacPorts to Homebrew.
 tags: [hightech,osx]
 ---
 

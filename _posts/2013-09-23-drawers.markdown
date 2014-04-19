@@ -1,6 +1,8 @@
 ---
 title: Plywood Drawers
 layout: post
+comments: true
+summary: A worksheet for calculating part sizes for a drawer.
 tags: [make,woodworking,project]
 ---
 

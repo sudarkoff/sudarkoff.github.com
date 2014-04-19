@@ -1,6 +1,8 @@
 ---
 title: Camping with the baby, take 1
 layout: post
+comments: true
+summary: Some tips for comping with the baby.
 tags: [camping,children,trip-report]
 ---
 

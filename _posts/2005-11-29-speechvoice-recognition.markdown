@@ -1,6 +1,8 @@
 ---
 title: Speech/voice recognition
 layout: post
+comments: true
+summary: Some thoughts on the voice-based UI.
 tags: [hightech,future]
 ---
 

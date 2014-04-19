@@ -1,6 +1,8 @@
 ---
 title: Leaving
 layout: post
+comments: true
+summary: In which I mourn and grieve.
 tags: [life]
 ---
 

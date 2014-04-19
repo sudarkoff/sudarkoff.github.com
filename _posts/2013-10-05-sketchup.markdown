@@ -1,6 +1,8 @@
 ---
 title: SketchUp Models
 layout: post
+comments: true
+summary: A list of my commonly used SketchUp elements and components.
 tags: [make,design,sketchup,project]
 ---
 

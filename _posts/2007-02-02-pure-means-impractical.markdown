@@ -1,6 +1,8 @@
 ---
 title: Pure means impractical?
 layout: post
+comments: true
+summary: In which I attempt to sound smarter than I really am.
 tags: [hightech]
 ---
 
@@ -17,7 +19,7 @@ useful in practice. There seems to be some connection between "pure" and
 "impractical", don't you think?
 
 In one of my previous posts I
-[argued](/2007/01/completeness_vs_consistency.html) that software
+[argued](/completeness_vs_consistency/) that software
 systems are essentially incomplete. I thought it was an interesting
 argument against obsessing about completeness. But of course in reality
 software systems are far from formal (pure). Unlike calculus, software

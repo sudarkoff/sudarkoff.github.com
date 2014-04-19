@@ -1,6 +1,8 @@
 ---
 title: Emergency Supplies
 layout: post
+comments: true
+summary: A worksheet for calculating the amounts of emergency supplies for a family of a given size.
 tags: [emergency,survival,preparedness]
 ---
 

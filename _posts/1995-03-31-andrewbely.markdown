@@ -2,7 +2,8 @@
 title: Анупадака Белый
 layout: post
 comments: true
-tags: [essay,russian, literature, poetry]
+summary: A college essay on the symbolism in the poetry of Andrei Bely.
+tags: [essay,russian,poetry]
 ---
 
 ## СИМВОЛИЗМ

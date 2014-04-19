@@ -1,6 +1,8 @@
 ---
 title: Early Poems in Russian
 layout: post
+comments: true
+summary: A sampling of my early poems in Russian.
 tags: [writing,russian,poetry]
 ---
 

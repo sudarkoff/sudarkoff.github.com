@@ -1,6 +1,8 @@
 ---
 title: Dvorak, 56WPM
 layout: post
+comments: true
+summary: An update on my experiment in switching to a more economical and ergonomic keyboard layout.
 tags: [hightech,dvorak]
 ---
 

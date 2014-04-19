@@ -1,6 +1,8 @@
 ---
 title: Haiku Trip Report
 layout: post
+comments: true
+summary: My submission for the Haiku Trip Report meme.
 tags: [writing,poetry,trip-report,climbing]
 ---
 

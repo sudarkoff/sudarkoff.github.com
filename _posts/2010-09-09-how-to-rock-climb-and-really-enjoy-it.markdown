@@ -1,6 +1,8 @@
 ---
 title: How To Rock Climb (And Really Enjoy It)
 layout: post
+comments: true
+summary: On climbing rocks for fun and profit.
 tags: [climbing]
 ---
 

@@ -1,6 +1,8 @@
 ---
 title: The Da Vinci Code
 layout: post
+comments: true
+summary: Book review for the Dan Brown's "The Da Vinci Code" (no spoilers).
 tags: [review,book]
 ---
 

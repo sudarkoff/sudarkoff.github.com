@@ -1,6 +1,8 @@
 ---
 title: Borders 2010
 layout: post
+comments: true
+summary: A writing "shitty first draft" exercise.
 tags: [writing,prose]
 ---
 

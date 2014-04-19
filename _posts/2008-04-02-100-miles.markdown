@@ -1,6 +1,8 @@
 ---
 title: 100 Miles
 layout: post
+comments: true
+summary: Running milestone.
 tags: [running]
 ---
 

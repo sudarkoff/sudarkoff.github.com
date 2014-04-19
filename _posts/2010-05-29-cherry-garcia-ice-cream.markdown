@@ -1,6 +1,8 @@
 ---
 title: Cherry Garcia ice cream
 layout: post
+comments: true
+summary: A recipe for my most favoritest ice cream ever!
 tags: [cooking,dessert]
 ---
 

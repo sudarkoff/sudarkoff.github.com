@@ -1,6 +1,8 @@
 ---
 title: AppleScript, Email Announcer
 layout: post
+comments: true
+summary: An AppleScript for announcing emails as they arrive in the inbox.
 tags: [howto,hightech,osx]
 ---
 

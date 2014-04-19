@@ -2,7 +2,8 @@
 title: Programmer's Productivity
 layout: post
 comments: true
-tags: [essay,hightech]
+summary: A meditative piece in which I explore the notion of productivity as applied to the craft of a software developer (and other such crap).
+tags: [hightech]
 ---
 
 Yesterday I spent twelve hours hunting down a most bizarre bug. I

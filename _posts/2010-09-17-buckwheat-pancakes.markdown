@@ -1,6 +1,8 @@
 ---
 title: Buckwheat Pancakes
 layout: post
+comments: true
+summary: My favorite recipe for low-gluten pancakes.
 tags: [cooking,breakfast]
 ---
 

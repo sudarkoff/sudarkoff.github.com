@@ -1,6 +1,8 @@
 ---
 title: Markdown + Pandoc Workflow
 layout: post
+comments: true
+summary: A description of my highly nerdy writing tools and the workflow.
 tags: [howto,writing,hightech]
 ---
 

@@ -1,6 +1,8 @@
 ---
 title: The Everest is taken
 layout: post
+comments: true
+summary: Another update on my rock climbing hobby.
 tags: [climbing]
 ---
 

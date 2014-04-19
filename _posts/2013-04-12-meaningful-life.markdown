@@ -1,6 +1,8 @@
 ---
 title: Meaninfgul Life
 layout: post
+comments: true
+summary: A reminder to myself to live a meaningful life.
 tags: [life,happiness]
 ---
 

@@ -1,6 +1,8 @@
 ---
 title: Rock Climbing Lessons
 layout: post
+comments: true
+summary: There are many lessons to be learned from rock climbing.
 tags: [climbing]
 ---
 

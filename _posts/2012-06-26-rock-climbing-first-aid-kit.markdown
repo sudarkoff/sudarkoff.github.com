@@ -1,6 +1,8 @@
 ---
 title: Rock Climbing First-Aid Kit
 layout: post
+comments: true
+summary: Some thoughts on what constitutes a good rock climbing first-aid kit.
 tags: [howto,climbing,medicine,first-aid]
 ---
 

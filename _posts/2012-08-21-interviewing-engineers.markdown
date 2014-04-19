@@ -1,6 +1,8 @@
 ---
 title: Interviewing Engineers
 layout: post
+comments: true
+summary: On interviewing (software) engineers the right way.
 tags: [hightech,hiring]
 ---
 

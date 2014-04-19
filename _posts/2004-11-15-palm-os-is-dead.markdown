@@ -1,7 +1,9 @@
 ---
 title: Palm OS is dead
 layout: post
-tags: [essay,hightech]
+comments: true
+summary: In which I lament the inevitable demise of the Palm OS platform.
+tags: [hightech]
 ---
 
 I was cleaning up the address book on my PDA the other day when I suddenly realized that Palm OS is going to die pretty soon! Yes, I think its days are counted and here's why.

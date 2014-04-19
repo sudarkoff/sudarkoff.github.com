@@ -1,6 +1,8 @@
 ---
 title: Completeness vs. consistency
 layout: post
+comments: true
+summary: A case against perfectionism. On "done" vs. "some day, maybe, but done right".
 tags: [design,hightech]
 ---
 

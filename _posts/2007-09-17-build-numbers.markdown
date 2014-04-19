@@ -1,6 +1,8 @@
 ---
 title: Build numbers
 layout: post
+comments: true
+summary: Build numbers for projects that use Git for source control.
 tags: [hightech,programming]
 ---
 

@@ -20,10 +20,14 @@ task :new do
   end
 end
 
-
 desc "Startup Jekyll"
 task :start do
   sh "jekyll serve"
+end
+
+desc "Build the pages locally like GitHub would do it (safe plugins)"
+task :build do
+  sh "jekyll build"
 end
 
 desc "Publish the changes to GitHub"

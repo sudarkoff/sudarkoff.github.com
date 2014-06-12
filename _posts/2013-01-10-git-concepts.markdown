@@ -6,8 +6,9 @@ summary: Understanding a few key concepts will help you make sense of how Git wo
 tags: [hightech,git]
 ---
 
-*This article was initially written by my colleague Filip Machi.<br />
-Published here with his blessing.*
+*This article was initially written by my ex-colleague Filip Machi.<br />
+I added a few things, updated some things to reflect the current state of things and edited other things to my liking.<br />
+Published here with Filip's blessing.*
 
 Understanding a few key concepts will help you make sense of how Git works and how to use it effectively.
 

@@ -7,9 +7,11 @@ task :new do
   puts "Enter the title:"
   title = STDIN.gets.chomp
   name = title.downcase.strip.gsub(' ', '-').gsub(/[^\w-]/, '')
-  FileUtils.touch("drafts/#{name}.markdown")
+  date = Time.now.strftime("%Y-%m-%d")
 
-  open("drafts/#{name}.markdown", 'a') do |f|
+  FileUtils.touch("_posts/#{date}-#{name}.markdown")
+
+  open("_posts/#{date}-#{name}.markdown", 'a') do |f|
     f.puts "---"
     f.puts "layout: post"
     f.puts "title: #{title}"

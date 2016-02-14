@@ -6,12 +6,12 @@ layout: layout
     <div class="row">
         <div class="span7 column">
             <h1>{{ page.title }}</h1>
-            {% if page.draft %}<div>This post is a draft, come back later for the finished version.</div>{% endif %}
         </div>
     </div>
 
     <div class="row">
-        <div class="span7 columns">
+        <div class="span7 columns {% if page.draft %}draft{% endif %}">
+            {% if page.draft %}<div class="draft-blurb">This is a draft, come back later for the finished version.</div>{% endif %}
             {{ content }}
         </div>
     </div>
@@ -26,8 +26,6 @@ layout: layout
             <p>
               <i class="icon-calendar"></i> {{ page.date | date: "%B %e, %Y" }}
               | <i class="icon-comment"></i> <a href="{{ site.url }}{{ page.url }}#disqus_thread""></a>
-              <br />
-              <i class="icon-tags"></i> Tags :{% for tag in page.tags %} <a href="/tags/{{ tag }}" rel="tooltip" title="View pages tagged with &quot;{{ tag }}&quot;"><span class="label label-info">{{ tag }}</span></a>  {% if forloop.last != true %} {% endif %} {% endfor %}
               <br />
               <a href="https://twitter.com/share" class="twitter-share-button" data-via="{{ site.author.twitter }}">Tweet</a> <g:plusone size="medium"></g:plusone></h5>
             </p>

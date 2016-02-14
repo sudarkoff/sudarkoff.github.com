@@ -18,6 +18,7 @@ task :new do
     f.puts "comments: true"
     f.puts "summary: <TODO: enter summary>"
     f.puts "tags: [<TODO: specify tags>]"
+    f.puts "draft: true"
     f.puts "---"
   end
 end

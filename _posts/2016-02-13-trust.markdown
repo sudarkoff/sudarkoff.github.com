@@ -15,7 +15,7 @@ What does it mean to trust somebody? We tend to think of trust as either somethi
 
 When we trust the teams to act with authority in the face of changig conditions, we get quicker and better informed decisions than if they had to consult with another authority. The fine-grained authority (also known as trust) creates faster more certain outcomes.
 
-## What's Trust?
+## Unconditional Trust
 
 On one hand, trust could be thought of as simply accepting a promise. A team promises not to release untested code and if we trust the team to keep their promise, we simply accept the promise and let them do their thing. In this sense, trust is also a promise - a promise to accept the outcome. On the other hand, if we do not trust the team, we might either not accept the promise at all or accept it conditionally ("you can release once you prove to us that the code is free of bugs"). Conditions are a sign of the lack of trust. Or to put it differently, conditions mean there's a lack of promise to accept the outcome. A problem with conditions is they slow down cooperation (and might even lead to deadlocks), and they make it difficult to feel responsible for an outcome that's not entirely certain. It's not hard to see, I hope, that trust must be unconditional.
 

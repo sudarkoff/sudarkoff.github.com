@@ -5,15 +5,15 @@ comments: false
 summary: I am a seasoned software professional with a diverse experience in a wide range of industries from financial services and semiconductors to networking and virtualization. I am equally comfortable with the Dev and Ops aspects of running a business. My passion lies in building simple-to-use, simple-to-maintain, self-reliant, and resilient systems that solve critical everyday problems. I believe in hiring smart, passionate and growth-oriented people and then getting the hell out of their way. Usable trumps pretty, maintainable trumps clever, resilient trumps efficient.
 ---
 
-# GEORGE SUDARKOFF
+## GEORGE SUDARKOFF
 
 +1 (415) 830-3310 // [george@sudarkoff.com](mailto:george@sudarkoff.com) // [linkedin.com/in/sudarkoff](https://www.linkedin.com/in/sudarkoff) 
 
-## SUMMARY
+### SUMMARY
 
 I am a seasoned software professional with a diverse experience in a wide range of industries from financial services and semiconductors to networking and virtualization. Most recently I built and managed a team responsible for building and maintaining a standard platform for building, deploying, and operating just under 100 microservices comprising a large web site. I am equally comfortable with building and operating large web sites. My passion lies in building simple-to-use, simple-to-maintain, self-reliant, and resilient systems that solve critical everyday problems. I believe in hiring smart, passionate and growth-oriented people and getting the hell out of their way. Usable trumps pretty, maintainable trumps clever, resilient trumps efficient.
 
-## EXPERIENCE
+### EXPERIENCE
 
 **Engineering Manager, DevOps <br />
 SurveyMonkey, Palo Alto, CA // 2014 -- Present**

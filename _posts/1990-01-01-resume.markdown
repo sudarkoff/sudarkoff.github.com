@@ -1,0 +1,68 @@
+---
+title: Resume
+layout: post
+comments: false
+summary: I am a seasoned software professional with a diverse experience in a wide range of industries from financial services and semiconductors to networking and virtualization. I am equally comfortable with the Dev and Ops aspects of running a business. My passion lies in building simple-to-use, simple-to-maintain, self-reliant, and resilient systems that solve critical everyday problems. I believe in hiring smart, passionate and growth-oriented people and then getting the hell out of their way. Usable trumps pretty, maintainable trumps clever, resilient trumps efficient.
+---
+
+# GEORGE SUDARKOFF
+
++1 (415) 830-3310 | [george@sudarkoff.com](mailto:george@sudarkoff.com) | [linkedin.com/in/sudarkoff](https://www.linkedin.com/in/sudarkoff) 
+
+## SUMMARY
+
+I am a seasoned software professional with a diverse experience in a wide range of industries from financial services and semiconductors to networking and virtualization. Most recently I built and managed a team responsible for building and maintaining a standard platform for building, deploying, and operating just under 100 microservices comprising a large web site. I am equally comfortable with building and operating large web sites. My passion lies in building simple-to-use, simple-to-maintain, self-reliant, and resilient systems that solve critical everyday problems. I believe in hiring smart, passionate and growth-oriented people and getting the hell out of their way. Usable trumps pretty, maintainable trumps clever, resilient trumps efficient.
+
+## EXPERIENCE
+
+**Engineering Manager, DevOps <br />
+SurveyMonkey, Palo Alto, CA // 2014 -- Present**
+
+**Staff Engineer <br />
+VMware, Palo Alto, CA // 2013 -- 2014 <br />
+Virsto, Sunnyvale, CA // 2012 -- 2013**
+
+**Staff Software Engineer, Team Lead <br />
+Juniper Networks, Sunnyvale, CA // 2009 -- 2012**
+
+- Lead two software teams responsible for designing and developing a number of internal tools to support various business and software processes. Among the tools developed were - a tool for tracking programs, projects, requirements, releases, branches, etc.; the analytics dashboard.
+- Designed and implemented numerous features for the above-mentioned systems. Improved performance of the Tomcat/Drools-based solution by 400%.
+- Designed and implemented significant portions of a custom web-based Analytics Dashboard application.
+- Lead the efforts to refactor and replace major portions of a custom legacy Analytics Dashboard with a microservices-based solution.
+
+**Member of Technical Staff <br />
+VMware, Palo Alto, CA // 2007 -- 2008**
+
+- As a member of the Enterprise Readiness Team, proposed and implemented numerous improvements to the VMware's host management layer, software process and development tools. The main focus areas for the team were: testability, debuggability, efficiency and security of the VMware's products.
+- Designed and implemented in C++ parts of the update management system.
+- Contributed to implementing address space layout randomization (ASLR) for kernel and many other C and C++ components.
+- Implemented integration testing framework in Python.
+- Assisted the build team in switching to SCons.
+
+**Sr. System Software Engineer <br />
+Ixia Communications, Calabasas, CA // 2006 -- 2007**
+
+- Designed and implemented a highly efficient version-tolerant serialization library in C++.
+- Wrote a Python script to automatically parse and re-generate over 700 existing serialization methods.
+- Re-factored numerous aspects of the legacy C++ code.
+
+**Sr. Software Engineer <br />
+Applied Materials, Santa Clara, CA // 2000 -- 2005**
+
+Coordinated efforts in re-factoring/re-designing legacy applications and libraries. Supported Oracle database schema and database abstraction layer library. Using the object-oriented approach, designed and implemented:
+
+- complex error handling library and a set of guidelines for the existing multi-threaded n-tier software system;
+- subsystem to facilitate receiving and displaying live video from an optical microscope and from an electron-beam microscope;
+- Fiber Channel libraries for VxWorks and Windows NT 4;
+- high-performance OpenGL library for displaying 2D graphics;
+- image processing library for the post-processing of the defect images;
+- proprietary image processing algorithm for the offline tuning of inspection parameters;
+- high-performance and high-precision wafer alignment algorithm;
+- SEMI standards-based import/export format for inspection recipes and imaging parameters.
+
+**Sr. Staff Engineer, Team Lead <br />
+Postal Service of Russia, Barnaul, Russia // February 1996--August 2000**
+
+- Managed a team of developers. Directed development of a full automation system of daily postal service operations, including mail delivery, money transfers, accounting, human resources, statistics, etc. Performed database analysis and design. Implemented and supported database schema and database abstraction layer library. Implemented numerous parts of the system.
+
+*(earlier positions omitted)*

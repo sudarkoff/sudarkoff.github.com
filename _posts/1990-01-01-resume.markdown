@@ -15,12 +15,18 @@ I am a seasoned software professional with a diverse experience in a wide range 
 
 ### EXPERIENCE
 
-**Engineering Manager, DevOps <br />
+**Engineering Manager, DevOps, CSM <br />
 SurveyMonkey, Palo Alto, CA // 2014 -- Present**
+
+- Built the DevOps team from the ground up.
+- Played the key role in re-engineering the entire infrastructure, building the necessary tools, and transforming the culture of monthly releases performed by a handful of system operators to application teams owning all aspects of their services from building and testing, to deploying and operating them in production.
 
 **Staff Engineer <br />
 VMware, Palo Alto, CA // 2013 -- 2014 <br />
 Virsto, Sunnyvale, CA // 2012 -- 2013**
+
+- Re-designed and re-implemented in C++ the distrubited storage debugger originally written in C. Optimized the performance in some cases achieving the 4000% improvement in speed.
+- Contributed to various parts of the VSAN product, re-implemented the cluster placement using the roulette-wheel selection via stochastic acceptance algorithm which significantly reduced the need to rebalance the storage.
 
 **Staff Software Engineer, Team Lead <br />
 Juniper Networks, Sunnyvale, CA // 2009 -- 2012**

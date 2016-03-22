@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Availability: Designing for failure
+title: "Availability: Designing for failure"
 comments: true
 summary: What does it mean to design for failure and why is it important? 
 ---

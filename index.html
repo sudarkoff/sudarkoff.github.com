@@ -3,12 +3,13 @@ layout: layout
 title: "George Sudarkoff"
 ---
 <p></p>
-{% for post in site.posts offset: 0 limit: 25 %}
+{% for post in site.posts %}
+{% if not post.draft %}
 <div class="row">
   <div class="span7">
     <div class="row">
-      <div class="span6 {% if post.draft %}draft{% endif %}">
-          <h4><strong><a href="{{ post.url }}">{{ post.title }}</a></strong>{% if post.draft %} (DRAFT){% endif %}</h4>
+      <div class="span6">
+          <h4><strong><a href="{{ post.url }}">{{ post.title }}</a></strong></h4>
             <p>{{ post.summary }}</p>
             <div><i class="icon-calendar"></i> {{ post.date | date: "%B %e, %Y" }}
              | <i class="icon-comment"></i> <a href="{{ site.url }}{{ post.url }}#disqus_thread"></a>
@@ -18,5 +19,6 @@ title: "George Sudarkoff"
     <hr />
   </div>
 </div>
+{% endif %}
 {% endfor %}
 

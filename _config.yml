@@ -26,3 +26,5 @@ analytics:
         tracking_id: 'UA-101017-1'
         domain: 'george.sudarkoff.com'
 
+
+theme: jekyll-theme-tactile

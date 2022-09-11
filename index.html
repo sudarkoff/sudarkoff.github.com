@@ -1,24 +1,28 @@
----
-layout: layout
-title: "George Sudarkoff"
----
-<p></p>
-{% for post in site.posts %}
-{% if not post.draft %}
-<div class="row">
-  <div class="span7">
-    <div class="row">
-      <div class="span6">
-          <h4><strong><a href="{{ post.url }}">{{ post.title }}</a></strong></h4>
-            <p>{{ post.summary }}</p>
-            <div><i class="icon-calendar"></i> {{ post.date | date: "%B %e, %Y" }}
-             | <i class="icon-comment"></i> <a href="{{ site.url }}{{ post.url }}#disqus_thread"></a>
-            </div>
-      </div>
-    </div>
-    <hr />
-  </div>
-</div>
-{% endif %}
-{% endfor %}
+<!DOCTYPE html>
+<html lang="en">
 
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Executive and leadership coaching | George Sudarkoff</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400;1,700&family=Inter:wght@400;500;600;700;800&display=swap">
+    <link rel="stylesheet" href="{{asset "css/screen.css"}}">
+
+    <!-- -->
+</head>
+
+<body class="">
+    <div class="gh-site">
+        
+        <h1>Hello!</h1>
+
+    </div>
+
+    <script src="{{asset "js/main.min.js"}}"></script>
+
+    <!-- TODO: footer -->
+</body>
+
+</html>

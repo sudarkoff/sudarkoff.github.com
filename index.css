@@ -198,21 +198,25 @@ code {
   font-family: Menlo, Monaco, "Courier New", monospace;
 }
 
-pre,
-blockquote {
-  background-color: #fafafa;
+pre {
+  background-color: #e6e0e0;
   font-size: .8rem;
   overflow-x: scroll;
   padding: 1.125em;
 }
 
+blockquote {
+  border-left: 1px solid #e99153;
+  padding: 1.125em;
+}
+
 a,
 a:visited {
-  color: #3498db;
+  color: #e99153;
 }
 
 a:hover,
 a:focus,
 a:active {
-  color: #2980b9;
+  color: #170530;
 }

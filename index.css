@@ -165,8 +165,9 @@ div img {
 
 div.callout {
   width: 100%;
-  color: fff;
+  color: #fff;
   background-color: #e99153;
+  padding: 1.25em;
 }
 
 li {
@@ -196,7 +197,7 @@ pre {
   background-color: #e6e0e0;
   font-size: .8rem;
   overflow-x: scroll;
-  padding: 1.125em;
+  padding: 1.25em;
 }
 
 blockquote {

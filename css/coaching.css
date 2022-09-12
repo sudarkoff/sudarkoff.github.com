@@ -166,6 +166,13 @@ div.callout {
   background-color: #e99153;
 }
 
+div.footer {
+  width: 100%;
+  text-align: center;
+  padding-top: 3em;
+  padding-bottom: 3em;
+}
+
 li {
   margin-left: 2rem;
 }

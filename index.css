@@ -198,7 +198,8 @@ code {
   font-family: Menlo, Monaco, "Courier New", monospace;
 }
 
-pre {
+pre,
+blockquote {
   background-color: #fafafa;
   font-size: .8rem;
   overflow-x: scroll;
@@ -214,4 +215,4 @@ a:hover,
 a:focus,
 a:active {
   color: #2980b9;
-  }
+}

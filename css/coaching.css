@@ -155,6 +155,12 @@ p,
   padding: .25rem;
 }
 
+div.center {
+  margin: 1rem auto 1rem;
+  max-width: 36rem;
+  padding: .25rem;
+}
+
 div img {
   width: 100%;
 }

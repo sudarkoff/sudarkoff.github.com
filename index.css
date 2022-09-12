@@ -165,9 +165,9 @@ div img {
 
 div.callout {
   width: 100%;
-  color: #fff;
+  padding-top: 1.25em;
+  padding-bottom: 1.25em;
   background-color: #e99153;
-  padding: 1.25em;
 }
 
 li {
@@ -186,6 +186,10 @@ p {
   color: #555;
   height: auto;
   line-height: 1.45;
+}
+
+p.callout {
+  color: #fff;    
 }
 
 pre,

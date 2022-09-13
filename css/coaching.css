@@ -172,8 +172,8 @@ p,
 .nav-menu {
   align-items: center;
   display: flex;
-  font-size: 1.2rem;
-  font-weight: 500;
+  font-family: sans-serif;
+  font-size: 0.88rem;
   text-transform: uppercase;
   letter-spacing: 0.01em;
   padding: 0 0 0.88em 0;
@@ -185,8 +185,6 @@ li.nav-item {
   display: list-item;
   text-align: match-parent;
   list-style: none;
-  font-family: sans-serif;
-  font-size: 0.88rem;
 }
 
 li.nav-item a {

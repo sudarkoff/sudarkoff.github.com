@@ -234,7 +234,8 @@ a.button {
   background-color: #e99153;
   border: none;
   color: #fff;
-  padding: 1.25em;
+  padding: 1em 1.25em;
+  font-weight: bold;
   text-align: center;
   text-decoration: none;
   display: inline-block;

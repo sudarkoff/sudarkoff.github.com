@@ -172,10 +172,13 @@ div.callout {
   background-color: #e99153;
 }
 
-div#footer {
-  width: 100%;
+.callout {
+  color: #fff;
+  font-size: 1.999rem;
+}
+
+#footer {
   text-align: center;
-  font-size: 0.75rem;
   padding-top: 3em;
   padding-bottom: 3em;
 }
@@ -196,10 +199,6 @@ p {
   color: #555;
   height: auto;
   line-height: 1.45;
-}
-
-p.callout {
-  color: #fff;    
 }
 
 pre,

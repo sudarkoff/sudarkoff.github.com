@@ -77,47 +77,6 @@ body {
   line-height: 1.85;
 }
 
-.nav-header {
-  display: grid;
-  line-height: 1;
-  padding: 0;
-  margin: 0;
-}
-
-.nav-menu {
-  margin: 0;
-  padding: 0;
-  line-height: 1;
-}
-
-.menu {
-  align-items: center;
-  display: flex;
-  font-size: 1.2rem;
-  font-weight: 500;
-  text-transform: uppercase;
-  letter-spacing: 0.01em;
-  padding: 0;
-  margin: 0;
-}
-
-li.nav {
-  display: list-item;
-  text-align: match-parent;
-  list-style: none;
-  font-family: sans-serif;
-  font-size: 0.88rem;
-}
-
-li.nav a {
-  text-decoration: none;
-  color: #777;
-}
-
-li.nav-current a {
-  color: #ccc;
-}
-
 p {
   font-size: 1rem;
   margin-bottom: 1.3rem;
@@ -191,10 +150,52 @@ body {
 /* === A bit of a gross hack so we can have bleeding divs. */
 
 p,
-*:not(div):not(img):not(body):not(html):not(li):not(p) {
+*:not(div):not(img):not(body):not(html):not(ul):not(li):not(p):not(header):not(nav) {
   margin: 1rem auto 1rem;
   max-width: 36rem;
   padding: .25rem;
+}
+
+.nav-header {
+  line-height: 1;
+  padding: 0;
+  margin: 0;
+}
+
+.nav {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  line-height: 1;
+}
+
+.nav-menu {
+  align-items: center;
+  display: flex;
+  font-size: 1.2rem;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 0.01em;
+  padding: 0 0 0.88em 0;
+  margin: 0;
+  border-bottom: 1px #ccc solid;
+}
+
+li.nav-item {
+  display: list-item;
+  text-align: match-parent;
+  list-style: none;
+  font-family: sans-serif;
+  font-size: 0.88rem;
+}
+
+li.nav-item a {
+  text-decoration: none;
+  color: #777;
+}
+
+li.nav-current a {
+  color: #ccc;
 }
 
 div.center {

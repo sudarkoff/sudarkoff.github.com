@@ -142,7 +142,7 @@ html {
 body {
   color: #444;
   font-family: 'Merriweather', Georgia, serif;
-  margin: 1.999em;
+  margin: 0;
   max-width: 100%;
 }
 
@@ -234,7 +234,10 @@ a.button {
   background-color: #e99153;
   border: none;
   color: #fff;
-  padding: 1em 1.25em;
+  padding-top: 1em;
+  padding-bottom: 1em;
+  padding-left: 1.25em;
+  padding-right: 1.25em;
   font-weight: bold;
   text-align: center;
   text-decoration: none;

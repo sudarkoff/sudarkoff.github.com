@@ -202,6 +202,16 @@ li.nav-current a {
   padding: .25rem;
 }
 
+.one-drop-cap p:first-of-type:first-letter {
+    color: #000000;
+    font-weight: 300;
+    font-size: 80px;
+    line-height: .97;
+    float: left;
+    padding: 5px 10px 0px 3px;
+    font-family: times;
+}
+
 div img {
   width: 100%;
 }

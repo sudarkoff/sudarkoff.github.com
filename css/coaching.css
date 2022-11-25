@@ -196,6 +196,13 @@ li.nav-current a {
   color: #ccc;
 }
 
+ul.attr-list {
+  list-style-type: none;
+  list-style-position: outside;
+  padding: 0;
+  margin: 0;
+}
+
 .center {
   margin: 1rem auto 1rem;
   max-width: 36rem;

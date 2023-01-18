@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>{{ block "title" . }}
+      {{ .Site.Title }}
+    {{ end }}</title>
+  </head>
+  <body>
+    <!-- Code that all your templates share, like a header -->
+    {{ block "main" . }}
+      <!-- The part of the page that begins to differ between templates -->
+    {{ end }}
+    {{ block "footer" . }}
+    <div id="footer">
+			<a href="https://linkedin.com/in/sudarkoff">LinkedIn</a> | <a rel="me" href="https://hachyderm.io/@sudarkoff">Mastodon</a><br />
+			George Sudarkoff &copy; 2019-2023
+	  </div>
+
+    <!-- Start of HubSpot Embed Code -->
+    <script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/23534607.js"></script>
+    <!-- End of HubSpot Embed Code -->
+    {{ end }}
+  </body>
+</html>

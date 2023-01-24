@@ -3,8 +3,6 @@ title: "Key Git Concepts"
 date: 2023-01-23T20:46:53-0800
 ---
 
-#Key Git concepts
-
 Understanding a few key concepts will help you make sense of how Git works and how to use it effectively.
 
 ## Full history
@@ -39,31 +37,31 @@ The basic ideas described above can be illustrated easily. The following example
 
 Start with a couple of text files in a directory:
 
-$ mkdir d1
-$ echo "Hello, world!" >d1/f1
-$ echo "Today is Friday." >d1/f2
+    $ mkdir d1
+    $ echo "Hello, world!" >d1/f1
+    $ echo "Today is Friday." >d1/f2
 
 Build the initial object store from these files. Blob objects will contain the data from the files. In addition, there will be a tree object to represent the directory, and a commit object to represent the initial history of the **d1/** hierarchy:
 
-$ mkdir objects
-$ sha1sum - <d1/f1
-09fac8dbfd27bd9b4d23a00eb648aa751789536d -
-$ cat d1/f1 >objects/09fac8dbfd27bd9b4d23a00eb648aa751789536d
+    $ mkdir objects
+    $ sha1sum - <d1/f1
+    09fac8dbfd27bd9b4d23a00eb648aa751789536d -
+    $ cat d1/f1 >objects/09fac8dbfd27bd9b4d23a00eb648aa751789536d
 
 We now have a blob object for file **f1**. Make a blob object for file **f2**:
 
-$ sha1sum - <d1/f2
-09501bb74c5de43a8775fcdc1916be23c39840b9 -
-$ cat d1/f2 >objects/09501bb74c5de43a8775fcdc1916be23c39840b9
+    $ sha1sum - <d1/f2
+    09501bb74c5de43a8775fcdc1916be23c39840b9 -
+    $ cat d1/f2 >objects/09501bb74c5de43a8775fcdc1916be23c39840b9
 
 The tree object representing the directory **d1/** is constructed from the list of blob objects it contains:
 
-$ cp /dev/null tmpf
-$ echo '09fac8dbfd27bd9b4d23a00eb648aa751789536d d1/f1' >>tmpf
-$ echo '09fac8dbfd27bd9b4d23a00eb648aa751789536d d1/f2' >>tmpf
-$ sha1sum - <tmpf
-3a6e46ad035d2daa47dcddfc2fd4711ae53008a5 -
-$ cat tmpf >objects/3a6e46ad035d2daa47dcddfc2fd4711ae53008a5
+    $ cp /dev/null tmpf
+    $ echo '09fac8dbfd27bd9b4d23a00eb648aa751789536d d1/f1' >>tmpf
+    $ echo '09fac8dbfd27bd9b4d23a00eb648aa751789536d d1/f2' >>tmpf
+    $ sha1sum - <tmpf
+    3a6e46ad035d2daa47dcddfc2fd4711ae53008a5 -
+    $ cat tmpf >objects/3a6e46ad035d2daa47dcddfc2fd4711ae53008a5
 
 So far, we have:
 
@@ -73,13 +71,13 @@ So far, we have:
 
 To capture the history at this point, we need a commit object:
 
-$ cp /dev/null tmpf
-$ echo 'parent commit: none' >>tmpf
-$ echo 'message: "initial commit"' >>tmpf
-$ echo 'tree: 3a6e46ad035d2daa47dcddfc2fd4711ae53008a5' >>tmpf
-$ sha1sum - <tmpf
-b38566fa5aa3f04fdcc60df9faa4447796289a04 -
-$ cat tmpf >objects/b38566fa5aa3f04fdcc60df9faa4447796289a04
+    $ cp /dev/null tmpf
+    $ echo 'parent commit: none' >>tmpf
+    $ echo 'message: "initial commit"' >>tmpf
+    $ echo 'tree: 3a6e46ad035d2daa47dcddfc2fd4711ae53008a5' >>tmpf
+    $ sha1sum - <tmpf
+    b38566fa5aa3f04fdcc60df9faa4447796289a04 -
+    $ cat tmpf >objects/b38566fa5aa3f04fdcc60df9faa4447796289a04
 
 The repository, represented by the **objects/** directory, now contains:
 
@@ -90,82 +88,82 @@ The repository, represented by the **objects/** directory, now contains:
 
 The commit object represents a starting point into the object store. From that starting point, we can recreate the file hierarchy under **d1/**. We remember the starting commit object by saving its SHA1 file name to a well-known place:
 
-$ echo b38566fa5aa3f04fdcc60df9faa4447796289a04 >HEAD
+    $ echo b38566fa5aa3f04fdcc60df9faa4447796289a04 >HEAD
 
 So starting from HEAD, we can reconstruct the **d1/** directory:
 
-$ cat objects/$( cat HEAD )
-parent commit: none
-message: "initial commit"
-tree: 3a6e46ad035d2daa47dcddfc2fd4711ae53008a5
+    $ cat objects/$( cat HEAD )
+    parent commit: none
+    message: "initial commit"
+    tree: 3a6e46ad035d2daa47dcddfc2fd4711ae53008a5
 
-$ cat objects/3a6e46ad035d2daa47dcddfc2fd4711ae53008a5
-09fac8dbfd27bd9b4d23a00eb648aa751789536d d1/f1
-09501bb74c5de43a8775fcdc1916be23c39840b9 d1/f2
+    $ cat objects/3a6e46ad035d2daa47dcddfc2fd4711ae53008a5
+    09fac8dbfd27bd9b4d23a00eb648aa751789536d d1/f1
+    09501bb74c5de43a8775fcdc1916be23c39840b9 d1/f2
 
-$ cat objects/09fac8dbfd27bd9b4d23a00eb648aa751789536d
-Hello, world!
+    $ cat objects/09fac8dbfd27bd9b4d23a00eb648aa751789536d
+    Hello, world!
 
-$ cat objects/09501bb74c5de43a8775fcdc1916be23c39840b9
-Today is Friday
+    $ cat objects/09501bb74c5de43a8775fcdc1916be23c39840b9
+    Today is Friday
 
 Now we edit **d1/f1** and rebuild its blob, which will be different from the first blob for **d1/f1**:
 
-$ echo "Goodbye, world!" >d1/f1
-$ sha1sum - <d1/f1
-3b287f55eaebdaa8342e0a0119a49cb4243a305f -
-$ cat >objects/3b287f55eaebdaa8342e0a0119a49cb4243a305f
+    $ echo "Goodbye, world!" >d1/f1
+    $ sha1sum - <d1/f1
+    3b287f55eaebdaa8342e0a0119a49cb4243a305f -
+    $ cat >objects/3b287f55eaebdaa8342e0a0119a49cb4243a305f
 
 Notice that both blobs for file **d1/f1**, the one representing the initial contents of **d1/f1** and the one for the edited version, are now in the object store.
 
 Because the SHA1 name of **d1/f1** changed, the tree object representing the **d1/** directory also changes:
 
-$ cp /dev/null tmpf
-$ echo '3b287f55eaebdaa8342e0a0119a49cb4243a305f d1/f1' >>tmpf
-$ echo '09fac8dbfd27bd9b4d23a00eb648aa751789536d d1/f2' >>tmpf
-$ sha1sum - <tmpf
-264c5ac9cd23dbf843e1bf528c83bae729be9a5a -
-$ cat tmpf >objects/264c5ac9cd23dbf843e1bf528c83bae729be9a5a
+    $ cp /dev/null tmpf
+    $ echo '3b287f55eaebdaa8342e0a0119a49cb4243a305f d1/f1' >>tmpf
+    $ echo '09fac8dbfd27bd9b4d23a00eb648aa751789536d d1/f2' >>tmpf
+    $ sha1sum - <tmpf
+    264c5ac9cd23dbf843e1bf528c83bae729be9a5a -
+    $ cat tmpf >objects/264c5ac9cd23dbf843e1bf528c83bae729be9a5a
 
 Likewise, there are now two tree objects in the object store, the initial one representing the initial **d1/** directory, and this new one representing the **d1/** directory after the file **d1/f1** changed.
 
 We also capture the new history by creating a new commit object. This commit object contains a message, the SHA1 for the new tree object, and the SHA1 of the old commit. The pointer to the old commit captures the history indicating where this commit derives from:
 
-$ cp /dev/null tmpf
-$ echo 'parent commit: b38566fa5aa3f04fdcc60df9faa4447796289a04' >>tmpf
-$ echo 'message: "edited f1"' >>tmpf
-$ echo 'tree: 264c5ac9cd23dbf843e1bf528c83bae729be9a5a' >>tmpf
-$ sha1sum - <tmpf
-b38566fa5aa3f04fdcc60df9faa4447796289a04 -
-$ cat tmpf >objects/a6a6d088cc2db59ba7fced36b51942204aebabe2
+    $ cp /dev/null tmpf
+    $ echo 'parent commit: b38566fa5aa3f04fdcc60df9faa4447796289a04' >>tmpf
+    $ echo 'message: "edited f1"' >>tmpf
+    $ echo 'tree: 264c5ac9cd23dbf843e1bf528c83bae729be9a5a' >>tmpf
+    $ sha1sum - <tmpf
+    b38566fa5aa3f04fdcc60df9faa4447796289a04 -
+    $ cat tmpf >objects/a6a6d088cc2db59ba7fced36b51942204aebabe2
 
 The new commit object represents the latest state of the **d1/** hierarchy, so we save this starting point again:
 
-$ echo a6a6d088cc2db59ba7fced36b51942204aebabe2 >HEAD
+    $ echo a6a6d088cc2db59ba7fced36b51942204aebabe2 >HEAD
 
 The latest hierarchy can be reconstructed from the latest commit:
 
-$ cat objects/$( cat HEAD )
-parent commit: b38566fa5aa3f04fdcc60df9faa4447796289a04
-message: "edited f1"
-tree: 264c5ac9cd23dbf843e1bf528c83bae729be9a5a
+    $ cat objects/$( cat HEAD )
+    parent commit: b38566fa5aa3f04fdcc60df9faa4447796289a04
+    message: "edited f1"
+    tree: 264c5ac9cd23dbf843e1bf528c83bae729be9a5a
 
-$ cat objects/264c5ac9cd23dbf843e1bf528c83bae729be9a5a
-3b287f55eaebdaa8342e0a0119a49cb4243a305f d1/f1
-09501bb74c5de43a8775fcdc1916be23c39840b9 d1/f2
+    $ cat objects/264c5ac9cd23dbf843e1bf528c83bae729be9a5a
+    3b287f55eaebdaa8342e0a0119a49cb4243a305f d1/f1
+    09501bb74c5de43a8775fcdc1916be23c39840b9 d1/f2
 
-$ cat objects/3b287f55eaebdaa8342e0a0119a49cb4243a305f
-Goodbye, world!
+    $ cat objects/3b287f55eaebdaa8342e0a0119a49cb4243a305f
+    Goodbye, world!
 
-$ cat objects/09501bb74c5de43a8775fcdc1916be23c39840b9
-Today is Friday
+    $ cat objects/09501bb74c5de43a8775fcdc1916be23c39840b9
+    Today is Friday
 
 The old hierarchy is still there, it just begins at the old starting point:
 
-$ cat objects/b38566fa5aa3f04fdcc60df9faa4447796289a04
-parent commit: none
-message: "initial commit"
-tree: 3a6e46ad035d2daa47dcddfc2fd4711ae53008a5
+    $ cat objects/b38566fa5aa3f04fdcc60df9faa4447796289a04
+    parent commit: none
+    message: "initial commit"
+    tree: 3a6e46ad035d2daa47dcddfc2fd4711ae53008a5
 
 ... etc., like the initial commit above.
 

@@ -104,7 +104,7 @@ p,
 }
 
 .nav {
-  width: 100%;
+  #width: 100%;
   margin: 0;
   padding: 0;
   line-height: 1;
@@ -119,7 +119,7 @@ p,
   letter-spacing: 0.01em;
   padding: 0 0 0.88em 0;
   margin: 0;
-  border-bottom: 1px #ccc solid;
+  #border-bottom: 1px #ccc solid;
 }
 
 li.nav-item {
@@ -131,17 +131,6 @@ li.nav-item {
 li.nav-item a {
   text-decoration: none;
   color: #777;
-}
-
-li.nav-current a {
-  color: #ccc;
-}
-
-ul.attr-list {
-  list-style-type: none;
-  list-style-position: outside;
-  padding: 0;
-  margin: 0;
 }
 
 div img {

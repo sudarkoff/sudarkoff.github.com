@@ -9,7 +9,21 @@
     {{ end }}</title>
   </head>
   <body>
-    <!-- Code that all your templates share, like a header -->
+    <header class="nav-header">
+        <nav class="nav">
+            <ul class="nav-menu">
+                <li class="nav-item">
+                    <a href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a href="/posts">Articles</a>
+                </li>
+                <li class="nav-item">
+                    <a href="https://failtosucceed.blog">Fail to Succeed</a>
+                </li>
+            </ul>
+        </nav>
+    </header>
     {{ block "main" . }}
     <!-- The part of the page that begins to differ between templates -->
     {{ end }}

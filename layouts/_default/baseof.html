@@ -11,12 +11,12 @@
   <body>
     <!-- Code that all your templates share, like a header -->
     {{ block "main" . }}
-      <!-- The part of the page that begins to differ between templates -->
+    <!-- The part of the page that begins to differ between templates -->
     {{ end }}
     {{ block "footer" . }}
     <div id="footer">
-			<a href="https://linkedin.com/in/sudarkoff">LinkedIn</a> | <a rel="me" href="https://hachyderm.io/@sudarkoff">Mastodon</a><br />
-			George Sudarkoff &copy; 2019-2023
+		<a href="https://linkedin.com/in/sudarkoff">LinkedIn</a> | <a rel="me" href="https://hachyderm.io/@sudarkoff">Mastodon</a><br />
+		George Sudarkoff &copy; 2019-2023
 	</div>
     {{ end }}
   </body>

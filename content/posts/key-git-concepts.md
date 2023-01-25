@@ -1,5 +1,5 @@
 ---
-title: "Key Git Concepts"
+title: "Key Git concepts"
 date: 2023-01-23T20:46:53-0800
 ---
 

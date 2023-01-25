@@ -88,16 +88,7 @@ body {
   max-width: 100%;
 }
 
-/* === A bit of a gross hack so we can have bleeding divs. */
-
-p,
-*:not(div):not(img):not(body):not(html):not(ul):not(li):not(p):not(header):not(nav) {
-  margin: 1rem auto 1rem;
-  max-width: 36rem;
-  padding: .25rem;
-}
-
-.nav-header {
+#menu {
   line-height: 1;
   padding: 0;
   margin: auto;
@@ -110,7 +101,7 @@ p,
   line-height: 1;
 }
 
-.nav-menu {
+.nav ul {
   align-items: center;
   display: flex;
   font-family: sans-serif;
@@ -121,19 +112,15 @@ p,
   margin: 0;
 }
 
-li.nav-item {
+.nav ul li {
   display: list-item;
   text-align: match-parent;
   list-style: none;
 }
 
-li.nav-item a {
+.nav ul li a {
   text-decoration: none;
   color: #777;
-}
-
-div img {
-  width: 100%;
 }
 
 #footer {
@@ -146,14 +133,6 @@ div img {
 li {
   margin-left: 2rem;
 }
-
-/* Counteract the specificity of the gross *:not() chain. */
-
-h1 {
-  padding: 4rem 0 !important;
-}
-
-/*  === End gross hack */
 
 p {
   color: #555;

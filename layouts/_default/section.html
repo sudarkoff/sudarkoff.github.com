@@ -4,7 +4,7 @@
       {{ .Content }}
       <ul class="contents">
       {{ range .Paginator.Pages }}
-          <li>{{.Title}}
+          <li><a href="{{ .Permalink }}">{{ .Title }}</a>
               <div>
                 <!-- partial "summary.html" . -->
               </div>

@@ -189,7 +189,7 @@ a.button {
 .pagination {
     height: 36px;
     margin: 18px 0;
-    color: #6c58bF;
+    color: #e99153;
 }
 
 .pagination ul {
@@ -210,14 +210,14 @@ a.button {
 
 .pagination li {
     display: inline;
-    color: #6c58bF;
+    #color: #6c58bF;
 }
 
 .pagination a {
     float: left;
     padding: 0 14px;
     line-height: 34px;
-    color: #6c58bF;
+    color: #e99153;
     text-decoration: none;
     border: 1px solid #ddd;
     border-left-width: 0;
@@ -225,12 +225,12 @@ a.button {
 
 .pagination a:hover,
 .pagination .active a {
-    background-color: #6c58bF;
+    background-color: #e99153;
     color: #ffffff;
 }
 
 .pagination a:focus {
-    background-color: #6c58bF;
+    background-color: #e99153;
     color: #ffffff;
 }
 
@@ -274,7 +274,7 @@ a.button {
     margin-bottom: 18px;
     list-style: none;
     text-align: center;
-    color: #6c58bF;
+    color: #e99153;
     *zoom: 1;
 }
 
@@ -290,13 +290,13 @@ a.button {
 
 .pager li {
     display: inline;
-    color: #6c58bF;
+    color: #e99153;
 }
 
 .pager a {
     display: inline-block;
     padding: 5px 14px;
-    color: #6c58bF;
+    color: #e99153;
     background-color: #fff;
     border: 1px solid #ddd;
     -webkit-border-radius: 15px;

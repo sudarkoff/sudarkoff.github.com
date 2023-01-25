@@ -6,7 +6,13 @@
             {{ range .Paginator.Pages }}
             <h2>{{ .Title }}</h2>
             <div>
-                {{ .Summary }}
+                <section>
+                    <div id="date">{{ .Date.Format "Mon Jan 2, 2006" }}</div>
+                    <div id="wordcount">{{ .WordCount }} Words</div>
+                </section>
+                <section>
+                    {{ .Summary }}
+                </section>
             </div>
             <div><a href="{{ .RelPermalink }}">Read more…</a></div>
         {{ end }}

@@ -1,13 +1,17 @@
 {{ define "main" }}
   <main>
-      {{ partial "breadcrumbs.html" . }}
       {{ .Content }}
       <ul class="contents">
       {{ range .Paginator.Pages }}
-          <li><a href="{{ .Permalink }}">{{ .Title }}</a>
+          <li><a href="{{ .RelPermalink }}">{{ .Title }}</a>
               <div>
-                <!-- partial "summary.html" . -->
+                {{ .Summary }}
               </div>
+              {{ if .Truncated }}
+              <div>
+                <a href="{{ .RelPermalink }}">Read more…</a>
+              </div>
+              {{ end }}
           </li>
       {{ end }}
       </ul>

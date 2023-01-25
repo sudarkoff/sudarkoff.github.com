@@ -2,8 +2,6 @@
 title: Salted salmon
 date: 2005-04-25T12:00-0800
 ---
-You're sick and tired of drinking your Bud and want to turn it up a notch to start enjoying your life again? First of all, don't drink cheap beer! And to top it off, here's one of my favorite family recipes.
-
 ## Ingredients
 - 1 package of fresh salmon from Costco (approx. $11) sans 5 'tail' inches
 - 1 jar of kosher flake salt from Trader Joe's (about 75 grams)
@@ -11,4 +9,10 @@ You're sick and tired of drinking your Bud and want to turn it up a notch to sta
 - bay leaf ad libitum
 
 ## Method
-Cut the remaining piece of fish in half, wash it and dry it with paper towels. Rub pieces of fish with salt. Sprinkle a little bit of salt and peppers onto the bottom of the pot, and lay one of the pieces flat on the bottom of pot. Take some peppers and press them into the fish, then sprinkle some salt onto it. Lay the other piece of fish right on top of the first one. Repeat the procedure with pepper and salt. You should use up all salt and pepper by this moment. Place a saucer or a small plate on top of the fish stack, and put some weight on it (half-gallon of water in some container will do just fine). Let the pot stand uncovered on the kitchen counter for half a day (room temperature) and then move it (still uncovered) to the fridge. In another 36 hours the fish is ready to be served and enjoyed with your favorite brand of Czech beer!
+1. Cut the pieces of salmon in half, wash them and dry with paper towels. 
+2. Rub some salt into salmon.
+3. Sprinkle some salt and peppers on the bottom of the pot, and lay the first piece of salmon flat in the pot. Take some peppers and press them into the salmon, then sprinkle some salt as well.
+4. Place the remaining pieces on top of each other, repeating the procedure with pepper and salt. You should use up all the salt and pepper by the end.
+5. Place a saucer or a small plate on top of the salmon stack, and put some weight on it (half a gallon of water in a container will do just fine).
+6. Let the pot stand uncovered on the kitchen counter for half a day at room temperature and then move it still uncovered to the fridge.
+7. In another 36 hours the salmon is ready to be served and enjoyed with your favorite brand of Czech beer!

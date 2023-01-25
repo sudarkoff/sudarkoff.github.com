@@ -7,14 +7,10 @@
             <h2>{{ .Title }}</h2>
             <div>
                 <section>
-                    <div id="date">{{ .Date.Format "Mon Jan 2, 2006" }}</div>
-                    <div id="wordcount">{{ .WordCount }} Words</div>
-                </section>
-                <section>
                     {{ .Summary }}
                 </section>
             </div>
-            <div><a href="{{ .RelPermalink }}">Read more…</a></div>
+            <div class="meta">{{ .Date.Format "Jan 2, 2006" }} | {{ .WordCount }} Words | <a href="{{ .RelPermalink }}">Read more…</a></div>
         {{ end }}
         </div>
       <!-- partial "pagination.html" . -->

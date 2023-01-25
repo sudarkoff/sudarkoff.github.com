@@ -1,20 +1,15 @@
 {{ define "main" }}
-  <main>
-      {{ .Content }}
-      <ul class="contents">
-      {{ range .Paginator.Pages }}
-          <li><a href="{{ .RelPermalink }}">{{ .Title }}</a>
-              <div>
+    <main>
+        {{ .Content }}
+        <div class="contents">
+        {{ range .Paginator.Pages }}
+            <h2>{{ .Title }}</h2>
+            <div>
                 {{ .Summary }}
-              </div>
-              {{ if .Truncated }}
-              <div>
-                <a href="{{ .RelPermalink }}">Read more…</a>
-              </div>
-              {{ end }}
-          </li>
-      {{ end }}
-      </ul>
+            </div>
+            <div><a href="{{ .RelPermalink }}">Read more…</a></div>
+        {{ end }}
+        </ul>
       <!-- partial "pagination.html" . -->
-  </main>
+    </main>
 {{ end }}

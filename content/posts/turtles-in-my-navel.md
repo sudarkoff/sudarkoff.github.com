@@ -1,6 +1,6 @@
 ---
 title: "Turtles in my navel"
-date: 2010-08-18T12:29-0800
+date: 2010-08-18T12:29:00-0800
 ---
 Turtles in my navel are having an argument: “It’s not my turn to take out the trash,” hisses Greg, “why do you insist that it is?” A vein on his right temple is pulsing a steady 60 beats per minute; he manages to stay mostly calm – he loves Patricia, after all.
 

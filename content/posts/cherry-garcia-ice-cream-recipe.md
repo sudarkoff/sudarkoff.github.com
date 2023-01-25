@@ -1,6 +1,6 @@
 ---
 title: Cherry Garcia ice cream
-date: 2010-05-29T12:00-0800
+date: 2010-05-29T12:00:00-0800
 ---
 I made this recipe a number of times and the results are always excellent!
 

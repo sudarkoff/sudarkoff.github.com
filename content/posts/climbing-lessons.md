@@ -1,6 +1,6 @@
 ---
 title: Rock climbing lessons
-date: 2012-11-05T12:00-0800
+date: 2012-11-05T12:00:00-0800
 ---
 There are many lessons to be learned from rock climbing, but the following three are the main ones for me. 
 

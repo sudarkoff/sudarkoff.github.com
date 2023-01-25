@@ -1,6 +1,6 @@
 ---
 title: "Markdown + Pandoc Workflow"
-date: 2012-01-15T12:24-0800
+date: 2012-01-15T12:00:00-0800
 ---
 ## Requirements
 

@@ -1,6 +1,6 @@
 ---
 title: Rock climbing First-Aid kit
-date: 2012-06-26T12:00-0800
+date: 2012-06-26T12:00:00-0800
 ---
 **Disclaimer:** I’m not a doctor, yadda-yadda-yadda. Simply having a first-aid kit in your pack is neither going to keep you safe, nor magically save somebody’s life if you have no idea how to use it. If you climb outdoors, do yourself a favor and take a Wilderness First Aid or a similar class.
 

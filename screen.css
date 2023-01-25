@@ -179,3 +179,8 @@ a.button {
   text-transform: uppercase;
   text-decoration: none;
 }
+
+.meta {
+    font-size: .707em;
+    text-decoration: italic;
+}

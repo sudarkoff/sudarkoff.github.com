@@ -190,7 +190,6 @@ a.button {
     height: 36px;
     margin: 18px 0;
     color: #e99153;
-    text-align: center;
 }
 
 .pagination ul {
@@ -201,6 +200,7 @@ a.button {
     margin-left: 0;
     color: #ffffff;
     margin-bottom: 0;
+    text-align: center;
     -webkit-border-radius: 3px;
     -moz-border-radius: 3px;
     border-radius: 3px;

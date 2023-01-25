@@ -2,7 +2,6 @@
 <main>
         {{ .Content }}
         <div class="contents">
-            {{ template "_internal/pagination.html" . }}
             {{ range .Paginator.Pages }}
             <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
             <div>
@@ -13,6 +12,6 @@
             <div class="meta">{{ .Date.Format "Jan 2, 2006" }} | {{ .WordCount }} Words | <a href="{{ .RelPermalink }}">Read more…</a></div>
         {{ end }}
         </div>
-      <!-- partial "pagination.html" . -->
+        {{ template "_internal/pagination.html" . }}
     </main>
 {{ end }}

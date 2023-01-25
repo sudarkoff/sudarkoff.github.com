@@ -4,7 +4,7 @@
         <div class="contents">
             {{ template "_internal/pagination.html" . }}
             {{ range .Paginator.Pages }}
-            <h2>{{ .Title }}</h2>
+            <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
             <div>
                 <section>
                     {{ .Summary }}

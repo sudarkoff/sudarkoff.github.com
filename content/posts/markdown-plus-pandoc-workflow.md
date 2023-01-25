@@ -5,19 +5,19 @@ date: 2012-01-15T12:24-0800
 
 # Requirements
 
-This article outlines my setup and workflow for writing documents using [Markdown] and [pandoc]. This is a workflow that I personally find natural and convenient. There are some very important limitations (discussed below), but I've been successfully using this workflow for quite some time and it seems to be working great.
+This article outlines my setup and workflow for writing documents using [Markdown](https://daringfireball.net/projects/markdown/) and [pandoc](https://pandoc.org). This is a workflow that I personally find natural and convenient. There are some very important limitations (discussed below), but I've been successfully using this workflow for quite some time and it seems to be working great.
 
 Main requirements for my workflow were:
 
--   plain text editing
--   keeping track of multiple revisions
--   collaboration with multiple simultaneous remote and offline authors
--   support for multiple target output formats
--   automated publishing (through an external build system and such)
+- plain text editing
+- keeping track of multiple revisions
+- collaboration with multiple simultaneous remote and offline authors
+- support for multiple target output formats
+- automated publishing (through an external build system and such)
 
 ## Limitations
 
-Note that publishing is a one-way process in this workflow. If you publish on a Wiki, then you'll need to find a way to pull the changes from Wiki back into your "source" document. I'm using [Git-MediaWiki] bridge to publish/update articles to/from our corporate wiki. I've also looked into replacing MediaWiki with [gitit] which uses Git as a backend and therefore would have allowed me to push/pull to it directly, but presently the feature set is not complete enough to be a viable replacement. 
+Note that publishing is a one-way process in this workflow. If you publish on a Wiki, then you'll need to find a way to pull the changes from Wiki back into your "source" document. I'm using Git-MediaWiki bridge to publish/update articles to/from our corporate wiki. I've also looked into replacing MediaWiki with gitit which uses Git as a backend and therefore would have allowed me to push/pull to it directly, but presently the feature set is not complete enough to be a viable replacement. 
 
 # Workflow
 
@@ -25,19 +25,19 @@ A lot of the pieces of this workflow are not strictly necessary - you can launch
 
 ## SCM
 
-The first component of my workflow is an SCM. I happen to prefer [Git], but any reasonable SCM will do. Anything and everything related to the document I'm working on is version-controlled. That includes an outline, notes, images, supporting scripts and so on. This allows me to focus on my writing and not worry about keeping track of multiple revisions, making a backup copy, merging multiple versions of the document and so on. It also allows me to evolve the accompanying tools (Makefiles, scripts, etc.) along with the document. Git in particular makes collaboration with multiple authors dramatically easier - authors work on their pieces in their own repositories and/or branches without stepping on each other's toes and then gracefully merge everything back together.
+The first component of my workflow is an SCM. I happen to prefer [Git](https://git-scm.com), but any reasonable SCM will do. Anything and everything related to the document I'm working on is version-controlled. That includes an outline, notes, images, supporting scripts and so on. This allows me to focus on my writing and not worry about keeping track of multiple revisions, making a backup copy, merging multiple versions of the document and so on. It also allows me to evolve the accompanying tools (Makefiles, scripts, etc.) along with the document. Git in particular makes collaboration with multiple authors dramatically easier - authors work on their pieces in their own repositories and/or branches without stepping on each other's toes and then gracefully merge everything back together.
 
 ## Writing
 
-Once again, I happen to prefer [Vim], but any reasonable editor would do (e.g.: [TextMate] on Mac, [gEdit] on Linux or [Notepad++] on Windows).
+Once again, I happen to prefer Vim, but any reasonable editor would do (e.g.: TextMate on Mac, gEdit on Linux or Notepad++ on Windows).
 
 Some text editors are better than others. Particular Vim features (extended by a few strategically picked plugins) that would make your writing more pleasant include automatic indenting of lines in a certain way, inserting matching brackets for links, syntax highlighting, not slowing me down when working remotely through a slow internet connection (which happens more often that I'd like) and so on.
 
-For formatting the text I use [Markdown] - my first secret ingredient. It is a plain text formatting syntax and as the author himself puts it: "the overriding design goal for Markdown’s formatting syntax is to make it as readable as possible. The idea is that a Markdown-formatted document should be publishable as-is, as plain text, without looking like it’s been marked up with tags or formatting instructions." And it's a very important feature because, once again, it allows me to focus on my writing rather than on formatting the text. Markdown is easy and unobtrusive to write and it doesn't get in the way when you read the document. At the same time, it's easily convertible to a plethora of fancier-looking formats. Which brings us to the next tool - Pandoc.
+For formatting the text I use [Markdown](https://daringfireball.net/projects/markdown/) - my first secret ingredient. It is a plain text formatting syntax and as the author himself puts it: "the overriding design goal for Markdown’s formatting syntax is to make it as readable as possible. The idea is that a Markdown-formatted document should be publishable as-is, as plain text, without looking like it’s been marked up with tags or formatting instructions." And it's a very important feature because, once again, it allows me to focus on my writing rather than on formatting the text. Markdown is easy and unobtrusive to write and it doesn't get in the way when you read the document. At the same time, it's easily convertible to a plethora of fancier-looking formats. Which brings us to the next tool - Pandoc.
 
 ## Pandoc
 
-[Pandoc] is the second secret ingredient. It takes Markdown (in addition to a half dozen other formats) and converts it to a couple dozen other formats including HTML, Microsoft Word, PDF, EPUB and MediaWiki. Pandoc also introduces a few important extensions to Markdown that make it even easier to write content-rich documents. And all in plain text!
+[pandoc](https://pandoc.org) is the second secret ingredient. It takes Markdown (in addition to a half dozen other formats) and converts it to a couple dozen other formats including HTML, Microsoft Word, PDF, EPUB and MediaWiki. Pandoc also introduces a few important extensions to Markdown that make it even easier to write content-rich documents. And all in plain text!
 
 ## Makefile
 
@@ -59,18 +59,19 @@ The following text fragment is a Markdown-formatted first section of this articl
 
 # Requirements
 
-This article outlines my setup and workflow for writing documents using [Markdown](http://daringfireball.net/projects/markdown/syntax) and [pandoc](http://johnmacfarlane.net/pandoc/). This is a workflow that I personally find natural and convenient. There are some very important limitations (discussed below), but I've been successfully using this workflow for quite some time and it seems to be working great.
+This article outlines my setup and workflow for writing documents using [Markdown](https://daringfireball.net/projects/markdown/)(http://daringfireball.net/projects/markdown/syntax) and [pandoc](https://pandoc.org)(http://johnmacfarlane.net/pandoc/). This is a workflow that I personally find natural and convenient. There are some very important limitations (discussed below), but I've been successfully using this workflow for quite some time and it seems to be working great.
 
 Main requirements for my workflow were:
 
--   plain text editing
--   keeping track of multiple revisions
--   collaboration with multiple simultaneous remote and offline authors
--   support for multiple target output formats
--   automated publishing (through an external build system and such)
+- plain text editing
+- keeping track of multiple revisions
+- collaboration with multiple simultaneous remote and offline authors
+- support for multiple target output formats
+- automated publishing (through an external build system and such)
 
-Makefile could be as [complex] or as simple as you desire. The following is an example of a fairly trivial one:
+Makefile could be as complex or as simple as you desire. The following is an example of a fairly trivial one:
 
+```
 %.html: %.md style.css
     pandoc -c style.css -o $@ $<
 
@@ -81,3 +82,4 @@ Makefile could be as [complex] or as simple as you desire. The following is an e
     pandoc -o $@ $<
 
 all: doc.html doc.docx doc.pdf
+```

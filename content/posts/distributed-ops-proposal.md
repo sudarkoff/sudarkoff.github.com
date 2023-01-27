@@ -32,4 +32,4 @@ Attendees will learn how to distribute operations in a consistent and efficient 
 George Sudarkoff is an infrastructure engineering manager at SurveyMonkey. Before embracing the world of operations, he spent a couple of decades doing software development in a wide variety of areas from financial services, semiconductor fab automation, robot control, real-time image processing and networking to virtualization, distributed storage and web development. In his copious spare time, he could be found either rock-climbing or in his wood shop making furniture. 
 
 ---- 
-{{< embed-pdf url="./resources/distributed_ops_velocity_amsterdam_2016.pdf" >}}
+{{< embed-pdf url="/files/distributed_ops_velocity_amsterdam_2016.pdf" >}}

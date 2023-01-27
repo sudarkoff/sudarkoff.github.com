@@ -180,7 +180,8 @@ a.button {
   text-decoration: none;
 }
 
-.meta {
+.meta,
+#post-date {
     font-size: .707em;
     text-decoration: italic;
 }
@@ -324,3 +325,13 @@ a.button {
 }
 
 /* end pagination */
+
+/* next/prev post links */
+.previous {
+   float: left; 
+}
+
+.next {
+    float: right;
+}
+/* end next/prev */

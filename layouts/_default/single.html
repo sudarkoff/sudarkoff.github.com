@@ -14,7 +14,7 @@
 <aside id="meta">
     <div>
     <section>
-      <div>{{ .Date.Format "Jan 2, 2006" }} | {{ .WordCount }} Words</div>
+      <div id="post-date">{{ .Date.Format "Jan 2, 2006" }} | {{ .WordCount }} Words</div>
   </section>
     {{ with .Params.topics }}
     <ul id="topics">

@@ -1,6 +1,6 @@
 ---
 title: Scripting versus automation
-date: 2014-09-15T12:00-0800
+date: 2014-09-15T12:00:00-0800
 ---
 _This email was originally sent to the engineering org of a company I worked for at the time._
 

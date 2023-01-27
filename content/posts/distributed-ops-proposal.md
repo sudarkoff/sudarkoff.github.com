@@ -2,10 +2,10 @@
 title: Distributed Ops for Distributed Apps
 date: 2016-02-10T12:00:00-0800
 ---
-_My proposal for a talk I delivered at Velocity Amsterdam, 2016_
+_My proposal for a talk I delivered at Velocity Amsterdam, 2016. Slides are included at the bottom of the page._
 
 ## Description
-_400 characters_
+_Up to 400 characters_
 
 In the world of microservices, when things are moving fast and constantly breaking, the accepted wisdom is that teams must own the whole stack and operate their services themselves. But how much stack is "the whole stack"? How do we ensure that operational standards are consistent across the organization? What's the right balance between consistent standards and the ability to move fast?
 

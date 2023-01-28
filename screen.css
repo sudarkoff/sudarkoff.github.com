@@ -149,8 +149,8 @@ pre {
 
 blockquote {
     border-left: 3px solid #e99153;
-    padding: 1em 2em 1em;
-    margin: 50px auto;
+    padding: 1em 2em 1em 4em ;
+    margin: auto;
     position: relative;
     width: 60%;
     background: #f5f8fa;

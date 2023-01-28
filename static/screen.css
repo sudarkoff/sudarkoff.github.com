@@ -145,10 +145,40 @@ pre {
   overflow-x: scroll;
 }
 
+/* blockquote */
+
 blockquote {
-  border-left: 3px solid #e99153;
-  margin-left: 1em;
+    border-left: 3px solid #e99153;
+    padding: 1em 2em 1em;
+    margin: 50px auto;
+    position: relative;
+    width: 60%;
+    background: #f5f8fa;
+    font-style: italic;
 }
+
+blockquote::before{
+  font-family: Arial;
+  content: "\201C";
+  color: #e99153;
+  font-size: 4em;
+  position: absolute;
+  left: 10px;
+  top: -10px;
+}
+
+blockquote::after{
+  content: '';
+}
+
+blockquote span{
+  display: block;
+  font-style: normal;
+  font-weight: bold;
+  margin-top: 1em;
+}
+
+/* end blockquote */
 
 a,
 a:visited {

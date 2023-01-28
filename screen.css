@@ -180,6 +180,13 @@ a.button {
   text-decoration: none;
 }
 
+img[alt="headshot"] {
+    width: 100px;
+    height: 100px;
+    float: left;
+    padding-right: 1em;
+}
+
 .meta,
 #post-date {
     font-size: .707em;

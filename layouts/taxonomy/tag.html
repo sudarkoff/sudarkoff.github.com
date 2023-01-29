@@ -1,11 +1,17 @@
-<ul>
-    {{ range .Data.Pages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
-    <div>
-        <section>
-            {{ .Summary }}
-        </section>
-    </div>
-    <div class="meta">{{ .Date.Format "Jan 2, 2006" }} | {{ .WordCount }} Words | <a href="{{ .RelPermalink }}">Read more…</a></div>
-    {{ end }}
-</ul>
+{{ define "title" }}
+    {{ .Title }} — {{ .Site.Title }}
+{{ end }}
+
+{{ define "main" }}
+    <ul>
+        {{ range .Data.Pages }}
+        <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+        <div>
+            <section>
+                {{ .Summary }}
+            </section>
+        </div>
+        <div class="meta">{{ .Date.Format "Jan 2, 2006" }} | {{ .WordCount }} Words | <a href="{{ .RelPermalink }}">Read more…</a></div>
+        {{ end }}
+    </ul>
+{{ end }}

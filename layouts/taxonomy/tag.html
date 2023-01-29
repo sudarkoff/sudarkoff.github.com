@@ -1,10 +1,9 @@
 {{ define "title" }}
-    {{ .Title }} — {{ .Site.Title }}
+    {{ .Title | humanize }} — {{ .Site.Title }}
 {{ end }}
 
 {{ define "main" }}
-{{ partial "breadcrumbs" }}
-    <h1>Tag: {{ .Title }}</h1>
+    <h1>{{ .Title | humanize }}</h1>
     {{ range .Paginator.Pages }}
         <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
         <div>

@@ -3,8 +3,9 @@
 {{ end }}
 
 {{ define "main" }}
+    <h1>Tag: {{ .Title }}</h1>
     <ul>
-        {{ range .Data.Pages }}
+        {{ range .Paginator.Pages }}
         <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
         <div>
             <section>
@@ -14,4 +15,5 @@
         <div class="meta">{{ .Date.Format "Jan 2, 2006" }} | {{ .WordCount }} Words | <a href="{{ .RelPermalink }}">Read more…</a></div>
         {{ end }}
     </ul>
+{{ template "_internal/pagination.html" . }}
 {{ end }}

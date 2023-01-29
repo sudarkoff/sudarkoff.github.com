@@ -3,9 +3,9 @@
 {{ end }}
 
 {{ define "main" }}
+{{ partial "breadcrumbs" }}
     <h1>Tag: {{ .Title }}</h1>
-    <ul>
-        {{ range .Paginator.Pages }}
+    {{ range .Paginator.Pages }}
         <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
         <div>
             <section>
@@ -13,7 +13,6 @@
             </section>
         </div>
         <div class="meta">{{ .Date.Format "Jan 2, 2006" }} | {{ .WordCount }} Words | <a href="{{ .RelPermalink }}">Read more…</a></div>
-        {{ end }}
-    </ul>
+    {{ end }}
 {{ template "_internal/pagination.html" . }}
 {{ end }}

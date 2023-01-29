@@ -1,0 +1,5 @@
+baseURL: 'https://george.sudarkoff.com'
+languageCode: 'en-us'
+title: 'George Sudarkoff'
+taxonomies:
+    tag: tags

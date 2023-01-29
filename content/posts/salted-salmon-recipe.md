@@ -1,6 +1,7 @@
 ---
 title: Salted salmon
 date: 2005-04-25T12:00:00-0800
+tags: [cooking]
 ---
 ## Ingredients
 - 1 package of fresh salmon from Costco (approx. $11) sans 5 'tail' inches

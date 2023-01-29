@@ -1,6 +1,7 @@
 ---
 title: Rock climbing lessons
 date: 2012-11-05T12:00:00-0800
+tags: [climbing, self-improvement]
 ---
 There are many lessons to be learned from rock climbing, but the following three are the main ones for me. 
 

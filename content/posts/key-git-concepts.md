@@ -1,6 +1,7 @@
 ---
 title: "Key Git concepts"
 date: 2013-05-23T20:46:53-0800
+tags: [programming]
 ---
 Understanding a few key concepts will help you make sense of how Git works and how to use it effectively.
 

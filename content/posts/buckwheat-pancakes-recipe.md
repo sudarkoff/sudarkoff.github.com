@@ -1,6 +1,7 @@
 ---
 title: Buckwheat pancakes
 date: 2010-09-17T12:00:00-0800
+tags: [cooking]
 ---
 This is my favorite recipe for pancakes. I made it a dozen times in the last few months. Please note that ratios are given **by weight**, not volume. Invest in kitchen scale if you’re serious about cooking, they make getting consistent results so much easier.
 

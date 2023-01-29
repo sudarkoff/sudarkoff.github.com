@@ -1,6 +1,7 @@
 ---
 title: Scripting versus automation
 date: 2014-09-15T12:00:00-0800
+tags: [programming, systems]
 ---
 _This was originally shared with the engineering org of a company I worked for at the time. It's my stream of consciousness about the type of system my team was building at the time. Reproducing here without modifications, enjoy the chaos of my unedited remblings._
 

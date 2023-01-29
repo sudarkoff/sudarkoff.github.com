@@ -1,6 +1,7 @@
 ---
 title: Distributed Ops for Distributed Apps
 date: 2016-02-10T12:00:00-0800
+tags: [conference-talk, slidedeck]
 ---
 _My proposal for a talk I delivered at Velocity Amsterdam, 2016. Slides are included at the bottom of the page._
 

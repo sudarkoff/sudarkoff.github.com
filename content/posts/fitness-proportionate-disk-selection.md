@@ -1,6 +1,7 @@
 ---
 title: Fitness Proportionate Disk Selection
 date: 2013-05-01T12:00:00-0800
+tags: [programming]
 ---
 _This is a proposal I made for improving the disk selection algorithm of a distributed file storage system._
 

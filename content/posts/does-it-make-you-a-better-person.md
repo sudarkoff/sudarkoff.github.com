@@ -1,6 +1,7 @@
 ---
 title: Does It Make You A Better Person?
 date: 2014-09-03T12:00:00-0800
+tags: [self-improvement]
 ---
 Does running make you a better person? Does climbing mountains make you a better person? Does becoming a parent make you a better person?
 

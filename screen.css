@@ -243,6 +243,11 @@ img[alt="headshot"] {
     padding-right: 1em;
 }
 
+img[alt="icon"] {
+    float: left;
+    padding-right: 0.5em;
+}
+
 .meta,
 #post-date {
     font-size: .707em;

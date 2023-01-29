@@ -2,14 +2,22 @@
     <main>
         {{ .Content }}
         <div class="contents">
+            <h1>Tag: {{ .Data.Name }}</h1>
             <ul>
-              {{ range .Data.Pages }}
-              <li>
-                <a href="{{.RelPermalink}}">{{ .Title }}</a>
-              </li>
-              {{ end }}
+                <!--{{ range .Data.Pages }}-->
+                {{ range .Paginator.Pages }}              
+                    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+                    <div>
+                        <section>
+                            {{ .Summary }}
+                        </section>
+                    </div>
+                    <div class="meta">{{ .Date.Format "Jan 2, 2006" }} | {{ .WordCount }} Words | <a href="{{ .RelPermalink }}">Read more…</a></div>
+            {{ end }}
             </ul>
         </div>
         {{ template "_internal/pagination.html" . }}
     </main>
 {{ end }}
+
+

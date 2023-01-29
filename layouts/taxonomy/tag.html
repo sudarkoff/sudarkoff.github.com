@@ -1,7 +1,15 @@
-<ul>
-  {{ range .Data.Pages }}
-  <li>
-    <a href="{{.RelPermalink}}">{{ .Title }}</a>
-  </li>
-  {{ end }}
-</ul>
+{{ define "main" }}
+    <main>
+        {{ .Content }}
+        <div class="contents">
+            <ul>
+              {{ range .Data.Pages }}
+              <li>
+                <a href="{{.RelPermalink}}">{{ .Title }}</a>
+              </li>
+              {{ end }}
+            </ul>
+        </div>
+        {{ template "_internal/pagination.html" . }}
+    </main>
+{{ end }}

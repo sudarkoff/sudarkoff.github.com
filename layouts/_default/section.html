@@ -1,5 +1,5 @@
 {{ define "main" }}
-<main>
+    <main>
         {{ .Content }}
         <div class="contents">
             {{ range .Paginator.Pages }}
@@ -10,7 +10,7 @@
                 </section>
             </div>
             <div class="meta">{{ .Date.Format "Jan 2, 2006" }} | {{ .WordCount }} Words | <a href="{{ .RelPermalink }}">Read more…</a></div>
-        {{ end }}
+            {{ end }}
         </div>
         {{ template "_internal/pagination.html" . }}
     </main>

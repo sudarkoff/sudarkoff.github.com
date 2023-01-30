@@ -9,7 +9,7 @@ On January 1st, 2012 I sketched an idea—an activity tower for my yet to be bor
 
 The idea was to build the tower out of 3/4-inch plywood, using only my table saw, a router, and a drill press. Here's what I came up with in SketchUp:
 
-![3d sketch](3d-sketch.jpeg)
+![3d sketch](3d-sketch.png)
 
 I didn't want to use the traditional woodworking joinery, like a box joint. I wanted to be able to disasemmble and store or transport the tower flat. So I decided to go the Ikea way and use the bolts to hold the pieces of plywood together. I already had plenty of bolts, but not the barrel nuts. And instead of ordering the nuts from McMaster-Carr I decided to whip up a home-made version from the materials I had on hand. I had a 3/4-inch steel pipe, so I cut it into the appropriately sized pieces and drilled and tapped the holes.
 

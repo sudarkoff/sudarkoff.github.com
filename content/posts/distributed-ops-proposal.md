@@ -3,16 +3,14 @@ title: Distributed Ops for Distributed Apps
 date: 2016-02-10T12:00:00-0800
 tags: [programming, slidedeck]
 ---
-_My proposal for a talk I delivered at Velocity Amsterdam, 2016. Slides are included at the bottom of the page._
+_My proposal for a talk I delivered at Velocity Amsterdam, 2016. Slides are included at the bottom of the page. For the full transcript of the talk, visit https://sudarkoff.blog/p/distributed-ops-for-distributed-apps (paid subscription, free trial available)._
 
 ## Description
-_Up to 400 characters_
 
 In the world of microservices, when things are moving fast and constantly breaking, the accepted wisdom is that teams must own the whole stack and operate their services themselves. But how much stack is "the whole stack"? How do we ensure that operational standards are consistent across the organization? What's the right balance between consistent standards and the ability to move fast?
 
 
 ## Abstract
-_3-6 paragraph, bullet points welcome_
 
 Microservices are like mini companies—they are operated by a single team independently of the rest of the organization. Teams often own the whole stack. They make decisions about what programming languages and frameworks to use, what technologies to utilize and how to operate the service.
 

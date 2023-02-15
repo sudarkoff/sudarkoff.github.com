@@ -8,7 +8,7 @@ This is my personal space dedicated to hobbies, side-projects, and just random s
 
 ![icon](/img/gs-logo.svg) If you're interested in my work as a leadership coach, please visit [sudarkoff.com](https://sudarkoff.com) to learn more about my practice, and to book an intro call.
 
-![icon](/img/medium.svg) For my writing on leadership and related topics, visit [Fail to Succeed](https://failtosucceed.blog).
+![icon](/img/medium.svg) For my writing on leadership and related topics, visit [Sudarkoff.blog](https://sudarkoff.blog).
 
 ![icon](/img/linkedin.svg) My professional profile is available on [LinkedIn](https://linkedin.com/in/sudarkoff) and my Manager README, as well as the most recent tech resume, could be found [here](https://sudarkoff.com/manager-readme).
 

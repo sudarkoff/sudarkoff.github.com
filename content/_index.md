@@ -6,7 +6,7 @@ date: 2023-01-23T17:55:20-0800
 
 This is my personal space dedicated to hobbies, side-projects, and just random stuff I find interesting. Be warned, I've been writing and posting stuff here for a few decades. Some of what I've written might be now out of sync with my tastes, views, and even reality. I choose to leave it all as is for posterity.
 
-![icon](/img/gs-logo.svg) If you're interested in my work as a leadership coach, please visit [sudarkoff.com](https://sudarkoff.com) to learn more about my practice, and to book an intro call.
+![icon](/img/gs-logo.svg) If you're interested in my work as a leadership coach, please visit [Sudarkoff.com](https://sudarkoff.com) to learn more about my practice, and to book a free intro call.
 
 ![icon](/img/medium.svg) For my writing on leadership and related topics, visit [Sudarkoff.blog](https://sudarkoff.blog).
 

@@ -8,6 +8,14 @@
       </header>
       <div class="homepage-content">
         {{.Content}}
+        <hr />
+        {{ range ( where .Site.RegularPages "Type" "posts" | first 3 ) }}
+          <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+          <div>
+            {{ .Summary }}
+          </div>
+          <div class="meta">{{ .Date.Format "Jan 2, 2006" }} | {{ .WordCount }} Words | <a href="{{ .RelPermalink }}">Read more…</a></div>
+        {{end}}
       </div>
     </main>
 {{ end }}

@@ -81,6 +81,9 @@ body {
   margin: 0;
   padding: 1em;
   max-width: 100%;
+}
+
+#contents {
   margin: auto;
 }
 

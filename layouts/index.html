@@ -7,15 +7,15 @@
         {{ end }}
       </header>
       <div class="homepage-content">
-        {{.Content}}
-      </div>
-      <div class="homepage-content">
-        <hr />
-        <ul>
         {{ range ( where .Site.RegularPages "Type" "posts" | first 3 ) }}
-          <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+          <h5><a href="{{ .Permalink }}">{{ .Title }}</a></h5>
+          <div>
+            {{ .Summary }}
+          </div>
+          <div class="meta">{{ .Date.Format "Jan 2, 2006" }} | {{ .WordCount }} Words | <a href="{{ .Permalink }}">Read more…</a></div>
         {{end}}
-        </ul> 
-      </div>
+        <hr />
+        {{.Content}}
+    </div>
     </main>
 {{ end }}

@@ -14,6 +14,6 @@ Be warned, I've been writing and posting here for over three decades. Some of wh
 
 ![icon](/img/linkedin.svg) My professional profile is available on [LinkedIn](https://linkedin.com/in/sudarkoff) and my Manager README, as well as the most recent tech resume, could be found [here](https://sudarkoff.com/manager-readme).
 
-![icon](/img/mastodon.svg) You can also find me on [Mastodon](https://hachyderm.io/@sudarkoff), writing about self-awareness, communication and feedback, and many other leadership-related topics (as well as rambling about stuff, of course).
+![icon](/img/mastodon.svg) You can also find me on [Mastodon](https://sudarkoff.social/@george), writing about self-awareness, communication and feedback, and many other leadership-related topics (as well as rambling about stuff, of course).
 
 ![icon](/img/github.svg) Lastly, the contents of this site, as well as all of my open-source software, electronics, 3D printing, and other projects could be found on my [GitHub](https://github.com/sudarkoff).

@@ -10,10 +10,10 @@ Be warned, I've been writing and posting here for over three decades. Some of wh
 
 ![icon](/img/gs-logo.svg) If you're interested in my work as a leadership coach, please visit [Sudarkoff.com](https://sudarkoff.com) to learn more about my practice, and to book a free intro call.
 
-![icon](/img/substack.svg) For my writing on leadership and related topics, visit [Sudarkoff.blog](https://sudarkoff.blog).
+![icon](/img/substack.svg) For my writing on leadership and related topics, visit [Sudarkoff.com/blog](https://sudarkoff.com/blog).
 
 ![icon](/img/linkedin.svg) My professional profile is available on [LinkedIn](https://linkedin.com/in/sudarkoff) and my Manager README, as well as the most recent tech resume, could be found [here](https://sudarkoff.com/manager-readme).
 
-![icon](/img/mastodon.svg) You can also find me on [Mastodon](https://sudarkoff.social/@george), writing about self-awareness, communication and feedback, and many other leadership-related topics (as well as rambling about stuff, of course).
+![icon](/img/bluesky.svg) You can also find me on [BlueSky](https://bsky.app/profile/sudarkoff.com).
 
 ![icon](/img/github.svg) Lastly, the contents of this site, as well as all of my open-source software, electronics, 3D printing, and other projects could be found on my [GitHub](https://github.com/sudarkoff).
